@@ -1,0 +1,1148 @@
+FID,ogc_fid,plant_name,utility_na,sector_nam,city,county,statename,zip,primsource,total_mw,tech_desc
+powerplant_wind_2020.78,78,Foote Creek I,PacifiCorp,Electric Utility,McFadden,Carbon,Wyoming,82084,wind,41.4,Onshore Wind Turbine
+powerplant_wind_2020.1,1,Lamar Plant,City of Lamar - (CO),Electric Utility,Lamar,Prowers,Colorado,81052,wind,7.5,Petroleum Liquids; Onshore Wind Turbine;
+powerplant_wind_2020.2,2,Medicine Bow,SRIV Partnership LLC,IPP Non-CHP,Medicine Bow,Carbon,Wyoming,82329,wind,6.2,Onshore Wind Turbine
+powerplant_wind_2020.3,3,Searsburg Wind Turbine,Green Mountain Power Corp,Electric Utility,Searsburg,Bennington,Vermont,5363,wind,5.2,Onshore Wind Turbine
+powerplant_wind_2020.4,4,Princeton Wind Farm,Town of Princeton - (MA),Electric Utility,Princeton,Worcester,Massachusetts,1541,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.5,5,Solano Wind,Sacramento Municipal Util Dist,Electric Utility,Rio Vista,Solano,California,94512,wind,228.1,Onshore Wind Turbine
+powerplant_wind_2020.6,6,Springview,Bluestem LLC,IPP Non-CHP,Springview,Keya Paha,Nebraska,68778,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.7,7,Moorhead Wind Turbine,City of Moorhead - (MN),Electric Utility,Moorhead,Clay,Minnesota,56560,wind,1.4,Onshore Wind Turbine
+powerplant_wind_2020.8,8,Wind Turbine,Madison Gas & Electric Co,Electric Utility,Casco,Kewaunee,Wisconsin,54205,wind,0.8,Onshore Wind Turbine
+powerplant_wind_2020.9,9,Buffalo Mountain,Tennessee Valley Authority,Electric Utility,Oliver Springs,Anderson,Tennessee,37840,wind,2.1,Onshore Wind Turbine
+powerplant_wind_2020.10,10,Nine Canyon,Energy Northwest,Electric Utility,Kennewick,Benton,Washington,99336,wind,95,Onshore Wind Turbine
+powerplant_wind_2020.11,11,Salt Valley Wind Plant,Lincoln Electric System,Electric Utility,Lincoln,Lancaster,Nebraska,68517,wind,1.4,Onshore Wind Turbine
+powerplant_wind_2020.12,12,Iowa Distributed Wind Generation Project,City of Algona - (IA),Electric Utility,Algona,Kossuth,Iowa,50511,wind,2.3,Onshore Wind Turbine
+powerplant_wind_2020.13,13,Chamberlain Wind Project,Basin Electric Power Coop,Electric Utility,Chamberlain,Brule,South Dakota,57325,wind,2.6,Onshore Wind Turbine
+powerplant_wind_2020.14,14,Dinosaur Point,International Turbine Res Inc,IPP Non-CHP,Los Banos,Merced,California,93635,wind,17,Onshore Wind Turbine
+powerplant_wind_2020.15,15,Tehachapi Wind Resource I,CalWind Resources Inc,IPP Non-CHP,Tehachapi,Kern,California,93581,wind,8.7,Onshore Wind Turbine
+powerplant_wind_2020.16,16,Cameron Ridge LLC,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,59.6,Onshore Wind Turbine
+powerplant_wind_2020.17,17,Ridgetop Energy LLC,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,29,Onshore Wind Turbine
+powerplant_wind_2020.18,18,Karen Avenue Wind Farm,San Gorgonio Farms Inc,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,11.7,Onshore Wind Turbine
+powerplant_wind_2020.19,19,Wintec Energy Ltd,Wintec Energy Ltd,IPP Non-CHP,Palm Springs,Riverside,California,92258,wind,5.9,Onshore Wind Turbine
+powerplant_wind_2020.20,20,San Gorgonio Farms Wind Farm,San Gorgonio Farms Inc,IPP Non-CHP,Whitewater,Riverside,California,92282,wind,31,Onshore Wind Turbine
+powerplant_wind_2020.21,21,Victory Garden (Tehachapi),Wind Stream Operations LLC,IPP Non-CHP,Tehachapi,Kern,California,93561,wind,18.8,Onshore Wind Turbine
+powerplant_wind_2020.22,22,Mesa Wind Power Corp,Brookfield Renewable Trading and Marketing LP,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,29.9,Onshore Wind Turbine
+powerplant_wind_2020.23,23,Sky River LLC,Sky River LLC,IPP Non-CHP,Tehachapi,Kern,California,93561,wind,76.9,Onshore Wind Turbine
+powerplant_wind_2020.24,24,GPS Cabazon Wind LLC,GlidePath Power Operations LLC,IPP Non-CHP,North Palm Springs,Riverside,California,92230,wind,38.9,Onshore Wind Turbine
+powerplant_wind_2020.25,25,Edom Hills Project 1 LLC,"Red Marlin Wind Ventures, LLC",IPP Non-CHP,Cathedral City,Riverside,California,92235,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.26,26,San Gorgonio Westwinds II LLC,Terra-Gen Operating Co-Wind,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,43.4,Onshore Wind Turbine
+powerplant_wind_2020.27,27,Oak Creek Energy Systems I,Oak Creek Energy System Inc II,IPP Non-CHP,Mojave,Kern,California,93501,wind,34.5,Onshore Wind Turbine
+powerplant_wind_2020.28,28,East Winds Project,Terra-Gen Operating Co-Wind,IPP Non-CHP,Palm Springs,Riverside,California,92262,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.29,29,Mojave 16,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,48,Onshore Wind Turbine
+powerplant_wind_2020.30,30,Mojave 18,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,40.5,Onshore Wind Turbine
+powerplant_wind_2020.31,31,Mojave 4,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,24.3,Onshore Wind Turbine
+powerplant_wind_2020.32,32,Mojave 3,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,22.7,Onshore Wind Turbine
+powerplant_wind_2020.33,33,Mojave 5,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.34,34,85 A,"Tehachapi Wind Wall, LLC",IPP Non-CHP,Tehachapi,Kern,California,93561,wind,14.1,Onshore Wind Turbine
+powerplant_wind_2020.35,35,85 B,"Tehachapi Wind Wall, LLC",IPP Non-CHP,Tehachapi,Kern,California,93561,wind,21.2,Onshore Wind Turbine
+powerplant_wind_2020.36,36,Helzel & Schwarzhoff 88 Wind Farm,"Terra-Gen 251 Wind, LLC",IPP Non-CHP,Tehachapi,Kern,California,93561,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.37,37,Coram Energy LLC (ECT),Brookfield Renewable Trading and Marketing LP,IPP Non-CHP,Tehachapi,Kern,California,93501,wind,7.5,Onshore Wind Turbine
+powerplant_wind_2020.38,38,Coram Energy LLC,Brookfield Renewable Trading and Marketing LP,IPP Non-CHP,Tehachapi,Kern,California,93501,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.39,39,CTV Power Purchase Contract Trust,Brookfield Renewable Trading and Marketing LP,IPP Non-CHP,Tehachapi,Kern,California,93501,wind,4.6,Onshore Wind Turbine
+powerplant_wind_2020.40,40,EDF Renewable Windfarm V Inc,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Birds Landing,Solano,California,94512,wind,15.5,Onshore Wind Turbine
+powerplant_wind_2020.41,41,San Gorgonio Windplant WPP1993,"FPL Energy Operating Services, Inc.",IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,49.5,Onshore Wind Turbine
+powerplant_wind_2020.42,42,TPC Windfarms LLC,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,28.7,Onshore Wind Turbine
+powerplant_wind_2020.43,43,Swanmill Windfarm I,Mark Technologies Corp,IPP Non-CHP,North Palm Springs,Riverside,California,92264,wind,18.7,Onshore Wind Turbine
+powerplant_wind_2020.44,44,Difwind Farms Ltd VI,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,25.3,Onshore Wind Turbine
+powerplant_wind_2020.45,45,Coram Tehachapi,Brookfield Renewable Trading and Marketing LP,IPP Non-CHP,Tehachapi,Kern,California,93501,wind,6.5,Onshore Wind Turbine
+powerplant_wind_2020.46,46,Storm Lake 1,Allete Clean Energy,IPP Non-CHP,Alta,Buena Vista,Iowa,51002,wind,109.4,Onshore Wind Turbine
+powerplant_wind_2020.47,47,Tehachapi Wind Resource II,CalWind Resources Inc,IPP Non-CHP,Tehachapi,Kern,California,93561,wind,21.9,Onshore Wind Turbine
+powerplant_wind_2020.48,48,Ridgetop,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,46.9,Onshore Wind Turbine
+powerplant_wind_2020.49,49,Big Spring Wind Power Facility,Terra-Gen Operating Co-Wind,IPP Non-CHP,Big Spring,Howard,Texas,79720,wind,34.3,Onshore Wind Turbine
+powerplant_wind_2020.50,50,Vansycle,ESI Vansycle Partners LP,IPP Non-CHP,Touchet,Umatilla,Oregon,97835,wind,25,Onshore Wind Turbine
+powerplant_wind_2020.51,51,Ponnequin Phase 1,"Ponnequin Acquisitions, LLC",IPP Non-CHP,"Close to Cheyenne, WY",Weld,Colorado,82001,wind,5.2,Onshore Wind Turbine
+powerplant_wind_2020.52,52,Lake Benton I,Allete Clean Energy,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,56149,wind,104.5,Onshore Wind Turbine
+powerplant_wind_2020.53,53,Lake Benton II,Northern States Power Co - Minnesota,IPP Non-CHP,Ruthton,Pipestone,Minnesota,56170,wind,103.5,Onshore Wind Turbine
+powerplant_wind_2020.54,54,Storm Lake II,Allete Clean Energy,IPP Non-CHP,Alta,Buena Vista,Iowa,51002,wind,76.5,Onshore Wind Turbine
+powerplant_wind_2020.55,55,Woodstock Windfarm,Consolidated Edison Development Inc.,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,9.2,Onshore Wind Turbine
+powerplant_wind_2020.56,56,Lakota Ridge LLC,Energy Operations Group LLC (MN),IPP Non-CHP,Hendricks,Lincoln,Minnesota,56142,wind,11.2,Onshore Wind Turbine
+powerplant_wind_2020.57,57,Shaokatan Hills LLC,Energy Operations Group LLC (MN),IPP Non-CHP,Hendricks,Lincoln,Minnesota,56142,wind,11.8,Onshore Wind Turbine
+powerplant_wind_2020.58,58,Wethersfield Wind Farm,CHI Energy Inc,IPP Non-CHP,Gainesville,Wyoming,New York,14066,wind,6.6,Onshore Wind Turbine
+powerplant_wind_2020.59,59,Green Power I,FPL Energy Green Power,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,16.5,Onshore Wind Turbine
+powerplant_wind_2020.60,60,FPL Energy Vansycle LLC (WA),FPL Energy Vansycle LLC,IPP Non-CHP,Touchet,Walla Walla,Washington,99360,wind,176.9,Onshore Wind Turbine
+powerplant_wind_2020.61,61,Tsar Nicholas LLC,CHI Operations Inc,IPP Non-CHP,Hendricks,Lincoln,Minnesota,56136,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.62,62,Sun River LLC,CHI Operations Inc,IPP Non-CHP,Hendricks,Lincoln,Minnesota,56136,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.63,63,Julia Hills LLC,CHI Operations Inc,IPP Non-CHP,Hendricks,Lincoln,Minnesota,56136,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.64,64,Jessica Mills LLC,CHI Operations Inc,IPP Non-CHP,Hendricks,Lincoln,Minnesota,56136,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.65,65,Jack River LLC,CHI Operations Inc,IPP Non-CHP,Hendricks,Lincoln,Minnesota,56136,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.66,66,Autumn Hills LLC,CHI Operations Inc,IPP Non-CHP,Hendricks,Lincoln,Minnesota,56136,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.67,67,Winters Spawn LLC,CHI Operations Inc,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,55149,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.68,68,Twin Lake Hills LLC,CHI Operations Inc,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,55149,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.69,69,Spartan Hills LLC,CHI Operations Inc,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,55149,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.70,70,Soliloquoy Ridge LLC,CHI Operations Inc,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,55149,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.71,71,Ruthton Ridge LLC,CHI Operations Inc,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,55149,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.72,72,Hope Creek LLC,CHI Operations Inc,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,55149,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.73,73,Hadley Ridge LLC,CHI Operations Inc,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,55149,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.74,74,Florence Hills LLC,CHI Operations Inc,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,55149,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.75,75,Agassiz Beach LLC,CHI Operations Inc,IPP Non-CHP,Averill,Clay,Minnesota,56536,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.76,76,Llano Estacado Wind Ranch,Llano Estacado Wind Ranch,IPP Non-CHP,White Deer,Carson,Texas,79097,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.77,77,King Mountain Wind Ranch 1,FPL Energy Upton Wind LP,IPP Non-CHP,McCamey,Upton,Texas,79752,wind,278,Onshore Wind Turbine
+powerplant_wind_2020.79,79,Foote Creek II,Terra-Gen Operating Co-Wind,IPP Non-CHP,Rock River,Albany,Wyoming,82083,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.80,80,Foote Creek III,Terra-Gen Operating Co-Wind,IPP Non-CHP,Rock River,Albany,Wyoming,82083,wind,24.8,Onshore Wind Turbine
+powerplant_wind_2020.81,81,Foote Creek IV,Terra-Gen Operating Co-Wind,IPP Non-CHP,Rock River,Carbon,Wyoming,82083,wind,16.8,Onshore Wind Turbine
+powerplant_wind_2020.82,82,Mountain View I&2,AES Wind Generation Inc,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,66.6,Onshore Wind Turbine
+powerplant_wind_2020.83,83,Gray County Wind Energy,Gray County Wind Energy LLC,IPP Non-CHP,Montezuma,Gray,Kansas,67867,wind,112,Onshore Wind Turbine
+powerplant_wind_2020.84,84,Condon Windpower LLC,Allete Clean Energy,IPP Non-CHP,Condon,Gilliam,Oregon,97823,wind,49.8,Onshore Wind Turbine
+powerplant_wind_2020.85,85,Rock River I LLC,Shell Wind Energy Inc.,IPP Non-CHP,Rock River,Carbon,Wyoming,82083,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.86,86,Ridge Crest Wind Partners,EDF Renewable Services Inc,IPP Non-CHP,Peetz,Logan,Colorado,80747,wind,29.7,Onshore Wind Turbine
+powerplant_wind_2020.87,87,Montfort Wind Energy Center,Wisconsin Electric Power Co,Electric Utility,Montfort,Iowa,Wisconsin,53569,wind,2.6,Onshore Wind Turbine
+powerplant_wind_2020.88,88,NWP Indian Mesa Wind Farm,NWP Indian Mesa Wind Farm LP,IPP Non-CHP,Iraan,Pecos,Texas,79744,wind,82.5,Onshore Wind Turbine
+powerplant_wind_2020.89,89,Madison Windpower LLC,Madison Windpower LLC,IPP Non-CHP,Madison,Madison,New York,13402,wind,11.5,Onshore Wind Turbine
+powerplant_wind_2020.90,90,Noble Ridge LLC,RENEW Energy Inc,IPP Non-CHP,Wilmont,Nobles,Minnesota,56155,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.91,91,Fenner Wind,CHI Energy Inc,IPP Non-CHP,Cazenovia,Madison,New York,13035,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.92,92,Woodward Mountain II,Pecos Wind II LP,IPP Non-CHP,Girvin,Pecos,Texas,79740,wind,78,Onshore Wind Turbine
+powerplant_wind_2020.93,93,Woodward Mountain I,Pecos Wind I LP,IPP Non-CHP,Girvin,Pecos,Texas,79740,wind,82,Onshore Wind Turbine
+powerplant_wind_2020.94,94,Somerset Windpower LLC,GlidePath Power Operations LLC,IPP Non-CHP,Ohiopyle,Somerset,Pennsylvania,15501,wind,9,Onshore Wind Turbine
+powerplant_wind_2020.95,95,Northern Iowa Windfarm,Black Hills Electric Generation LLC,IPP Non-CHP,Joice,Worth,Iowa,50446,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.96,96,Mill Run Windpower LLC,GlidePath Power Operations LLC,IPP Non-CHP,Rockwood,Somerset,Pennsylvania,15557,wind,15,Onshore Wind Turbine
+powerplant_wind_2020.97,97,Kas Brothers Windfarm,Kas Brothers Windfarm LLC,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56164,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.98,98,Hawkeye Power Partners LLC,Hawkeye Power Partners LLC,IPP Non-CHP,Garner,Cerro Gordo,Iowa,50438,wind,42,Onshore Wind Turbine
+powerplant_wind_2020.99,99,Klondike Wind Power,Avangrid Renewables LLC,IPP Non-CHP,Wasco,Sherman,Oregon,97065,wind,24,Onshore Wind Turbine
+powerplant_wind_2020.100,100,Bay Windpower I,Bay Windpower LLC,IPP Non-CHP,Mackinaw City,Cheboygan,Michigan,49701,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.101,101,Trent Wind Farm LP,Trent Wind Farm LP,IPP Non-CHP,Trent,Nolan,Texas,79561,wind,152,Onshore Wind Turbine
+powerplant_wind_2020.102,102,Champepaden Wind Power,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Chandler,Murray,Minnesota,56122,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.103,103,Moulton Wind Power,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Chandler,Murray,Minnesota,56123,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.104,104,Mountaineer Wind Energy Center,GlidePath Power Operations LLC,IPP Non-CHP,Thomas,Tucker,West Virginia,26292,wind,66,Onshore Wind Turbine
+powerplant_wind_2020.105,105,FPL Energy Vansycle LLC (OR),FPL Energy Vansycle LLC,IPP Non-CHP,Touchet,Umatilla,Oregon,97835,wind,122.8,Onshore Wind Turbine
+powerplant_wind_2020.106,106,Desert Sky,Desert Sky Wind Farm LP,IPP Non-CHP,Iraan,Pecos,Texas,79744,wind,167.7,Onshore Wind Turbine
+powerplant_wind_2020.107,107,Minot Wind Project,Basin Electric Power Coop,Electric Utility,Minot,Ward,North Dakota,58701,wind,7.1,Onshore Wind Turbine
+powerplant_wind_2020.108,108,Waymart Wind,GlidePath Power Operations LLC,IPP Non-CHP,Forest City,Wayne,Pennsylvania,18472,wind,64.5,Onshore Wind Turbine
+powerplant_wind_2020.109,109,Minwind,"Community Renewables, LLC",IPP Non-CHP,Luverne,Rock,Minnesota,56156,wind,3.8,Onshore Wind Turbine
+powerplant_wind_2020.110,110,Hancock County Wind Energy Center,"FPL Energy Hancock County Wind, LLC",IPP Non-CHP,Garner,Hancock,Iowa,50438,wind,98,Onshore Wind Turbine
+powerplant_wind_2020.111,111,Cabazon Wind Partners,Shell Wind Energy Inc.,IPP Non-CHP,Cabazon,Riverside,California,56011,wind,41,Onshore Wind Turbine
+powerplant_wind_2020.112,112,Whitewater Hill Wind Partners,Shell Wind Energy Inc.,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,61.5,Onshore Wind Turbine
+powerplant_wind_2020.113,113,"Meyersdale Windpower, LLC",GlidePath Power Operations LLC,IPP Non-CHP,Meyersdale,Somerset,Pennsylvania,15552,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.114,114,G McNeilus Wind Farm Dodge Center,Garwin McNeilus,IPP Non-CHP,Dodge Center,Dodge,Minnesota,55927,wind,43,Onshore Wind Turbine
+powerplant_wind_2020.115,115,High Winds LLC,"FPLE High Winds, LLC",IPP Non-CHP,Birds Landing,Solano,California,94512,wind,162,Onshore Wind Turbine
+powerplant_wind_2020.116,116,Blue Canyon Windpower,Blue Canyon Windpower LLC,IPP Non-CHP,Carnegie,Comanche,Oklahoma,73015,wind,74.3,Onshore Wind Turbine
+powerplant_wind_2020.117,117,South Dakota Wind Energy Cente,FPL Energy South Dakota Wind LLC,IPP Non-CHP,Highmore,Hyde,South Dakota,57345,wind,40.5,Onshore Wind Turbine
+powerplant_wind_2020.118,118,TransAlta Wyoming Wind,NextEra Energy Operating Services LLC,IPP Non-CHP,Evanston,Uinta,Wyoming,82930,wind,142.2,Onshore Wind Turbine
+powerplant_wind_2020.119,119,Oklahoma Wind Energy Center,FPL Energy Oklahoma Wind LLC,IPP Non-CHP,Woodward,Woodward,Oklahoma,73801,wind,102,Onshore Wind Turbine
+powerplant_wind_2020.120,120,New Mexico Wind Energy Center,FPL Energy New Mexico Wind LLC,IPP Non-CHP,House,Quay,New Mexico,88121,wind,204,Onshore Wind Turbine
+powerplant_wind_2020.121,121,FPL Energy North Dakota Wind I/II,FPL Energy North Dakota Wind LLC,IPP Non-CHP,Edgeley,LaMoure,North Dakota,58433,wind,61.5,Onshore Wind Turbine
+powerplant_wind_2020.122,122,Kimball Wind,"Kimball Wind, LLC",IPP Non-CHP,Kimball,Kimball,Nebraska,69145,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.123,123,Brazos Wind Farm,Shell Wind Energy Inc.,IPP Non-CHP,Fluvanna,Scurry,Texas,79517,wind,160,Onshore Wind Turbine
+powerplant_wind_2020.124,124,Mountain View III,Avangrid Renewables LLC,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,22.4,Onshore Wind Turbine
+powerplant_wind_2020.125,125,Minwind 3-9,"Rock County Energy Center, LLC",IPP Non-CHP,Beaver Creek,Rock,Minnesota,56116,wind,11.6,Onshore Wind Turbine
+powerplant_wind_2020.126,126,"Chanarambie Power Partners, LLC",Allete Clean Energy,IPP Non-CHP,Lake Wilson,Murray,Minnesota,56151,wind,85.5,Onshore Wind Turbine
+powerplant_wind_2020.127,127,Viking Wind Partners,Allete Clean Energy,IPP Non-CHP,Lake Wilson,Murray,Minnesota,56151,wind,12,Onshore Wind Turbine
+powerplant_wind_2020.128,128,"Mendota Hills, LLC","Leeward Asset Management, LLC",IPP Non-CHP,Paw Paw,Lee,Illinois,60553,wind,76.2,Onshore Wind Turbine
+powerplant_wind_2020.129,129,Ainsworth Wind,Nebraska Public Power District,Electric Utility,Ainsworth,Brown,Nebraska,69210,wind,59.4,Onshore Wind Turbine
+powerplant_wind_2020.130,130,Flying Cloud Power Partners LLC,Avangrid Renewables LLC,IPP Non-CHP,Lake Park,Dickinson,Iowa,51347,wind,43.5,Onshore Wind Turbine
+powerplant_wind_2020.131,131,Colorado Green Holdings LLC,Avangrid Renewables LLC,IPP Non-CHP,Lamar,Prowers,Colorado,81052,wind,162,Onshore Wind Turbine
+powerplant_wind_2020.132,132,Moraine Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,51,Onshore Wind Turbine
+powerplant_wind_2020.133,133,Combine Hills I,Eurus Combine Hills I LLC,IPP Non-CHP,Milton-Freewater,Umatilla,Oregon,97862,wind,43,Onshore Wind Turbine
+powerplant_wind_2020.134,134,TG Windfarm LLC,TG Windfarm LLC,IPP Non-CHP,Pipestone,Pipestone,Minnesota,56164,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.135,135,CG Windfarm LLC,CG Windfarm LLC,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.136,136,Bisson Windfarm LLC,Bisson Windfarm LLC,IPP Non-CHP,Pipestone,Pipestone,Minnesota,56164,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.137,137,Tofteland Windfarm LLC,Tofteland Windfarm LLC,IPP Non-CHP,Pipestone,Pipestone,Minnesota,56164,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.138,138,Westridge Windfarm LLC,Westridge Windfarm LLC,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56164,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.139,139,Fey Windfarm LLC,Fey Windfarm LLC,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.140,140,Windcurrent Farms LLC,Windcurrent Farms LLC,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.141,141,K-Brink Windfarm LLC,"K-brink Windfarm, LLC",IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.142,142,DL Windy Acres LLC,Brewster,IPP Non-CHP,Brewster,Jackson,Minnesota,56119,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.143,143,S&P Windfarm LLC,Brewster,IPP Non-CHP,Brewster,Jackson,Minnesota,56119,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.144,144,Boeve Windfarm LLC,Boeve Windfarm LLC,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.145,145,B&K Energy Systems LLC,Brewster,IPP Non-CHP,Brewster,Jackson,Minnesota,56119,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.146,146,Sweetwater Wind 1 LLC,"Leeward Asset Management, LLC",IPP Non-CHP,Sweetwater,Nolan,Texas,79556,wind,37.5,Onshore Wind Turbine
+powerplant_wind_2020.147,147,Sweetwater Wind 2 LLC,"Leeward Asset Management, LLC",IPP Non-CHP,Sweetwater,Nolan,Texas,79556,wind,98.8,Onshore Wind Turbine
+powerplant_wind_2020.148,148,Allendorf,E&E Enterprises LLC,IPP Non-CHP,Allendorf,Osceola,Iowa,51354,wind,3.8,Onshore Wind Turbine
+powerplant_wind_2020.149,149,Aeolus Wind Facility,Aeolus Wind LLC,IPP Non-CHP,Spearman,Hansford,Texas,79081,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.150,150,Bowling Green Wind,"American Mun Power-Ohio, Inc",Electric Utility,Bowling Green,Wood,Ohio,43402,wind,7.2,Onshore Wind Turbine
+powerplant_wind_2020.151,151,Buffalo Gap Wind Farm,AES Wind Generation Inc,IPP Non-CHP,Merkel,Taylor,Texas,79536,wind,120.6,Onshore Wind Turbine
+powerplant_wind_2020.152,152,Intrepid,MidAmerican Energy Co,Electric Utility,Schaller,Buena Vista,Iowa,51053,wind,175.5,Onshore Wind Turbine
+powerplant_wind_2020.153,153,Century,MidAmerican Energy Co,Electric Utility,Blairsburg,Hamilton,Iowa,50034,wind,201.2,Onshore Wind Turbine
+powerplant_wind_2020.154,154,Hopkins Ridge Wind,Puget Sound Energy Inc,Electric Utility,Dayton,Columbia,Washington,99328,wind,156.6,Onshore Wind Turbine
+powerplant_wind_2020.155,155,Callahan Divide Wind Energy Center,"FPL Energy Callahan Wind, LLC",IPP Non-CHP,Tusocola,Taylor,Texas,79562,wind,114,Onshore Wind Turbine
+powerplant_wind_2020.156,156,Diablo Winds LLC,GlidePath Power Operations LLC,IPP Non-CHP,Livermore,Alameda,California,94550,wind,18,Onshore Wind Turbine
+powerplant_wind_2020.157,157,Weatherford Wind Energy Center,"FPL Energy Weatherford, LLC",IPP Non-CHP,Weatherford,Custer,Oklahoma,73906,wind,147,Onshore Wind Turbine
+powerplant_wind_2020.158,158,Helzel & Schwarzhoff 86,Wind Stream Operations LLC,IPP Non-CHP,Tehachapi,Kern,California,93561,wind,2.4,Onshore Wind Turbine
+powerplant_wind_2020.159,159,ZCO,Wind Stream Operations LLC,IPP Non-CHP,Tehachapi,Kern,California,93561,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.160,160,Maple Ridge Wind Farm,"Flat Rock Windpower, LLC",IPP Non-CHP,Lowville,Lewis,New York,13367,wind,322,Onshore Wind Turbine
+powerplant_wind_2020.161,161,Horse Hollow Wind Energy Center,FPL Energy Horse Hollow LLC,IPP Non-CHP,Wingate,Taylor,Texas,79566,wind,735.5,Onshore Wind Turbine
+powerplant_wind_2020.162,162,Caprock Wind Farm,"Leeward Asset Management, LLC",IPP Non-CHP,San Jon,Quay,New Mexico,88434,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.163,163,Kumeyaay Wind,"Leeward Asset Management, LLC",IPP Non-CHP,Campo,San Diego,California,91906,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.164,164,Trimont Area Wind Farm,Avangrid Renewables LLC,IPP Non-CHP,Trimont,Martin,Minnesota,56172,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.165,165,Crescent Ridge,"Leeward Asset Management, LLC",IPP Non-CHP,Tiskilwa,Bureau,Illinois,61368,wind,53,Onshore Wind Turbine
+powerplant_wind_2020.166,166,Wind Park Bear Creek,"Leeward Asset Management, LLC",IPP Non-CHP,Bear Creek,Luzerne,Pennsylvania,18702,wind,24,Onshore Wind Turbine
+powerplant_wind_2020.167,167,Jersey-Atlantic Wind Farm,"Leeward Asset Management, LLC",IPP Non-CHP,Atlantic City,Atlantic,New Jersey,8401,wind,7.5,Onshore Wind Turbine
+powerplant_wind_2020.168,168,Wolverine Creek,Invenergy Services LLC,IPP Non-CHP,Idaho Falls,Bonneville,Idaho,83401,wind,64.5,Onshore Wind Turbine
+powerplant_wind_2020.169,169,Oasis Wind,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,59,Onshore Wind Turbine
+powerplant_wind_2020.170,170,Elk River Wind,Avangrid Renewables LLC,IPP Non-CHP,Beaumont,Butler,Kansas,67072,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.171,171,San Juan Mesa Wind Project LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Elida,Roosevelt,New Mexico,88116,wind,120,Onshore Wind Turbine
+powerplant_wind_2020.172,172,Adams Wind Farm,Consolidated Edison Development Inc.,IPP Non-CHP,Adams,Mower,Minnesota,55909,wind,23.3,Onshore Wind Turbine
+powerplant_wind_2020.173,173,Fossil Gulch,Greenbacker Renewable Energy Corporation,IPP Non-CHP,Hagerman,Gooding,Idaho,83332,wind,10.5,Onshore Wind Turbine
+powerplant_wind_2020.174,174,Sweetwater Wind 3 LLC,"Leeward Asset Management, LLC",IPP Non-CHP,Sweetwater,Nolan,Texas,79556,wind,135,Onshore Wind Turbine
+powerplant_wind_2020.175,175,Spring Canyon,Invenergy Services LLC,IPP Non-CHP,Peetz,Logan,Colorado,80747,wind,60,Onshore Wind Turbine
+powerplant_wind_2020.176,176,Wild Horse,Puget Sound Energy Inc,Electric Utility,Ellensburg,Kittitas,Washington,98926,wind,273.1,Solar Photovoltaic; Onshore Wind Turbine;
+powerplant_wind_2020.177,177,Blue Canyon Windpower II,Blue Canyon Windpower II LLC,IPP Non-CHP,Carnegie,Comanche,Oklahoma,73015,wind,151,Onshore Wind Turbine
+powerplant_wind_2020.178,178,Aragonne Wind LLC,"Leeward Asset Management, LLC",IPP Non-CHP,Santa Rosa,Guadalupe,New Mexico,88435,wind,90,Onshore Wind Turbine
+powerplant_wind_2020.179,179,Sweetwater Wind 4 LLC,"Leeward Asset Management, LLC",IPP Non-CHP,Roscoe,Nolan,Texas,79545,wind,241,Onshore Wind Turbine
+powerplant_wind_2020.180,180,High Trail Wind Farm LLC,High Trail Wind Farm LLC,IPP Non-CHP,Ellsworth,McLean,Illinois,61737,wind,198,Onshore Wind Turbine
+powerplant_wind_2020.181,181,Cedar Ridge,Wisconsin Power & Light Co,Electric Utility,Eden,Fond Du Lac,Wisconsin,53019,wind,67.7,Onshore Wind Turbine
+powerplant_wind_2020.182,182,Spearville,Evergy Metro,Electric Utility,Ford,Ford,Kansas,67876,wind,148.5,Onshore Wind Turbine
+powerplant_wind_2020.183,183,Whispering Willow Wind Farm - East,Interstate Power and Light Co,Electric Utility,Iowa Falls,Franklin,Iowa,50126,wind,199.7,Onshore Wind Turbine
+powerplant_wind_2020.184,184,FPL Energy Burleigh County Wind,FPL Energy Burleigh County Wind LLC,IPP Non-CHP,Wilton,Burleigh,North Dakota,58579,wind,49.5,Onshore Wind Turbine
+powerplant_wind_2020.185,185,Klondike Windpower II,Avangrid Renewables LLC,IPP Non-CHP,Wasco,Sherman,Oregon,97065,wind,75,Onshore Wind Turbine
+powerplant_wind_2020.186,186,Leaning Juniper,PacifiCorp,Electric Utility,Arlington,Gilliam,Oregon,97812,wind,109.2,Onshore Wind Turbine
+powerplant_wind_2020.187,187,Big Horn Wind Project,Avangrid Renewables LLC,IPP Non-CHP,Bickleton,Klickitat,Washington,99322,wind,199,Onshore Wind Turbine
+powerplant_wind_2020.188,188,Shiloh I Wind Project,Avangrid Renewables LLC,IPP Non-CHP,Rio Vista,Solano,California,94571,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.189,189,Casselman Wind Power Project,Avangrid Renewables LLC,IPP Non-CHP,Garrett,Somerset,Pennsylvania,15542,wind,34.5,Onshore Wind Turbine
+powerplant_wind_2020.190,190,Cedar Creek Wind,"Leeward Asset Management, LLC",IPP Non-CHP,Grover,Weld,Colorado,80729,wind,300.5,Onshore Wind Turbine
+powerplant_wind_2020.191,191,Sweetwater Wind 5,"Leeward Asset Management, LLC",IPP Non-CHP,Roscoe,Nolan,Texas,79545,wind,80.5,Onshore Wind Turbine
+powerplant_wind_2020.192,192,Pike County Wind Power,Illinois Rural Electric Coop,Electric Utility,Pittsfield,Pike,Illinois,62363,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.193,193,Judith Gap Wind Energy Center,Invenergy Services LLC,IPP Non-CHP,Harlowton,Wheatland,Montana,59036,wind,135,Onshore Wind Turbine
+powerplant_wind_2020.194,194,Pakini Nui Wind Farm,Apollo Energy Corp,IPP Non-CHP,Naalehu,Hawaii,Hawaii,96772,wind,21,Onshore Wind Turbine
+powerplant_wind_2020.195,195,Victory Wind Farm,MidAmerican Energy Co,Electric Utility,Westside,Carroll,Iowa,51401,wind,105,Onshore Wind Turbine
+powerplant_wind_2020.196,196,Centennial Wind Farm,Oklahoma Gas & Electric Co,Electric Utility,Fort Supply,Harper,Oklahoma,73848,wind,120,Onshore Wind Turbine
+powerplant_wind_2020.197,197,Northern Iowa Windpower II,Avangrid Renewables LLC,IPP Non-CHP,Kensett,Worth,Iowa,50448,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.198,198,Top of Iowa Windfarm III,Madison Gas & Electric Co,Electric Utility,Kensett,Worth,Iowa,50448,wind,3.9,Onshore Wind Turbine
+powerplant_wind_2020.199,199,Blue Sky Green Field Wind Project,Wisconsin Electric Power Co,Electric Utility,Fond du Lac,Fond Du Lac,Wisconsin,54935,wind,16,Onshore Wind Turbine
+powerplant_wind_2020.200,200,FPL Energy Oliver Wind I LLC,FPL Energy Oliver County Wind,IPP Non-CHP,Center,Oliver,North Dakota,58530,wind,50.6,Onshore Wind Turbine
+powerplant_wind_2020.201,201,Forest Creek Wind Farm LLC,RWE Renewables Americas LLC,IPP Non-CHP,Big Springs,Glasscock,Texas,79720,wind,124.2,Onshore Wind Turbine
+powerplant_wind_2020.202,202,Mesquite Wind Power LLC,Mesquite Wind LLC,IPP Non-CHP,Abilene,Shackelford,Texas,79601,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.203,203,Lempster Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Lempster,Sullivan,New Hampshire,3605,wind,24,Onshore Wind Turbine
+powerplant_wind_2020.204,204,Agriwind,"AgriWind Project, LLC",IPP Non-CHP,Tiskilwa,BUREAU,Illinois,61368,wind,8.4,Onshore Wind Turbine
+powerplant_wind_2020.205,205,Stahl Wind Energy,Stahl Wind Energy LLC,IPP Non-CHP,Pipestone,Pipestone,Minnesota,56164,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.206,206,Carstensen Wind,Carstensen Wind LLC,IPP Non-CHP,Pipestone,Pipestone,Minnesota,56164,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.207,207,Northern Lights Wind LLC,Northern Lights Wind LLC,IPP Non-CHP,Pipestone,Pipestone,Minnesota,56164,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.208,208,Lucky Wind,Lucky Wind LLC,IPP Non-CHP,Pipestone,Pipestone,Minnesota,56164,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.209,209,Greenback Energy,Greenback Energy LLC,IPP Non-CHP,Pipestone,Pipestone,Minnesota,56164,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.210,210,Redwood Falls Wind,Southern Minnesota Mun P Agny,Electric Utility,Redwood Falls,Redwood,Minnesota,56383,wind,3.4,Onshore Wind Turbine
+powerplant_wind_2020.211,211,Fairmont Wind,Southern Minnesota Mun P Agny,Electric Utility,Fairmont,Martin,Minnesota,56031,wind,5.2,Onshore Wind Turbine
+powerplant_wind_2020.212,212,Michigan Wind 1,"Michigan Wind 1, LLC",IPP Non-CHP,Ubly,Huron,Michigan,48475,wind,69,Onshore Wind Turbine
+powerplant_wind_2020.213,213,Mower County Wind Energy Center,FPL Energy Mower County LLC,IPP Non-CHP,Grand Meadow,Mower,Minnesota,55936,wind,98.9,Onshore Wind Turbine
+powerplant_wind_2020.214,214,Wildorado Wind LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Vega,Oldham,Texas,79092,wind,161,Onshore Wind Turbine
+powerplant_wind_2020.215,215,Pine Tree Wind Power Project,Los Angeles Department of Water & Power,Electric Utility,Cantil,Kern,California,93519,wind,135,Onshore Wind Turbine
+powerplant_wind_2020.216,216,Burley Butte Windpark,Idaho Wind Partners 1 LLC,IPP Non-CHP,Burley,Cassia,Idaho,83318,wind,21.3,Onshore Wind Turbine
+powerplant_wind_2020.217,217,Golden Valley Wind Park LLC,Idaho Wind Partners 1 LLC,IPP Non-CHP,Burley,Cassia,Idaho,83318,wind,12,Onshore Wind Turbine
+powerplant_wind_2020.218,218,Milner Dam Wind Park LLC,Idaho Wind Partners 1 LLC,IPP Non-CHP,Burley,Cassia,Idaho,83318,wind,19.5,Onshore Wind Turbine
+powerplant_wind_2020.219,219,Oregon Trail Wind Park,Idaho Wind Partners 1 LLC,IPP Non-CHP,Hagerman,Twin Falls,Idaho,83332,wind,13.5,Onshore Wind Turbine
+powerplant_wind_2020.220,220,Pilgrim Stage Wind Park,Idaho Wind Partners 1 LLC,IPP Non-CHP,Hagerman,Twin Falls,Idaho,83332,wind,10.5,Onshore Wind Turbine
+powerplant_wind_2020.221,221,Salmon Falls Wind Park,Idaho Wind Partners 1 LLC,IPP Non-CHP,Hagerman,Twin Falls,Idaho,83332,wind,21,Onshore Wind Turbine
+powerplant_wind_2020.222,222,Thousand Springs Wind Park,Idaho Wind Partners 1 LLC,IPP Non-CHP,Hagerman,Twin Falls,Idaho,83332,wind,12,Onshore Wind Turbine
+powerplant_wind_2020.223,223,Tuana Gulch Wind Park,Idaho Wind Partners 1 LLC,IPP Non-CHP,Hagerman,Twin Falls,Idaho,83332,wind,10.5,Onshore Wind Turbine
+powerplant_wind_2020.224,224,Buena Vista Energy LLC,"Leeward Asset Management, LLC",IPP Non-CHP,Byron,Contra Costa,California,94514,wind,38,Onshore Wind Turbine
+powerplant_wind_2020.225,225,Hawi Wind Farm,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Hawi,Hawaii,Hawaii,96719,wind,10.6,Onshore Wind Turbine
+powerplant_wind_2020.226,226,Mars Hill Wind Farm Project,"First Wind O&M, LLC",IPP Non-CHP,Mars Hill,Aroostook,Maine,4758,wind,42,Onshore Wind Turbine
+powerplant_wind_2020.227,227,Kaheawa Pastures Wind Farm,"First Wind O&M, LLC",IPP Non-CHP,Maalaea,Maui,Hawaii,96753,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.228,228,GSG LLC,"Leeward Asset Management, LLC",IPP Non-CHP,West Brooklyn,Lee,Illinois,61378,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.229,229,Allegheny Ridge Wind Farm,"Leeward Asset Management, LLC",IPP Non-CHP,Portage,Cambria,Pennsylvania,15946,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.230,230,Post Wind Farm LP,FPL Energy Red Canyon LLC,IPP Non-CHP,Fluvanna,Borden,Texas,79517,wind,84,Onshore Wind Turbine
+powerplant_wind_2020.231,231,MinnDakota Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Ivanhoe,Lincoln,Minnesota,57026,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.232,232,Twin Buttes Wind Project,Avangrid Renewables LLC,IPP Non-CHP,Lamar,Bent,Colorado,81052,wind,75,Onshore Wind Turbine
+powerplant_wind_2020.233,233,Marengo Wind Plant,PacifiCorp,Electric Utility,Dayton,Columbia,Washington,99328,wind,234,Onshore Wind Turbine
+powerplant_wind_2020.234,234,Klondike Windpower III,Avangrid Renewables LLC,IPP Non-CHP,Wasco,Sherman,Oregon,97065,wind,297.5,Onshore Wind Turbine
+powerplant_wind_2020.235,235,Locust Ridge,Avangrid Renewables LLC,IPP Non-CHP,Mahanoy City,Schuylkill,Pennsylvania,17948,wind,26,Onshore Wind Turbine
+powerplant_wind_2020.236,236,Sand Bluff Wind Farm,RWE Renewables Americas LLC,IPP Non-CHP,Big Spring,Glasscock,Texas,79720,wind,90,Onshore Wind Turbine
+powerplant_wind_2020.237,237,Post Oak Wind LLC,Mesquite Wind LLC,IPP Non-CHP,Abilene,Shackelford,Texas,79601,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.238,238,Buffalo Gap 2 Wind Farm,AES Wind Generation Inc,IPP Non-CHP,Merkel,Nolan,Texas,79536,wind,232.5,Onshore Wind Turbine
+powerplant_wind_2020.239,239,Biglow Canyon Wind Farm,Portland General Electric Co,Electric Utility,Wasco,Sherman,Oregon,97065,wind,449.7,Onshore Wind Turbine
+powerplant_wind_2020.240,240,White Creek Wind Farm,White Creek Wind 1 LLC,IPP Non-CHP,Roosevelt,Klickitat,Washington,99356,wind,204,Onshore Wind Turbine
+powerplant_wind_2020.241,241,Smoky Hills Wind Project Phase I,Smoky Hills Wind Farm I LLC,IPP Non-CHP,Lincoln,Lincoln,Kansas,67455,wind,100.8,Onshore Wind Turbine
+powerplant_wind_2020.242,242,Buffalo Mountain Energy Center,Invenergy Services LLC,IPP Non-CHP,Oliver Springs,Anderson,Tennessee,37840,wind,27,Onshore Wind Turbine
+powerplant_wind_2020.243,243,Prairie Star Wind Farm,High Prairie Wind Farm II LLC,IPP Non-CHP,Grand Meadow,Mower,Minnesota,55936,wind,100.6,Onshore Wind Turbine
+powerplant_wind_2020.244,244,NedPower Mount Storm,NedPower Mt Storm LLC,IPP Non-CHP,Mount Storm,Grant,West Virginia,26739,wind,264,Onshore Wind Turbine
+powerplant_wind_2020.245,245,Pomeroy Wind Farm,MidAmerican Energy Co,Electric Utility,Fonda,Pocahontas,Iowa,50540,wind,296,Onshore Wind Turbine
+powerplant_wind_2020.246,246,Scurry County Wind LP,Invenergy Services LLC,IPP Non-CHP,Snyder,Scurry,Texas,79549,wind,130.5,Onshore Wind Turbine
+powerplant_wind_2020.247,247,Cow Branch,"Cow Branch Wind Power, LLC",IPP Non-CHP,Tarkio,Atchison,Missouri,64491,wind,50.4,Onshore Wind Turbine
+powerplant_wind_2020.248,248,Conception,"CR Clearing, LLC",IPP Non-CHP,Stanberry,Nodaway,Missouri,64499,wind,50.4,Onshore Wind Turbine
+powerplant_wind_2020.249,249,Loess Hills,Loess Hills Wind Farm LLC,IPP Non-CHP,Rock Port,Atchison,Missouri,64482,wind,5,Onshore Wind Turbine
+powerplant_wind_2020.250,250,Eastridge Wind Project,Eastridge Wind Project,IPP Non-CHP,Porter,Murray,Minnesota,56280,wind,10.4,Onshore Wind Turbine
+powerplant_wind_2020.251,251,Windom Wind Project,Midwest Power Partners LLC,IPP Non-CHP,Bingham Lake,Cottonwood,Minnesota,56118,wind,15.6,Onshore Wind Turbine
+powerplant_wind_2020.252,252,Bluegrass Ridge,"Wind Capital Holdings, LLC",IPP Non-CHP,King City,Gentry,Missouri,64463,wind,56.7,Onshore Wind Turbine
+powerplant_wind_2020.253,253,Porterhouse Wind (4) LLC,GlidePath Power Operations LLC,IPP Non-CHP,Gruver,Hansford,Texas,79040,wind,79.8,Onshore Wind Turbine
+powerplant_wind_2020.254,254,Filet Wind (5) LLC,GlidePath Power Operations LLC,IPP Non-CHP,Stratford,Sherman,Texas,79084,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.255,255,Tenderloin Wind (6) LLC,GlidePath Power Operations LLC,IPP Non-CHP,Texhoma,Sherman,Texas,73960,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.256,256,Peetz Table Wind Energy,FPL Peetz Table Wind Energy,IPP Non-CHP,Peetz,Logan,Colorado,80747,wind,199.5,Onshore Wind Turbine
+powerplant_wind_2020.257,257,Terra-Gen VG Wind LLC,Terra-Gen Operating Co-Wind,IPP Non-CHP,Tehachapi,Kern,California,93561,wind,7.4,Onshore Wind Turbine
+powerplant_wind_2020.258,258,FPL Energy Oliver Wind II LLC,FPL Energy Oliver County Wind II LLC,IPP Non-CHP,Center,Oliver,North Dakota,58530,wind,48,Onshore Wind Turbine
+powerplant_wind_2020.259,259,Steel Winds Wind Farm,"First Wind O&M, LLC",IPP Non-CHP,Lackawanna,Erie,New York,12418,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.260,260,Shane's Wind Machine,Shane's Wind Machine LLC,IPP Non-CHP,Ruthton,Pipestone,Minnesota,56170,wind,1.3,Onshore Wind Turbine
+powerplant_wind_2020.261,261,Blue Breezes LLC,Moore 1,IPP Non-CHP,Blue Earth,Faribault,Minnesota,56013,wind,1.3,Onshore Wind Turbine
+powerplant_wind_2020.262,262,Blue Breezes II LLC,Moore 1,IPP Non-CHP,Blue Earth,Faribault,Minnesota,56013,wind,1.3,Onshore Wind Turbine
+powerplant_wind_2020.263,263,Sunset Breeze LLC,Midwest Power Partners LLC,IPP Non-CHP,Rushmore,Nobles,Minnesota,56168,wind,1.3,Onshore Wind Turbine
+powerplant_wind_2020.264,264,Minnesota Breeze LLC,Midwest Power Partners LLC,IPP Non-CHP,Rushmore,Nobles,Minnesota,56168,wind,1.3,Onshore Wind Turbine
+powerplant_wind_2020.265,265,G Flow Wind LLC,Midwest Power Partners LLC,IPP Non-CHP,Rushmore,Nobles,Minnesota,56168,wind,1.3,Onshore Wind Turbine
+powerplant_wind_2020.266,266,Wolf Wind Enterprises LLC,Midwest Power Partners LLC,IPP Non-CHP,Rushmore,Nobles,Minnesota,56168,wind,1.3,Onshore Wind Turbine
+powerplant_wind_2020.267,267,Green Acres Breeze LLC,Midwest Power Partners LLC,IPP Non-CHP,Rushmore,Nobles,Minnesota,56168,wind,1.3,Onshore Wind Turbine
+powerplant_wind_2020.268,268,Horseshoe Bend Wind Park,Cycle Power Partners,IPP Non-CHP,Great Falls,Cascade,Montana,59404,wind,9,Onshore Wind Turbine
+powerplant_wind_2020.269,269,Champion Wind Farm LLC,RWE Renewables Americas LLC,IPP Non-CHP,Roscoe,Nolan,Texas,79545,wind,126.5,Onshore Wind Turbine
+powerplant_wind_2020.270,270,Roscoe Wind Farm LLC,RWE Renewables Americas LLC,IPP Non-CHP,Roscoe,Nolan,Texas,79545,wind,209,Onshore Wind Turbine
+powerplant_wind_2020.271,271,Munnsville Wind Farm LLC,RWE Renewables Americas LLC,IPP Non-CHP,Madison,Madison,New York,13310,wind,34.5,Onshore Wind Turbine
+powerplant_wind_2020.272,272,Snyder Wind Farm,Snyder Wind Farm LLC,IPP Non-CHP,Synder,Scurry,Texas,79549,wind,63,Onshore Wind Turbine
+powerplant_wind_2020.273,273,"Langdon Renewables, LLC",FPL Energy Langdon Wind LLC,IPP Non-CHP,Langdon,Cavalier,North Dakota,58249,wind,118.5,Onshore Wind Turbine
+powerplant_wind_2020.274,274,Prairie Winds ND1,Basin Electric Power Coop,Electric Utility,Minot,Ward,North Dakota,58701,wind,115.5,Onshore Wind Turbine
+powerplant_wind_2020.275,275,Prairie Winds SD1,Basin Electric Power Coop,Electric Utility,Crow Lake,Jerauld,South Dakota,57382,wind,162,Onshore Wind Turbine
+powerplant_wind_2020.276,276,Logan Wind Energy,Logan Wind Energy LLC,IPP Non-CHP,Peetz,Logan,Colorado,80747,wind,201,Onshore Wind Turbine
+powerplant_wind_2020.277,277,Old Trail Wind Farm,Old Trail Wind Farm LLC,IPP Non-CHP,Ellsworth,McLean,Illinois,61737,wind,198,Onshore Wind Turbine
+powerplant_wind_2020.278,278,Fenton Wind Farm,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Chandler,Murray,Minnesota,56122,wind,205.5,Onshore Wind Turbine
+powerplant_wind_2020.279,279,Noble Clinton Windpark LLC,Noble Wind Operations LLC,IPP Non-CHP,Churubusco,Clinton,New York,12923,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.280,280,Noble Ellenburg Windpark LLC,Noble Wind Operations LLC,IPP Non-CHP,Churubusco,Clinton,New York,12923,wind,81,Onshore Wind Turbine
+powerplant_wind_2020.281,281,Noble Bliss Windpark LLC,Noble Wind Operations LLC,IPP Non-CHP,Bliss,Wyoming,New York,14024,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.282,282,Sleeping Bear LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Woodward,Harper,Oklahoma,73801,wind,94.5,Onshore Wind Turbine
+powerplant_wind_2020.283,283,Providence Heights Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Tiskilwa,Bureau,Illinois,61368,wind,72,Onshore Wind Turbine
+powerplant_wind_2020.284,284,Elkhorn Valley Wind Farm,Telocaset Wind Power Partners,IPP Non-CHP,Union,Union,Oregon,97883,wind,100.7,Onshore Wind Turbine
+powerplant_wind_2020.285,285,BC Energy LLC,Ewington Wind Project,IPP Non-CHP,Worthington,Jackson,Minnesota,56187,wind,4,Onshore Wind Turbine
+powerplant_wind_2020.286,286,KC Energy LLC,Ewington Wind Project,IPP Non-CHP,Worthington,Jackson,Minnesota,56187,wind,4,Onshore Wind Turbine
+powerplant_wind_2020.287,287,K&D Energy LLC,Ewington Wind Project,IPP Non-CHP,Worthington,Jackson,Minnesota,56187,wind,4,Onshore Wind Turbine
+powerplant_wind_2020.288,288,KSS Turbines LLC,Ewington Wind Project,IPP Non-CHP,Worthington,Jackson,Minnesota,56187,wind,4,Onshore Wind Turbine
+powerplant_wind_2020.289,289,Prairie Wind Power LLC,Exelon Wind LLC,IPP Non-CHP,Worthington,Jackson,Minnesota,56187,wind,4,Onshore Wind Turbine
+powerplant_wind_2020.290,290,Taconite Ridge 1 Wind Energy Center,"ALLETE, Inc.",Electric Utility,Mountain Iron,St Louis,Minnesota,55768,wind,25,Onshore Wind Turbine
+powerplant_wind_2020.291,291,Dutch Hill Wind Project,"First Wind O&M, LLC",IPP Non-CHP,Cohocton,Steuben,New York,14826,wind,37.5,Onshore Wind Turbine
+powerplant_wind_2020.292,292,Cohocton Wind Project,"First Wind O&M, LLC",IPP Non-CHP,Cohocton,Steuben,New York,14826,wind,87.5,Onshore Wind Turbine
+powerplant_wind_2020.293,293,Harvest,"Harvest Windfarm, LLC",IPP Non-CHP,Elkton,Huron,Michigan,48731,wind,52.8,Onshore Wind Turbine
+powerplant_wind_2020.294,294,Mountain Home,"Hot Springs Windfarm, LLC",IPP Non-CHP,Mountain Home,Elmore,Idaho,83623,wind,21,Onshore Wind Turbine
+powerplant_wind_2020.295,295,Bennett Creek Windfarm LLC - Mountain Home,Bennett Creek Windfarm LLC,IPP Non-CHP,Mountain Home,Elmore,Idaho,83623,wind,21,Onshore Wind Turbine
+powerplant_wind_2020.296,296,Buffalo Gap 3 Wind Farm,AES Wind Generation Inc,IPP Non-CHP,Nolan,Nolan,Texas,79537,wind,170.2,Onshore Wind Turbine
+powerplant_wind_2020.297,297,Camp Grove Wind Farm,Orion Energy Group LLC,IPP Non-CHP,Wyoming,STARK,Illinois,61491,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.298,298,Stanton Wind Energy LLC,Invenergy Services LLC,IPP Non-CHP,Lenorah,Martin,Texas,79749,wind,120,Onshore Wind Turbine
+powerplant_wind_2020.299,299,Osceola Windpower LLC,Osceola Windpower LLC,IPP Non-CHP,Harris,Osceola,Iowa,51345,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.300,300,Chandler Hills Wind Farm,EDF Renewable Services Inc,IPP Non-CHP,Chandler,Murray,Minnesota,56122,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.301,301,Butler Ridge,Butler Ridge Wind Energy Center,IPP Non-CHP,Mayville,Dodge,Wisconsin,53050,wind,54,Onshore Wind Turbine
+powerplant_wind_2020.302,302,Majestic 1 Wind Farm,NextEra Energy Majestic Wind,IPP Non-CHP,Panhandle,Carson,Texas,79068,wind,79.5,Onshore Wind Turbine
+powerplant_wind_2020.303,303,South Trent Wind Farm,NRG Energy Inc,IPP Non-CHP,Sweetwater,Nolan,Texas,79556,wind,101.2,Onshore Wind Turbine
+powerplant_wind_2020.304,304,Wessington Springs,Wessington Wind,IPP Non-CHP,Wessington Springs,Jerauld,South Dakota,57382,wind,51,Onshore Wind Turbine
+powerplant_wind_2020.305,305,North Allegheny Windpower Project,Duke Energy DEGS North Allegheny,IPP Non-CHP,Lilly,Blair,Pennsylvania,15938,wind,70,Onshore Wind Turbine
+powerplant_wind_2020.306,306,Hatchet Ridge Wind Project,Pattern Operators LP,IPP Non-CHP,Burney,Shasta,California,96013,wind,101.2,Onshore Wind Turbine
+powerplant_wind_2020.307,307,Michigan Wind 2,"Michigan Wind 2, LLC",IPP Non-CHP,Minden City,Sanilac,Michigan,48456,wind,90,Onshore Wind Turbine
+powerplant_wind_2020.308,308,Pattern Gulf Wind,Pattern Operators LP,IPP Non-CHP,Armstrong,Kenedy,Texas,78338,wind,283.2,Onshore Wind Turbine
+powerplant_wind_2020.309,309,Dempsey Ridge Wind Farm,Acciona Wind Energy USA LLC,IPP Non-CHP,Cheyenne,Roger Mills,Oklahoma,73628,wind,132,Onshore Wind Turbine
+powerplant_wind_2020.310,310,Goodnoe Hills,PacifiCorp,Electric Utility,Goldendale,Klickitat,Washington,98620,wind,103.4,Onshore Wind Turbine
+powerplant_wind_2020.311,311,Tatanka Wind Power LLC,Acciona Wind Energy USA LLC,IPP Non-CHP,Ashley,Dickey,North Dakota,58413,wind,180,Onshore Wind Turbine
+powerplant_wind_2020.312,312,Velva Windfarm LLC,Acciona Wind Energy USA LLC,IPP Non-CHP,Velva,McHenry,North Dakota,58790,wind,11.9,Onshore Wind Turbine
+powerplant_wind_2020.313,313,Whirlwind Energy Center,Whirlwind Energy LLC,IPP Non-CHP,Floydada,Floyd,Texas,79235,wind,57,Onshore Wind Turbine
+powerplant_wind_2020.314,314,Charles City Wind Farm,MidAmerican Energy Co,Electric Utility,Charles City,Floyd,Iowa,50616,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.315,315,Benton County Wind Farm,Orion Energy Group LLC,IPP Non-CHP,Earl Park,Benton,Indiana,47942,wind,130.5,Onshore Wind Turbine
+powerplant_wind_2020.316,316,Forward Windpower LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Berlin,Somerset,Pennsylvania,15501,wind,29.4,Onshore Wind Turbine
+powerplant_wind_2020.317,317,Lookout Windpower LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Berlin,Somerset,Pennsylvania,15530,wind,37.8,Onshore Wind Turbine
+powerplant_wind_2020.318,318,Tuolumne Wind Project,Turlock Irrigation District,Electric Utility,Goldendale,Klickitat,Washington,98620,wind,136.3,Onshore Wind Turbine
+powerplant_wind_2020.319,319,Jeffers Wind 20 LLC,Longroad Energy Services LLC,IPP Non-CHP,Jeffers,Cottonwood,Minnesota,56145,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.320,320,Spanish Fork Wind Park 2 LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Spanish Fork,Utah,Utah,84660,wind,18.9,Onshore Wind Turbine
+powerplant_wind_2020.321,321,Mountain Wind Power LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Fort Bridger,Uinta,Wyoming,82933,wind,61,Onshore Wind Turbine
+powerplant_wind_2020.322,322,Mountain Wind Power II LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Fort Bridger,Uinta,Wyoming,82933,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.323,323,Goat Wind LP,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Sterling City,Sterling,Texas,76951,wind,149.6,Onshore Wind Turbine
+powerplant_wind_2020.324,324,Odin Wind Farm LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Mountainlake,Cottonwood,Minnesota,56159,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.325,325,Capricorn Ridge Wind LLC,Capricorn Ridge Wind LLC,IPP Non-CHP,Sterling City,Sterling,Texas,76951,wind,662.5,Onshore Wind Turbine
+powerplant_wind_2020.326,326,Winnebago Wind Power Project,Avangrid Renewables LLC,IPP Non-CHP,Forest City,Winnebago,Iowa,50436,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.327,327,Barton Windpower LLC,Avangrid Renewables LLC,IPP Non-CHP,Kensett,Worth,Iowa,50448,wind,160,Onshore Wind Turbine
+powerplant_wind_2020.328,328,Farmers City Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Tarkio,Atchison,Missouri,64491,wind,146,Onshore Wind Turbine
+powerplant_wind_2020.329,329,Locust Ridge II LLC,Avangrid Renewables LLC,IPP Non-CHP,Shenandoah,Schuylkill,Pennsylvania,17976,wind,102,Onshore Wind Turbine
+powerplant_wind_2020.330,330,Silver Star I Wind Power Project,Silver Star I Power Partners LLC,IPP Non-CHP,Dublin,Erath,Texas,76446,wind,60,Onshore Wind Turbine
+powerplant_wind_2020.331,331,McAdoo Wind Energy LLC,Invenergy Services LLC,IPP Non-CHP,McAdoo,Dickens,Texas,79243,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.332,332,Turkey Track Wind Energy LLC,Invenergy Services LLC,IPP Non-CHP,Blackwell,Nolan,Texas,79537,wind,169.5,Onshore Wind Turbine
+powerplant_wind_2020.333,333,Scurry County Wind II,Invenergy Services LLC,IPP Non-CHP,Snyder,Scurry,Texas,79549,wind,120,Onshore Wind Turbine
+powerplant_wind_2020.334,334,Gunsight Mountain Wind Energy LLC,Invenergy Services LLC,IPP Non-CHP,Big Spring,Howard,Texas,79720,wind,120,Onshore Wind Turbine
+powerplant_wind_2020.335,335,Fowler Ridge Wind Farm LLC,AE Power Services LLC,IPP Non-CHP,Fowler,Benton,Indiana,47944,wind,600.3,Onshore Wind Turbine
+powerplant_wind_2020.336,336,Sherbino I Wind Farm,Sherbino Mesa I Windfarm LLC,IPP Non-CHP,Fort Stockton,Pecos,Texas,79735,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.337,337,Diamond Willow Wind Facility,Montana-Dakota Utilities Co,Electric Utility,Baker,Fallon,Montana,59313,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.338,338,Elbow Creek Wind Project LLC,Elbow Creek Wind Project LLC,IPP Non-CHP,Forsan,Howard,Texas,79733,wind,121.9,Onshore Wind Turbine
+powerplant_wind_2020.339,339,Cloud County Wind Farm,"Cloud County Windfarm, LLC",IPP Non-CHP,Concordia,Cloud,Kansas,66901,wind,201,Onshore Wind Turbine
+powerplant_wind_2020.340,340,Pebble Springs Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Wasco,Gilliam,Oregon,97812,wind,98.7,Onshore Wind Turbine
+powerplant_wind_2020.341,341,Hay Canyon Wind Power LLC,Avangrid Renewables LLC,IPP Non-CHP,Moro,Sherman,Oregon,97039,wind,100.8,Onshore Wind Turbine
+powerplant_wind_2020.342,342,Dillon Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,45,Onshore Wind Turbine
+powerplant_wind_2020.343,343,Buffalo Ridge I LLC,Avangrid Renewables LLC,IPP Non-CHP,Elkton,Brookings,South Dakota,57026,wind,50.4,Onshore Wind Turbine
+powerplant_wind_2020.344,344,Elm Creek Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Trimont,Jackson,Minnesota,56176,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.345,345,Moraine II Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,49.5,Onshore Wind Turbine
+powerplant_wind_2020.346,346,Penascal Wind Power LLC,Avangrid Renewables LLC,IPP Non-CHP,Sarita,Kenedy,Texas,78385,wind,201.6,Onshore Wind Turbine
+powerplant_wind_2020.347,347,South Chestnut LLC,Avangrid Renewables LLC,IPP Non-CHP,Farmington,Fayette,Pennsylvania,15437,wind,50.4,Onshore Wind Turbine
+powerplant_wind_2020.348,348,Pioneer Prairie Wind Farm,"Pioneer Prairie Wind Farm I, LLC",IPP Non-CHP,McIntire,Mitchell,Iowa,50455,wind,300,Onshore Wind Turbine
+powerplant_wind_2020.349,349,Hull Wind II,Hull Municipal Light Plant,Electric Utility,Hull,Plymouth,Massachusetts,2045,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.350,350,Red Hills Wind Project LLC,Acciona Wind Energy USA LLC,IPP Non-CHP,Hammon,Roger Mills,Oklahoma,73650,wind,123,Onshore Wind Turbine
+powerplant_wind_2020.351,351,EcoGrove Wind LLC,Acciona Wind Energy USA LLC,IPP Non-CHP,Lena,Stephenson,Illinois,61048,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.352,352,Carroll Wind Farm,MidAmerican Energy Co,Electric Utility,Carroll,Carroll,Iowa,51401,wind,159.1,Onshore Wind Turbine
+powerplant_wind_2020.353,353,Adair Wind Farm,MidAmerican Energy Co,Electric Utility,Adair,Adair,Iowa,50002,wind,174.8,Onshore Wind Turbine
+powerplant_wind_2020.354,354,Walnut Wind Farm,MidAmerican Energy Co,Electric Utility,Walnut,Pottawattamie,Iowa,51577,wind,165.2,Onshore Wind Turbine
+powerplant_wind_2020.355,355,Central Plains Wind Farm,"Evergy Kansas Central, Inc",Electric Utility,Marienthal,Wichita,Kansas,67863,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.356,356,Flat Ridge Wind Farm,"Evergy Kansas Central, Inc",Electric Utility,Nashville,Barber,Kansas,67112,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.357,357,Hackberry Wind Farm,Hackberry Wind LLC,IPP Non-CHP,Albany,Shackelford,Texas,76430,wind,162.3,Onshore Wind Turbine
+powerplant_wind_2020.358,358,Marshall Wind 2 LLC,"Marshall Wind Farm, LLC",IPP Non-CHP,Marshall,Lyon,Minnesota,56258,wind,4.2,Onshore Wind Turbine
+powerplant_wind_2020.359,359,Marshall Wind 3 LLC,"Marshall Wind Farm, LLC",IPP Non-CHP,Marshall,Lyon,Minnesota,56258,wind,4.2,Onshore Wind Turbine
+powerplant_wind_2020.360,360,Marshall Wind 4 LLC,"Marshall Wind Farm, LLC",IPP Non-CHP,Marshall,Lyon,Minnesota,56258,wind,4.2,Onshore Wind Turbine
+powerplant_wind_2020.361,361,Marshall Wind 5 LLC,"Marshall Wind Farm, LLC",IPP Non-CHP,Marshall,Lyon,Minnesota,56258,wind,2.1,Onshore Wind Turbine
+powerplant_wind_2020.362,362,Marshall Wind 6 LLC,"Marshall Wind Farm, LLC",IPP Non-CHP,Marshall,Lyon,Minnesota,56258,wind,2.1,Onshore Wind Turbine
+powerplant_wind_2020.363,363,Kibby Wind Facility,"Helix Maine Wind Development, LLC",IPP Non-CHP,Chain of Ponds,Franklin,Maine,4936,wind,132,Onshore Wind Turbine
+powerplant_wind_2020.364,364,Crane Creek Wind Energy Center,Wisconsin Public Service Corp,Electric Utility,Riceville,Howard,Iowa,50466,wind,15.9,Onshore Wind Turbine
+powerplant_wind_2020.365,365,Ribeye Wind (11) LLC,GlidePath Power Operations LLC,IPP Non-CHP,Dumas,Moore,Texas,79029,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.366,366,T-Bone Wind (10) LLC,GlidePath Power Operations LLC,IPP Non-CHP,Dumas,Moore,Texas,79029,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.367,367,Tri-Tip Wind (9) LLC,GlidePath Power Operations LLC,IPP Non-CHP,Sunray,Moore,Texas,79086,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.368,368,Brisket Wind (8) LLC,GlidePath Power Operations LLC,IPP Non-CHP,Sunray,Moore,Texas,79086,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.369,369,Flat Iron Wind (7) LLC,GlidePath Power Operations LLC,IPP Non-CHP,Sunray,Moore,Texas,79086,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.370,370,Marshall Wind 1 LLC,"Marshall Wind Farm, LLC",IPP Non-CHP,Marshall,Lyon,Minnesota,56258,wind,2.1,Onshore Wind Turbine
+powerplant_wind_2020.371,371,Glenrock,PacifiCorp,Electric Utility,Glenrock,Converse,Wyoming,82637,wind,158.3,Onshore Wind Turbine
+powerplant_wind_2020.372,372,Rolling Hills,PacifiCorp,Electric Utility,Glenrock,Converse,Wyoming,82637,wind,138,Onshore Wind Turbine
+powerplant_wind_2020.373,373,Seven Mile Hill,PacifiCorp,Electric Utility,Medicine Bow,Carbon,Wyoming,82329,wind,146.2,Onshore Wind Turbine
+powerplant_wind_2020.374,374,Wheat Field Wind Power Project,Wheat Field Wind Power Project LLC,IPP Non-CHP,Arlington,Gilliam,Oregon,97812,wind,96.6,Onshore Wind Turbine
+powerplant_wind_2020.375,375,Arlington Wind Power Project,Arlington Wind Power Project LLC,IPP Non-CHP,Arlington,Gilliam,Oregon,97812,wind,102.9,Onshore Wind Turbine
+powerplant_wind_2020.376,376,Rail Splitter Wind Farm,Rail Splitter Wind Farm LLC,IPP Non-CHP,Hopedale,Tazewell,Illinois,61747,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.377,377,Marble River Wind Farm,"Marble River, LLC",IPP Non-CHP,Churubusco,Clinton,New York,12933,wind,215,Onshore Wind Turbine
+powerplant_wind_2020.378,378,Sagebrush Power Partners,"Sagebrush Power Partners, LLC",IPP Non-CHP,Ellensburg,Kittitas,Washington,98922,wind,100.7,Onshore Wind Turbine
+powerplant_wind_2020.379,379,Crosswind Energy Project,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Ruthven,Palo Alto,Iowa,50516,wind,21,Onshore Wind Turbine
+powerplant_wind_2020.380,380,Hardin Hilltop Wind LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Jefferson,Greene,Iowa,50129,wind,14.7,Onshore Wind Turbine
+powerplant_wind_2020.381,381,Shiloh Wind Project 2 LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Birds Landing,Solano,California,94512,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.382,382,Wapsipinicon Wind Project,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Dexter,Mower,Minnesota,55926,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.383,383,Hoosier Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Goodland,Benton,Indiana,47948,wind,106,Onshore Wind Turbine
+powerplant_wind_2020.384,384,Flat Ridge Wind Energy LLC,AE Power Services LLC,IPP Non-CHP,Isabel,Barber,Kansas,67065,wind,49.7,Onshore Wind Turbine
+powerplant_wind_2020.385,385,Noble Altona Windpark LLC,Noble Wind Operations LLC,IPP Non-CHP,Altona,Clinton,New York,12910,wind,97.5,Onshore Wind Turbine
+powerplant_wind_2020.386,386,Noble Wethersfield Windpark LLC,Noble Wind Operations LLC,IPP Non-CHP,Gainsville,Wyoming,New York,14066,wind,126,Onshore Wind Turbine
+powerplant_wind_2020.387,387,Noble Chateaugay Windpark LLC,Noble Wind Operations LLC,IPP Non-CHP,Chateaugay,Franklin,New York,12920,wind,106.5,Onshore Wind Turbine
+powerplant_wind_2020.388,388,Great Plains Windpark LLC,Great Plains Windpark Legacy LLC,IPP Non-CHP,Spearman,Hansford,Texas,79081,wind,114,Onshore Wind Turbine
+powerplant_wind_2020.389,389,Langdon Wind II LLC,FPL Energy Langdon Wind LLC,IPP Non-CHP,Osnabrock,Cavalier,North Dakota,58269,wind,40.5,Onshore Wind Turbine
+powerplant_wind_2020.390,390,Osceola Windpower II,Osceola Windpower II,IPP Non-CHP,Harris,Osceola,Iowa,51354,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.391,391,FPL Energy Ashtabula Wind LLC,FPL Energy Ashtabula Wind LLC,IPP Non-CHP,Luverne,Barnes,North Dakota,58056,wind,148.5,Onshore Wind Turbine
+powerplant_wind_2020.392,392,Panther Creek Wind Farm I,RWE Renewables Americas LLC,IPP Non-CHP,Big Spring,Howard,Texas,79720,wind,142.5,Onshore Wind Turbine
+powerplant_wind_2020.393,393,Panther Creek Wind Farm II,RWE Renewables Americas LLC,IPP Non-CHP,Big Spring,Glasscock,Texas,79720,wind,115.5,Onshore Wind Turbine
+powerplant_wind_2020.394,394,FPL Energy Crystal Lake Wind LLC,FPL Energy Crystal Lake Wind LLC,IPP Non-CHP,Britt,Hancock,Iowa,50423,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.395,395,FPL Energy Story Wind LLC,FPL Energy Story Wind LLC,IPP Non-CHP,Zearing,Story,Iowa,50278,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.396,396,FPL Energy Crystal Lake Wind II LLC,FPL Energy Crystal Lake Wind II LLC,IPP Non-CHP,Britt,Hancock,Iowa,50423,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.397,397,Threemile Canyon,"Threemile Canyon Wind I, LLC",IPP Non-CHP,Boardman,Morrow,Oregon,97818,wind,9.9,Onshore Wind Turbine
+powerplant_wind_2020.398,398,Cassia Wind,"Cassia Wind Farm, LLC",IPP Non-CHP,Hagerman,Twin Falls,Idaho,83301,wind,10.5,Onshore Wind Turbine
+powerplant_wind_2020.399,399,Cassia Gulch,"Cassia Gulch Wind Park, LLC",IPP Non-CHP,Hagerman,Twin Falls,Idaho,83301,wind,18.9,Onshore Wind Turbine
+powerplant_wind_2020.400,400,Grand Ridge Wind Energy Center,Invenergy Services LLC,IPP Non-CHP,Marseilles,LaSalle,Illinois,60470,wind,210,Onshore Wind Turbine
+powerplant_wind_2020.401,401,Forward Wind Energy Center,Wisconsin Public Service Corp,IPP Non-CHP,Brownsville,Dodge,Wisconsin,53006,wind,18.9,Onshore Wind Turbine
+powerplant_wind_2020.402,402,High Lonesome Mesa LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Willard,Torrance,New Mexico,87063,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.403,403,Buffalo Bear LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Woodward,Harper,Oklahoma,73801,wind,18.9,Onshore Wind Turbine
+powerplant_wind_2020.404,404,Elkhorn Ridge Wind LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Bloomfield,Knox,Nebraska,68718,wind,81,Onshore Wind Turbine
+powerplant_wind_2020.405,405,Willow Creek Energy Center,Invenergy Services LLC,IPP Non-CHP,Lone,Morrow,Oregon,97843,wind,72,Onshore Wind Turbine
+powerplant_wind_2020.406,406,High Sheldon Wind Farm,Invenergy Services LLC,IPP Non-CHP,Strykersville,Wyoming,New York,14167,wind,112,Onshore Wind Turbine
+powerplant_wind_2020.407,407,Bull Creek Wind,Bull Creek Wind LLC,IPP Non-CHP,O'Donnell,Borden,Texas,79351,wind,180,Onshore Wind Turbine
+powerplant_wind_2020.408,408,Ocotillo Windpower,Duke Energy DEGS Ocotillo,IPP Non-CHP,Forsan,Howard,Texas,79733,wind,58.8,Onshore Wind Turbine
+powerplant_wind_2020.409,409,Happy Jack Windpower Project,Duke Energy DEGS Happy Jack,IPP Non-CHP,Cheyenne,Laramie,Wyoming,82009,wind,29.4,Onshore Wind Turbine
+powerplant_wind_2020.410,410,Notrees Windpower Hybrid,Duke Energy DEGS Notrees,IPP Non-CHP,Goldsmith,Ector,Texas,79741,wind,188.5,Batteries; Onshore Wind Turbine;
+powerplant_wind_2020.411,411,Butter Creek Power LLC,Echo 3,IPP Non-CHP,Echo,Umatilla,Oregon,97826,wind,5,Onshore Wind Turbine
+powerplant_wind_2020.412,412,Big Top LLC,Echo 3,IPP Non-CHP,Echo,Morrow,Oregon,97826,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.413,413,Four Corners Windfarm LLC,Echo 2,IPP Non-CHP,Echo,Umatilla,Oregon,97826,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.414,414,Four Mile Canyon Windfarm LLC,Echo 2,IPP Non-CHP,Echo,Morrow,Oregon,97826,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.415,415,Oregon Trail Windfarm LLC,Echo 1,IPP Non-CHP,Echo,Umatilla,Oregon,97826,wind,9.9,Onshore Wind Turbine
+powerplant_wind_2020.416,416,Pacific Canyon Windfarm LLC,Echo 1,IPP Non-CHP,Echo,Morrow,Oregon,97826,wind,8.3,Onshore Wind Turbine
+powerplant_wind_2020.417,417,Sand Ranch Windfarm LLC,Echo 1,IPP Non-CHP,Echo,Morrow,Oregon,97826,wind,9.9,Onshore Wind Turbine
+powerplant_wind_2020.418,418,Wagon Trail LLC,Echo 3,IPP Non-CHP,Echo,Morrow,Oregon,97826,wind,3.3,Onshore Wind Turbine
+powerplant_wind_2020.419,419,Ward Butte Windfarm LLC,Echo 1,IPP Non-CHP,Echo,Umatilla,Oregon,97826,wind,6.6,Onshore Wind Turbine
+powerplant_wind_2020.420,420,Panther Creek Wind Farm Three,RWE Renewables Americas LLC,IPP Non-CHP,Big Spring,Sterling,Texas,79720,wind,199.5,Onshore Wind Turbine
+powerplant_wind_2020.421,421,Stony Creek Wind Farm LLC,RWE Renewables Americas LLC,IPP Non-CHP,Berlin,Somerset,Pennsylvania,15926,wind,52.5,Onshore Wind Turbine
+powerplant_wind_2020.422,422,Pyron Wind Farm LLC Hybrid,RWE Renewables Americas LLC,IPP Non-CHP,Hermleigh,Fisher,Texas,79545,wind,258.9,Batteries; Onshore Wind Turbine;
+powerplant_wind_2020.423,423,Papalote Creek I LLC,RWE Renewables Americas LLC,IPP Non-CHP,Taft,San Patricio,Texas,78390,wind,180,Onshore Wind Turbine
+powerplant_wind_2020.424,424,Inadale Wind Farm LLC Hybrid,RWE Renewables Americas LLC,IPP Non-CHP,Roscoe,Nolan,Texas,79545,wind,206.9,Batteries; Onshore Wind Turbine;
+powerplant_wind_2020.425,425,Smoky Hills Wind Project Phase II,Smoky Hills Wind Project II LLC,IPP Non-CHP,Lincoln,Lincoln,Kansas,67455,wind,148.5,Onshore Wind Turbine
+powerplant_wind_2020.426,426,Stetson Wind I,"First Wind O&M, LLC",IPP Non-CHP,Danforth,Washington,Maine,4424,wind,57,Onshore Wind Turbine
+powerplant_wind_2020.427,427,Rollins Wind Project,"First Wind O&M, LLC",IPP Non-CHP,Winn Village,Penobscot,Maine,4495,wind,60,Onshore Wind Turbine
+powerplant_wind_2020.428,428,Stetson Wind II,"First Wind O&M, LLC",IPP Non-CHP,Danforth,Washington,Maine,4654,wind,25.5,Onshore Wind Turbine
+powerplant_wind_2020.429,429,Grand Meadow,Northern States Power Co - Minnesota,Electric Utility,Dexter,Mower,Minnesota,55926,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.430,430,Oakfield Wind Project,Novatus Energy,IPP Non-CHP,City of Oakfield,Aroostook,Maine,4747,wind,148,Onshore Wind Turbine
+powerplant_wind_2020.431,431,Luverne Wind Energy Center,Otter Tail Power Co,Electric Utility,Luverne,Steele,North Dakota,58056,wind,49.5,Onshore Wind Turbine
+powerplant_wind_2020.432,432,Ashtabula Wind Energy Center,Otter Tail Power Co,Electric Utility,Luverne,Barnes,North Dakota,58056,wind,48,Onshore Wind Turbine
+powerplant_wind_2020.433,433,Langdon Wind Energy Center,Otter Tail Power Co,Electric Utility,Langdon,Cavalier,North Dakota,58249,wind,40.5,Onshore Wind Turbine
+powerplant_wind_2020.434,434,Bison I Wind Energy Center,"ALLETE, Inc.",Electric Utility,New Salem,Morton,North Dakota,58563,wind,81.8,Onshore Wind Turbine
+powerplant_wind_2020.435,435,McFadden Ridge,PacifiCorp,Electric Utility,Rock River,Albany,Wyoming,82637,wind,35.2,Onshore Wind Turbine
+powerplant_wind_2020.436,436,High Plains,PacifiCorp,Electric Utility,Rock River,Albany,Wyoming,82083,wind,122.1,Onshore Wind Turbine
+powerplant_wind_2020.437,437,Armenia Mountain Wind Farm,Allete Clean Energy,IPP Non-CHP,Mainesburg,Tioga,Pennsylvania,16932,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.438,438,Rolling Thunder Wind Farm Hybrid,AE Power Services LLC,IPP Non-CHP,Miller,Hand,South Dakota,57362,wind,25.8,Batteries; Onshore Wind Turbine;
+powerplant_wind_2020.439,439,Nobles Wind Project,Northern States Power Co - Minnesota,Electric Utility,Reading,Nobles,Minnesota,56165,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.440,440,NaturEner Glacier Wind Energy 1,NaturEner Glacier Wind Energy 1 LLC,IPP Non-CHP,Ethridge,Toole,Montana,59435,wind,104.2,Onshore Wind Turbine
+powerplant_wind_2020.441,441,NaturEner Glacier Wind Energy 2,NaturEner Glacier Wind Energy 2 LLC,IPP Non-CHP,Ethridge,Toole,Montana,59435,wind,101.4,Onshore Wind Turbine
+powerplant_wind_2020.442,442,Steel Winds II,"First Wind O&M, LLC",IPP Non-CHP,Lackawanna,Erie,New York,14218,wind,15,Onshore Wind Turbine
+powerplant_wind_2020.443,443,Milford Wind Corridor I LLC,Longroad Energy Services LLC,IPP Non-CHP,Milford,Beaver,Utah,84751,wind,203.5,Onshore Wind Turbine
+powerplant_wind_2020.444,444,Sheffield Wind,"First Wind O&M, LLC",IPP Non-CHP,Sheffield,Caledonia,Vermont,5866,wind,40,Onshore Wind Turbine
+powerplant_wind_2020.445,445,Kaheawa Wind Power II LLC,"First Wind O&M, LLC",IPP Non-CHP,Wailuku,Maui,Hawaii,96793,wind,31,Batteries; Onshore Wind Turbine;
+powerplant_wind_2020.446,446,Bull Hill Wind Project,"First Wind O&M, LLC",IPP Non-CHP,Eastbrook,Hancock,Maine,4634,wind,34.5,Onshore Wind Turbine
+powerplant_wind_2020.447,447,Kahuku Wind Power LLC,"First Wind O&M, LLC",IPP Non-CHP,Honolulu,Honolulu,Hawaii,96731,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.448,448,Campbell Hill Windpower,Duke Energy DEGS Campbell Hill,IPP Non-CHP,Glenrock,Converse,Wyoming,82637,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.449,449,Silver Sage Windpower,Duke Energy DEGS Silver Sage Wndpwr LLC,IPP Non-CHP,Cheyenne,Laramie,Wyoming,82009,wind,42,Onshore Wind Turbine
+powerplant_wind_2020.450,450,Casper Wind Farm,Chevron USA,IPP Non-CHP,Evansville,Natrona,Wyoming,82636,wind,17,Onshore Wind Turbine
+powerplant_wind_2020.451,451,Streator Cayuga Ridge South,Avangrid Renewables LLC,IPP Non-CHP,Odell,Livingston,Illinois,60460,wind,300,Onshore Wind Turbine
+powerplant_wind_2020.452,452,Penascal II Wind Project LLC,Avangrid Renewables LLC,IPP Non-CHP,Sarita,Kenedy,Texas,78385,wind,201,Onshore Wind Turbine
+powerplant_wind_2020.453,453,Star Point Wind Project LLC,Avangrid Renewables LLC,IPP Non-CHP,Wasco,Sherman,Oregon,97065,wind,98.7,Onshore Wind Turbine
+powerplant_wind_2020.454,454,Rugby Wind Power Project,Avangrid Renewables LLC,IPP Non-CHP,Barton,Pierce,North Dakota,58384,wind,149,Onshore Wind Turbine
+powerplant_wind_2020.455,455,Dry Lake Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Heber,Navajo,Arizona,85928,wind,63,Onshore Wind Turbine
+powerplant_wind_2020.456,456,Mesalands Comm College Wind Turbine,Mesalands Community College,Commercial Non-CHP,Tucumcari,Quay,New Mexico,88401,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.457,457,Milford Wind Corridor Stage II LLC,Milford Wind Corridor Stage II LLC,IPP Non-CHP,Milford,Beaver,Utah,84751,wind,102,Onshore Wind Turbine
+powerplant_wind_2020.458,458,Blue Canyon Windpower V LLC,Blue Canyon Windpower V LLC,IPP Non-CHP,Carnegie,Caddo,Oklahoma,57015,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.459,459,Meadow Lake Wind Farm LLC,Meadow Lake Wind Farm LLC,IPP Non-CHP,Lafayette,White,Indiana,49707,wind,199.7,Onshore Wind Turbine
+powerplant_wind_2020.460,460,Blackstone Wind Farm LLC,Blackstone Wind Farm LLC,IPP Non-CHP,Ransom,Livingston,Illinois,60420,wind,102,Onshore Wind Turbine
+powerplant_wind_2020.461,461,Lost Lakes Wind Farm LLC,Lost Lakes Wind Farm LLC,IPP Non-CHP,Lake Park,Dickinson,Iowa,51347,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.462,462,Meadow Lake Wind Farm II LLC,Meadow Lake Wind Farm II LLC,IPP Non-CHP,Lafayette,White,Indiana,49707,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.463,463,Blackstone Wind Farm II LLC,Blackstone Wind Farm II LLC,IPP Non-CHP,Dwight,Livingston,Illinois,60420,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.464,464,Meadow Lake Wind Farm III LLC,Meadow Lake Wind Farm III LLC,IPP Non-CHP,Lafayette,White,Indiana,49707,wind,103.5,Onshore Wind Turbine
+powerplant_wind_2020.465,465,Quilt Block Wind Farm LLC,Quilt Block Wind Farm LLC,IPP Non-CHP,Darlington,Lafayette,Wisconsin,56350,wind,98,Onshore Wind Turbine
+powerplant_wind_2020.466,466,Greensburg,"Greensburg Wind Farm, LLC",IPP Non-CHP,Greensburg,Kiowa,Kansas,67054,wind,12.5,Onshore Wind Turbine
+powerplant_wind_2020.467,467,Wilton Wind II LLC,Wilton Wind II LLC,IPP Non-CHP,Wilton,Burleigh,North Dakota,58579,wind,49.5,Onshore Wind Turbine
+powerplant_wind_2020.468,468,Ashtabula Wind II LLC,Ashtabula Wind II LLC,IPP Non-CHP,Luverne,Steele,North Dakota,58056,wind,120,Onshore Wind Turbine
+powerplant_wind_2020.469,469,Payne's Ferry,Idaho Wind Partners 1 LLC,IPP Non-CHP,Hagerman,Twin Falls,Idaho,83332,wind,21,Onshore Wind Turbine
+powerplant_wind_2020.470,470,Camp Reed,Idaho Wind Partners 1 LLC,IPP Non-CHP,Glenns Ferry,Elmore,Idaho,83332,wind,22.5,Onshore Wind Turbine
+powerplant_wind_2020.471,471,Yahoo Creek,Idaho Wind Partners 1 LLC,IPP Non-CHP,Hagerman,Twin Falls,Idaho,83332,wind,21,Onshore Wind Turbine
+powerplant_wind_2020.472,472,Beaver Ridge Wind,Beaver Ridge Wind LLC,IPP Non-CHP,Freedom,Waldo,Maine,4941,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.473,473,Stoney Corners Wind Farm,Heritage Stoney Corners Wind Farm I LLC,IPP Non-CHP,McBain,Missaukee,Michigan,49657,wind,59,Onshore Wind Turbine
+powerplant_wind_2020.474,474,Big Sky Wind LLC,RWE Renewables Americas LLC,IPP Non-CHP,Ohio,Bureau,Illinois,61349,wind,240,Onshore Wind Turbine
+powerplant_wind_2020.475,475,Tuana Springs,"Tuana Springs Energy, LLC",IPP Non-CHP,Hagerman,Twin Falls,Idaho,83301,wind,16.8,Onshore Wind Turbine
+powerplant_wind_2020.476,476,Eurus Combine Hills Turbine Ranch 2,Eurus Combine Hills II LLC,IPP Non-CHP,Milton Freewater,Umatilla,Oregon,97862,wind,66.1,Onshore Wind Turbine
+powerplant_wind_2020.477,477,Highland Wind Project (PA),RWE Renewables Americas LLC,IPP Non-CHP,Sidman,Cambria,Pennsylvania,15955,wind,62.5,Onshore Wind Turbine
+powerplant_wind_2020.478,478,Beech Ridge Energy LLC,Invenergy Services LLC,IPP Non-CHP,Rupert,Greenbrier,West Virginia,25984,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.479,479,Harvest Wind Project,Harvest Wind Project TIC,IPP Non-CHP,Roosevelt,Klickitat,Washington,99356,wind,98.9,Onshore Wind Turbine
+powerplant_wind_2020.480,480,Langford Wind Power,Langford Wind Power LLC,IPP Non-CHP,Christoval,Tom Green,Texas,76935,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.481,481,Barton Chapel Wind Farm,Avangrid Renewables LLC,IPP Non-CHP,Jacksboro,Jack,Texas,76458,wind,120,Onshore Wind Turbine
+powerplant_wind_2020.482,482,Windy Flats Wind Project,Windy Flats Partners LLC,IPP Non-CHP,Centerville,Klickitat,Washington,98613,wind,262.2,Onshore Wind Turbine
+powerplant_wind_2020.483,483,Cedar Hills Wind Farm,Montana-Dakota Utilities Co,Electric Utility,Rhame,Bowman,North Dakota,58651,wind,19.5,Onshore Wind Turbine
+powerplant_wind_2020.484,484,Colorado Highlands Wind,Colorado Highlands Wind LLC,IPP Non-CHP,Fleming,Logan,Colorado,80728,wind,96.1,Onshore Wind Turbine
+powerplant_wind_2020.485,485,University of Delaware Wind Turbine,First State Marine Wind,Commercial Non-CHP,Lewes,Sussex,Delaware,19958,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.486,486,Meadow Lake Wind Farm IV,Meadow Lake Wind Farm IV LLC,IPP Non-CHP,Lafayette,White,Indiana,49707,wind,98.7,Onshore Wind Turbine
+powerplant_wind_2020.487,487,PPL Frey Farm Landfill Wind,EPP Renewable Energy,IPP Non-CHP,Conestoga,Lancaster,Pennsylvania,17516,wind,3.2,Onshore Wind Turbine
+powerplant_wind_2020.488,488,Pillar Mountain Wind Project Microgrid,Kodiak Electric Assn Inc,Electric Utility,Kodiak,Kodiak Island,Alaska,99615,wind,9,Onshore Wind Turbine
+powerplant_wind_2020.489,489,Vantage Wind Energy LLC,Invenergy Services LLC,IPP Non-CHP,Ellensburg,Kittitas,Washington,98926,wind,90,Onshore Wind Turbine
+powerplant_wind_2020.490,490,Lost Creek Wind Energy Facility,Pattern Operators LP,IPP Non-CHP,King City,DeKalb,Missouri,64463,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.491,491,Spring Valley Wind Project,Pattern Operators LP,IPP Non-CHP,Ely,White Pine,Nevada,89301,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.492,492,Day County Wind LLC,Day County Wind LLC,IPP Non-CHP,Conde,Day,South Dakota,57434,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.493,493,Lower Snake River Wind Energy Project,Puget Sound Energy Inc,Electric Utility,Pomeroy,Garfield,Washington,99347,wind,342.7,Onshore Wind Turbine
+powerplant_wind_2020.494,494,Bent Tree Wind Farm Phase 1,Wisconsin Power & Light Co,Electric Utility,Hartland,Freeborn,Minnesota,56042,wind,201.3,Onshore Wind Turbine
+powerplant_wind_2020.495,495,Glacier Hills,Wisconsin Electric Power Co,Electric Utility,Cambria,Columbia,Wisconsin,53923,wind,24,Onshore Wind Turbine
+powerplant_wind_2020.496,496,FPL Energy Montezuma Winds LLC,FPL Energy Montezuma Wind,IPP Non-CHP,Birds Landing,Solano,California,94512,wind,36.8,Onshore Wind Turbine
+powerplant_wind_2020.497,497,Cedar Creek II,AE Power Services LLC,IPP Non-CHP,New Raymer,Weld,Colorado,80742,wind,248.3,Onshore Wind Turbine
+powerplant_wind_2020.498,498,Goshen Phase II,AE Power Services LLC,IPP Non-CHP,Idaho Falls,Bonneville,Idaho,83427,wind,124.5,Onshore Wind Turbine
+powerplant_wind_2020.499,499,Papalote Creek II LLC,RWE Renewables Americas LLC,IPP Non-CHP,Taft,San Patricio,Texas,78390,wind,200.1,Onshore Wind Turbine
+powerplant_wind_2020.500,500,Waverly Community Wind Project,Waverly Municipal Elec Utility,Electric Utility,Waverly,Bremer,Iowa,50677,wind,2.7,Onshore Wind Turbine
+powerplant_wind_2020.501,501,Roth Rock Wind Farm LLC,Roth Rock Wind Farm LLC,IPP Non-CHP,Oakland,Garrett,Maryland,21550,wind,40,Onshore Wind Turbine
+powerplant_wind_2020.502,502,"Roth Rock North Wind Farm, LLC",Roth Rock Wind Farm LLC,IPP Non-CHP,Oakland,Garrett,Maryland,21550,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.503,503,Kit Carson Windpower,Kit Carson Windpower LLC,IPP Non-CHP,Burlington,Kit Carson,Colorado,80807,wind,51,Onshore Wind Turbine
+powerplant_wind_2020.504,504,Welcome Wind Turbine,Federated Rural Electric Assn,Electric Utility,Welcome,Martin,Minnesota,56181,wind,2.1,Onshore Wind Turbine
+powerplant_wind_2020.505,505,Lakota Wind Wind Farm,Iowa Lakes Electric Coop,Electric Utility,Lakota,Kossuth,Iowa,50451,wind,10.5,Onshore Wind Turbine
+powerplant_wind_2020.506,506,Iowa Lakes Superior Wind Farm,Iowa Lakes Electric Coop,Electric Utility,Superior,Dickinson,Iowa,51363,wind,10.5,Onshore Wind Turbine
+powerplant_wind_2020.507,507,MA Military Reservation Wind Project,Air Force Civil Engineer Center,IPP Non-CHP,Otis ANG Base Bourne,Barnstable,Massachusetts,2542,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.508,508,Iowa Lakes Community College Wind Farm,Iowa Lakes Community College,Commercial Non-CHP,Estherville,Emmet,Iowa,51334,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.509,509,Texico Wind Ranch LP,Texico Wind LP,IPP Non-CHP,Texico,Curry,New Mexico,88135,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.510,510,Cedro Hill Wind LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Bruni,Webb,Texas,78344,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.511,511,Taloga Wind LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Putnam,Dewey,Oklahoma,73659,wind,130,Onshore Wind Turbine
+powerplant_wind_2020.512,512,Laredo Ridge Wind LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Petersburg,Boone,Nebraska,68652,wind,79.9,Onshore Wind Turbine
+powerplant_wind_2020.513,513,Little Pringle I Wind Farm,DeWind Co.,IPP Non-CHP,Morse,Hutchinson,Texas,79062,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.514,514,Little Pringle II Wind Farm,DeWind Co.,IPP Non-CHP,Morse,Hutchinson,Texas,79062,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.515,515,Chestnut Flats Wind Farm,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Altoona,Blair,Pennsylvania,16601,wind,38,Onshore Wind Turbine
+powerplant_wind_2020.516,516,Grant County Wind LLC,"Grant County Wind, LLC",IPP Non-CHP,Woodstock,Grant,Minnesota,56186,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.517,517,Crofton Bluffs Wind LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Bloomfield,Knox,Nebraska,68516,wind,40,Onshore Wind Turbine
+powerplant_wind_2020.518,518,Alta Wind Energy Center I,NRG Yield LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.519,519,Flat Water Wind Farm LLC,Flat Water Wind Farm LLC,IPP Non-CHP,Du Bois,Richardson,Nebraska,68345,wind,60,Onshore Wind Turbine
+powerplant_wind_2020.520,520,Minonk Wind Farm,Algonquin Power Co,IPP Non-CHP,Minonk,Woodford,Illinois,61760,wind,192.3,Onshore Wind Turbine
+powerplant_wind_2020.521,521,Sandy Ridge Wind Farm,Algonquin Power Co,IPP Non-CHP,Tyrone,Blair,Pennsylvania,16686,wind,48.2,Onshore Wind Turbine
+powerplant_wind_2020.522,522,OU Spirit Wind Farm,Oklahoma Gas & Electric Co,Electric Utility,Woodward,Woodward,Oklahoma,73801,wind,101.2,Onshore Wind Turbine
+powerplant_wind_2020.523,523,Hardscrabble Wind Power LLC,Avangrid Renewables LLC,IPP Non-CHP,Little Falls,Herkimer,New York,13365,wind,74,Onshore Wind Turbine
+powerplant_wind_2020.524,524,Big Blue,Big Blue Wind Farm LLC (MN),IPP Non-CHP,Blue Earth,Faribault,Minnesota,56013,wind,36,Onshore Wind Turbine
+powerplant_wind_2020.525,525,Northern Colorado Wind LLC,Northern Colorado Wind LLC,IPP Non-CHP,Peetz,Logan,Colorado,80747,wind,174.3,Onshore Wind Turbine
+powerplant_wind_2020.526,526,Alta Wind Energy Center II,NRG Yield LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.527,527,Alta Wind Energy Center III,NRG Yield LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.528,528,Alta Wind Energy Center IV,NRG Yield LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,102,Onshore Wind Turbine
+powerplant_wind_2020.529,529,Alta Wind Energy Center V,NRG Yield LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,168,Onshore Wind Turbine
+powerplant_wind_2020.530,530,Dunlap,PacifiCorp,Electric Utility,Medicine Bow,Carbon,Wyoming,82329,wind,111,Onshore Wind Turbine
+powerplant_wind_2020.531,531,Criterion,Criterion Power Partners LLC,IPP Non-CHP,Oakland,GARRETT,Maryland,21550,wind,70,Onshore Wind Turbine
+powerplant_wind_2020.532,532,Garnet Wind Energy Center,Terra-Gen Operating Co-Wind,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,6.5,Onshore Wind Turbine
+powerplant_wind_2020.533,533,Loraine Windpark Project LLC,Loraine Windpower Project,IPP Non-CHP,Loraine,Mitchell,Texas,79532,wind,148.5,Onshore Wind Turbine
+powerplant_wind_2020.534,534,Cedar Point Wind,Cedar Point LLC,IPP Non-CHP,Limon,Lincoln,Colorado,80828,wind,252,Onshore Wind Turbine
+powerplant_wind_2020.535,535,Big Horn Wind II,Avangrid Renewables LLC,IPP Non-CHP,Bickleton,Klickitat,Washington,99322,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.536,536,Juniper Canyon I Wind Project,Avangrid Renewables LLC,IPP Non-CHP,Bickleton,Klickitat,Washington,99322,wind,151.2,Onshore Wind Turbine
+powerplant_wind_2020.537,537,FPL Energy Illinois Wind LLC,FPL Energy Illinois Wind LLC,IPP Non-CHP,Shabbona,DeKalb,Illinois,60550,wind,237.5,Batteries; Onshore Wind Turbine;
+powerplant_wind_2020.538,538,Sunray Wind I,Diamond Shamrock Refining Company LP,IPP Non-CHP,Sunray,Moore,Texas,79086,wind,49.5,Onshore Wind Turbine
+powerplant_wind_2020.539,539,Top of the World Windpower Project,Duke Energy Top Of the World WindPower,IPP Non-CHP,Glenrock,Converse,Wyoming,82637,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.540,540,Crossroads Wind Farm,Oklahoma Gas & Electric Co,Electric Utility,Canton,Dewey,Oklahoma,73724,wind,227,Onshore Wind Turbine
+powerplant_wind_2020.541,541,Leaning Juniper Wind Power II,Avangrid Renewables LLC,IPP Non-CHP,Arlington,Gilliam,Oregon,97812,wind,201,Onshore Wind Turbine
+powerplant_wind_2020.542,542,White Oak Energy LLC,White Oak Energy LLC,IPP Non-CHP,Carlock,McLean,Illinois,61725,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.543,543,Elk City LLC,Elk City LLC,IPP Non-CHP,Sweetwater,Roger Mills,Oklahoma,73666,wind,198.1,Onshore Wind Turbine
+powerplant_wind_2020.544,544,Baldwin Wind LLC,Baldwin Wind LLC,IPP Non-CHP,Wilton,Burleigh,North Dakota,58579,wind,102.4,Onshore Wind Turbine
+powerplant_wind_2020.545,545,Uilk Wind LLC,RENEW Energy Inc,Commercial Non-CHP,Pipestone,Pipestone,Minnesota,56164,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.546,546,Fox Island Wind LLC,Fox Island Wind LLC,IPP Non-CHP,Vinalhaven,Knox,Maine,4863,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.547,547,Red Mesa Wind LLC,Red Mesa Wind LLC,IPP Non-CHP,Seboyeta,Sandoval,New Mexico,87014,wind,102.4,Onshore Wind Turbine
+powerplant_wind_2020.548,548,Keenan II Renewable Energy Co LLC,CPV Keenan II Renewable Energy Co LLC,IPP Non-CHP,Woodward,Woodward,Oklahoma,73801,wind,151.8,Onshore Wind Turbine
+powerplant_wind_2020.549,549,Lakefield Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Lakefield,Jackson,Minnesota,56150,wind,205.5,Onshore Wind Turbine
+powerplant_wind_2020.550,550,Adams Wind Generations LLC,"BEAM US, LLC",IPP Non-CHP,Cosmos,Meeker,Minnesota,56228,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.551,551,"Poseidon Wind, LLC","Axium Arizona Renewables, LLC",IPP Non-CHP,Herber,Navajo,Arizona,85928,wind,65.1,Onshore Wind Turbine
+powerplant_wind_2020.552,552,New England Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Monroe,Berkshire,Massachusetts,1350,wind,28.5,Onshore Wind Turbine
+powerplant_wind_2020.553,553,Community Wind North LLC,Longroad Energy Services LLC,IPP Non-CHP,Verdi Township,Lincoln,Minnesota,56136,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.554,554,Ridgewind,Ridgewind Power Partners LLC,IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,25.3,Onshore Wind Turbine
+powerplant_wind_2020.555,555,Ashtabula Wind III LLC,Ashtabula Wind III LLC,IPP Non-CHP,Luverne,Barnes,North Dakota,58056,wind,62.4,Onshore Wind Turbine
+powerplant_wind_2020.556,556,Danielson Wind Farms LLC,"BEAM US, LLC",IPP Non-CHP,Cosmos,Meeker,Minnesota,56228,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.557,557,Notus Wind 1,Notus Clean Energy LLC,IPP Non-CHP,E. Falmouth,Barnstable,Massachusetts,2536,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.558,558,Sherbino II,Sherbino II Wind Farm LLC,IPP Non-CHP,Ft. Stockton,Pecos,Texas,79735,wind,145,Onshore Wind Turbine
+powerplant_wind_2020.559,559,Elk Wind Farm,RPMA Operations LLC,IPP Non-CHP,Greeley,Delaware,Iowa,52050,wind,40.8,Onshore Wind Turbine
+powerplant_wind_2020.560,560,Gratiot Wind Park,DTE Electric Company,Electric Utility,Breckenridge,Gratiot,Michigan,48615,wind,102,Onshore Wind Turbine
+powerplant_wind_2020.561,561,Buffalo Ridge II LLC,Avangrid Renewables LLC,IPP Non-CHP,Elkton,Brookings,South Dakota,57026,wind,210,Onshore Wind Turbine
+powerplant_wind_2020.562,562,Ryegrass Windfarm,Aegis Renewables LLC,IPP Non-CHP,Glenns Ferry,Elmore,Idaho,83623,wind,23,Onshore Wind Turbine
+powerplant_wind_2020.563,563,Hammett Hill Windfarm,Aegis Renewables LLC,IPP Non-CHP,Glenns Ferry,Elmore,Idaho,83623,wind,23,Onshore Wind Turbine
+powerplant_wind_2020.564,564,Mainline Windfarm,Aegis Renewables LLC,IPP Non-CHP,Glenns Ferry,Elmore,Idaho,83623,wind,23,Onshore Wind Turbine
+powerplant_wind_2020.565,565,Desert Meadow Windfarm,Aegis Renewables LLC,IPP Non-CHP,Glenns Ferry,Elmore,Idaho,83623,wind,23,Onshore Wind Turbine
+powerplant_wind_2020.566,566,Cold Springs Windfarm,Aegis Renewables LLC,IPP Non-CHP,Glenns Ferry,Elmore,Idaho,83623,wind,23,Onshore Wind Turbine
+powerplant_wind_2020.567,567,Oak Glen Wind Farm,Minnesota Municipal Power Agny,Electric Utility,Blooming Prairie,Steele,Minnesota,55319,wind,44,Onshore Wind Turbine
+powerplant_wind_2020.568,568,Valley View Transmission LLC,Consolidated Edison Development Inc.,IPP Non-CHP,Chandler,PIPESTONE,Minnesota,56128,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.569,569,Two Ponds Windfarm,Aegis Renewables LLC,IPP Non-CHP,Glenns Ferry,Elmore,Idaho,83623,wind,23,Onshore Wind Turbine
+powerplant_wind_2020.570,570,Laurel Mountain Hybrid,AES Wind Generation Inc,IPP Non-CHP,Belington,Barbour,West Virginia,26250,wind,113.6,Batteries; Onshore Wind Turbine;
+powerplant_wind_2020.571,571,Blue Creek Wind Project,Avangrid Renewables LLC,IPP Non-CHP,Paulding,Van Wert,Ohio,45616,wind,302,Onshore Wind Turbine
+powerplant_wind_2020.572,572,Mountain View IV,AES Wind Generation Inc,IPP Non-CHP,North Palm Springs,Riverside,California,92258,wind,49,Onshore Wind Turbine
+powerplant_wind_2020.573,573,Bishop Hill Energy LLC,SunEdison LLC,IPP Non-CHP,Cambridge,Henry,Illinois,61491,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.574,574,Crystal Lake 3 LLC,Crystal Lake 3 LLC,IPP Non-CHP,Britt,Winnebago,Iowa,50423,wind,66,Onshore Wind Turbine
+powerplant_wind_2020.575,575,Garden Wind LLC,Garden Wind LLC,IPP Non-CHP,Zearing,Hardin,Iowa,50278,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.576,576,Ralls Wind Farm,Ralls Wind Farm LLC,IPP Non-CHP,Ralls,Crosby,Texas,79357,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.577,577,Manzana Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Rosamond,Kern,California,93560,wind,189,Onshore Wind Turbine
+powerplant_wind_2020.578,578,Settlers Trail Wind Farm LLC,RWE Renewables Americas LLC,IPP Non-CHP,Sheldon,Iroquois,Illinois,60966,wind,150.4,Onshore Wind Turbine
+powerplant_wind_2020.579,579,Laurel Wind Farm,MidAmerican Energy Co,Electric Utility,Laurel,Marshall,Iowa,50158,wind,119.6,Onshore Wind Turbine
+powerplant_wind_2020.580,580,Rolling Hills Wind Farm,MidAmerican Energy Co,Electric Utility,Massena,Cass,Iowa,50853,wind,443.9,Onshore Wind Turbine
+powerplant_wind_2020.581,581,Ocotillo Express LLC,Pattern Operators LP,IPP Non-CHP,Ocotillo,Imperial,California,92259,wind,265.4,Onshore Wind Turbine
+powerplant_wind_2020.582,582,KODE Novus I,DeWind Co.,IPP Non-CHP,Guymon,Texas,Oklahoma,73942,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.583,583,DeWind Frisco,DeWind Co.,IPP Non-CHP,Gruver,Hansford,Texas,79040,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.584,584,Trinity Hills,Trinity Hills Wind Farm LLC,IPP Non-CHP,Olney,Young,Texas,76374,wind,225,Onshore Wind Turbine
+powerplant_wind_2020.585,585,North Hurlburt Wind LLC,Caithness Shepherds Flat LLC,IPP Non-CHP,Arlington,Gilliam,Oregon,97812,wind,265,Onshore Wind Turbine
+powerplant_wind_2020.586,586,Kawailoa Wind,Kawailoa Wind LLC,IPP Non-CHP,Haleiwa,Honolulu,Hawaii,96712,wind,69,Onshore Wind Turbine
+powerplant_wind_2020.587,587,Palouse,Novatus Energy,IPP Non-CHP,Oakesdale,Whitman,Washington,99170,wind,105.3,Onshore Wind Turbine
+powerplant_wind_2020.588,588,Bingham Wind,Novatus Energy,IPP Non-CHP,Bingham,Piscataquis,Maine,4920,wind,186,Onshore Wind Turbine
+powerplant_wind_2020.589,589,Winona County Wind LLC,Winona County Wind LLC,IPP Non-CHP,Altura,Winona,Minnesota,55910,wind,0.5,Onshore Wind Turbine
+powerplant_wind_2020.590,590,South Hurlburt Wind LLC,Caithness Shepherds Flat LLC,IPP Non-CHP,Arlington,Gilliam,Oregon,97812,wind,290,Onshore Wind Turbine
+powerplant_wind_2020.591,591,Horseshoe Bend Wind LLC,Caithness Shepherds Flat LLC,IPP Non-CHP,Arlington,Gilliam,Oregon,97812,wind,290,Onshore Wind Turbine
+powerplant_wind_2020.592,592,Shirley Wind,Shirley Wind LLC,IPP Non-CHP,Denmark,Brown,Wisconsin,54208,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.593,593,GE - Tehachapi,GE Wind Energy LLC,IPP Non-CHP,Tehachapi,Kern,California,93561,wind,5.3,Onshore Wind Turbine
+powerplant_wind_2020.594,594,Record Hill Wind,Record Hill Wind LLC,IPP Non-CHP,Roxbury,Oxford,Maine,4275,wind,50.6,Onshore Wind Turbine
+powerplant_wind_2020.595,595,Cooper Farms VW Project,Cooper Hatchery Inc.,Industrial Non-CHP,Van Wert,Van Wert,Ohio,45891,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.596,596,PaTu Wind Farm LLC,PaTu Wind Farm LLC,IPP Non-CHP,Wasco,Sherman,Oregon,97065,wind,9,Onshore Wind Turbine
+powerplant_wind_2020.597,597,Shiloh III Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Birds Landing,Solano,California,94512,wind,102.5,Onshore Wind Turbine
+powerplant_wind_2020.598,598,"Minco Wind I, LLC","FPLE Wind, LLC",IPP Non-CHP,Minco,Grady,Oklahoma,73059,wind,99.2,Onshore Wind Turbine
+powerplant_wind_2020.599,599,Broken Bow Wind LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Broken Bow,Custer,Nebraska,68822,wind,79.9,Onshore Wind Turbine
+powerplant_wind_2020.600,600,Teichert Materials-Teichert Vernalis,"Foundation HA Energy Generation, LLC",IPP Non-CHP,San Joaquin,San Joaquin,California,95304,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.601,601,Pinnacle Wind Force LLC,NRG Energy Gas & Wind Holdings Inc,IPP Non-CHP,Keyser,Mineral,West Virginia,26726,wind,55.2,Onshore Wind Turbine
+powerplant_wind_2020.602,602,New Harvest Wind Project LLC,Avangrid Renewables LLC,IPP Non-CHP,Schleswig,Crawford,Iowa,51461,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.603,603,LE Wind Turbine 1,Lincoln Electric Company,Industrial Non-CHP,Euclid,Cuyahoga,Ohio,44117,wind,2.5,Onshore Wind Turbine
+powerplant_wind_2020.604,604,Waverly Wind Farm LLC,Waverly Wind Farm LLC,IPP Non-CHP,Waverly,Coffey,Kansas,66839,wind,199,Onshore Wind Turbine
+powerplant_wind_2020.605,605,Blue Canyon Windpower VI LLC,Blue Canyon Windpower VI LLC,IPP Non-CHP,Carnegie,Caddo,Oklahoma,73015,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.606,606,Hidalgo Wind Farm LLC,Hidalgo Wind Farm LLC,IPP Non-CHP,McCook,Hidalgo,Texas,78541,wind,250,Onshore Wind Turbine
+powerplant_wind_2020.607,607,Paulding Wind Farm II,Paulding Wind Farm II LLC,IPP Non-CHP,Payne,Paulding,Ohio,45880,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.608,608,Rising Tree Wind Farm,Rising Tree Wind Farm LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,79.2,Onshore Wind Turbine
+powerplant_wind_2020.609,609,Bright Stalk Wind Farm I,Lexington Chenoa Wind Farm LLC,IPP Non-CHP,Chenoa,McLean,Illinois,61726,wind,205.2,Onshore Wind Turbine
+powerplant_wind_2020.610,610,Foundation ST,"Foundation HA Energy Generation, LLC",IPP Non-CHP,Tracy,San Joaquin,California,95377,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.611,611,Meadow Lake Wind Farm V LLC,Meadow Lake Wind Farm V LLC,IPP Non-CHP,Chalmers,White,Indiana,47929,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.612,612,Wolverine,"Wolverine Wind Energy, LLC",IPP Non-CHP,Greenfield,Adair,Iowa,50849,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.613,613,Bulldog,"Bulldog Wind Energy, LLC",IPP Non-CHP,Orient,Adair,Iowa,50858,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.614,614,Linden Wind Energy Project,Los Angeles Department of Water & Power,Electric Utility,Goldendale,Klickitat,Washington,98620,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.615,615,Union City Wind Turbine,Performance Services,IPP Non-CHP,Union City,Randolph,Indiana,47390,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.616,616,Randolph Eastern School Wind Turbine,Performance Services,Commercial Non-CHP,Union City,Randolph,Indiana,47390,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.617,617,Ironwood Wind,Ironwood Windpower LLC,IPP Non-CHP,Spearville,Ford,Kansas,67876,wind,167.9,Onshore Wind Turbine
+powerplant_wind_2020.618,618,"Vestas Towers America, Inc.","Vestas Towers America, Inc",Industrial Non-CHP,Pueblo,Pueblo,Colorado,81004,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.619,619,Prairie Rose Wind Farm,"Enel Green Power NA, Inc.",IPP Non-CHP,Hardwick,Rock,Minnesota,56134,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.620,620,Zotos International WPGF,Zotos International,Industrial Non-CHP,Geneva,Ontario,New York,14456,wind,3.4,Onshore Wind Turbine
+powerplant_wind_2020.621,621,Elm Creek Wind II LLC,Avangrid Renewables LLC,IPP Non-CHP,Trimont,Martin,Minnesota,56176,wind,148.8,Onshore Wind Turbine
+powerplant_wind_2020.622,622,Cimarron Windpower II,"Cimarron Windpower II, LLC",IPP Non-CHP,Cimarron,Gray,Kansas,20069,wind,131,Onshore Wind Turbine
+powerplant_wind_2020.623,623,"Pioneer Trail Wind Farm, LLC",RWE Renewables Americas LLC,IPP Non-CHP,Paxton,Iroquois,Illinois,60957,wind,150.4,Onshore Wind Turbine
+powerplant_wind_2020.624,624,"Post Rock Wind Power Project, LLC",Pattern Operators LP,IPP Non-CHP,Ellsworth,Ellsworth,Kansas,67439,wind,201,Onshore Wind Turbine
+powerplant_wind_2020.625,625,DOE Golden NWTC Research Side,DOE National Renewable Energy Laboratory,Commercial Non-CHP,Golden,Jefferson,Colorado,80403,wind,7.8,Batteries; Solar Photovoltaic; Onshore Wind Turbine
+powerplant_wind_2020.626,626,Vasco Winds,"Vasco Winds, LLC",IPP Non-CHP,Livermore,Contra Costa,California,94551,wind,78.2,Onshore Wind Turbine
+powerplant_wind_2020.627,627,Montezuma Wind II,"NextEra Energy Montezuma Wind II, LLC",IPP Non-CHP,Birds Landing,Solano,California,94512,wind,78.2,Onshore Wind Turbine
+powerplant_wind_2020.628,628,Berkshire Wind Power Project,Massachusetts Mun Wholes Electric Co,Electric Utility,Lanesboro,Berkshire,Massachusetts,1224,wind,19.6,Onshore Wind Turbine
+powerplant_wind_2020.629,629,Shiloh IV Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Birds Landing,Solano,California,94512,wind,102.5,Onshore Wind Turbine
+powerplant_wind_2020.630,630,UMM Wind Turbine,University of Minnesota Morris Campus,Commercial Non-CHP,Morris,Stevens,Minnesota,56267,wind,0.6,Onshore Wind Turbine
+powerplant_wind_2020.631,631,Suzlon Project VIII LLC,Suzlon Project VIII LLC,IPP Non-CHP,Channing,Hartley,Texas,79018,wind,4.2,Onshore Wind Turbine
+powerplant_wind_2020.632,632,Laurel Hill Wind,Laurel Wind Energy LLC,IPP Non-CHP,Roaring Branch,Lycoming,Pennsylvania,17765,wind,69,Onshore Wind Turbine
+powerplant_wind_2020.633,633,Gordon Butte Wind LLC,Gordon Butte Wind LLC,IPP Non-CHP,Martinsdale,Meagher,Montana,59053,wind,9.6,Onshore Wind Turbine
+powerplant_wind_2020.634,634,Sawtooth Wind Project,Idaho Winds LLC,IPP Non-CHP,Glenns Ferry,Elmore,Idaho,83623,wind,22.4,Onshore Wind Turbine
+powerplant_wind_2020.635,635,Los Vientos Wind 1A,"Los Vientos Wind 1A, LLC",IPP Non-CHP,Sebastian,Cameron,Texas,78594,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.636,636,Los Vientos Wind 1B,"Los Vientos Wind 1B, LLC",IPP Non-CHP,Sebastian,Cameron,Texas,78594,wind,201.6,Onshore Wind Turbine
+powerplant_wind_2020.637,637,TPW Petersburg,TPW Petersburg LLC,IPP Non-CHP,Petersburg,Boone,Nebraska,68652,wind,40.5,Onshore Wind Turbine
+powerplant_wind_2020.638,638,Coastal Energy Project,Coastal Community Action Program,IPP Non-CHP,Aberdeen,Grays Harbor,Washington,98520,wind,6,Onshore Wind Turbine
+powerplant_wind_2020.639,639,Pacific Wind LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Rosamond,Kern,California,93560,wind,140,Onshore Wind Turbine
+powerplant_wind_2020.640,640,Power County Wind Park South,Power County Wind Park South LLC,IPP Non-CHP,American Falls,Power,Idaho,83211,wind,22.5,Onshore Wind Turbine
+powerplant_wind_2020.641,641,Power County Wind Park North,Power County Wind Park North LLC,IPP Non-CHP,American Falls,Power,Idaho,83211,wind,22.5,Onshore Wind Turbine
+powerplant_wind_2020.642,642,Cimarron Wind Energy LLC,Cimarron Wind Energy LLC,IPP Non-CHP,Cimmaron,Gray,Kansas,67384,wind,165.6,Onshore Wind Turbine
+powerplant_wind_2020.643,643,Rockland Wind Farm,Ridgeline Energy LLC,IPP Non-CHP,American Falls,Power,Idaho,83211,wind,79.2,Onshore Wind Turbine
+powerplant_wind_2020.644,644,Brown County Wind Turbine,Adams Electric Cooperative,Electric Utility,Mount Sterling,Brown,Illinois,62353,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.645,645,Mehoopany Wind Energy LLC,AE Power Services LLC,IPP Non-CHP,Noxen,Wyoming,Pennsylvania,18636,wind,140.8,Onshore Wind Turbine
+powerplant_wind_2020.646,646,Windstar 1,Brookfield Renewable Trading and Marketing LP,IPP Non-CHP,Tehachapi,Kern,California,93561,wind,120,Onshore Wind Turbine
+powerplant_wind_2020.647,647,Kingman 1,Brookfield Renewable Trading and Marketing LP,IPP Non-CHP,Kingman,Mohave,Arizona,86401,wind,10.5,Solar Photovoltaic; Onshore Wind Turbine;
+powerplant_wind_2020.648,648,Flat Ridge 2 Wind Energy LLC,AE Power Services LLC,IPP Non-CHP,Zenda,Kingman,Kansas,67159,wind,470.4,Onshore Wind Turbine
+powerplant_wind_2020.649,649,Foundation AB,"Foundation HA Energy Generation, LLC",IPP Non-CHP,Fairfield,Solano,California,94534,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.650,650,Foundation IE,"Foundation HA Energy Generation, LLC",IPP Non-CHP,Rancho Cucamonga,San Bernardino,California,91739,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.651,651,Bison 2 Wind Energy Center,"ALLETE, Inc.",Electric Utility,New Salem,Morton,North Dakota,58563,wind,105,Onshore Wind Turbine
+powerplant_wind_2020.652,652,Bison 3 Wind Energy Center,"ALLETE, Inc.",Electric Utility,New Salem,Morton,North Dakota,58563,wind,105,Onshore Wind Turbine
+powerplant_wind_2020.653,653,Magic Valley Wind Farm I LLC,RWE Renewables Americas LLC,IPP Non-CHP,San Perlita,Willacy,Texas,78590,wind,203,Onshore Wind Turbine
+powerplant_wind_2020.654,654,Lime Wind,Lime Wind LLC,IPP Non-CHP,Huntington,Baker,Oregon,97907,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.655,655,GL Wind,GL Wind LLC,IPP Non-CHP,Lewiston,Winona,Minnesota,55952,wind,3.3,Onshore Wind Turbine
+powerplant_wind_2020.656,656,WCROC Wind Farm,University of Minnesota WCROC,IPP Non-CHP,Morris,Stevens,Minnesota,56267,wind,0.4,Onshore Wind Turbine
+powerplant_wind_2020.657,657,Rippey Wind Farm,RPMA Operations LLC,IPP Non-CHP,Grand Junction,Greene,Iowa,50107,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.658,658,Hawkeye Wind Farm,RPMA Operations LLC,IPP Non-CHP,Sumner,Bremer,Iowa,50674,wind,34,Onshore Wind Turbine
+powerplant_wind_2020.659,659,Mustang Hills LLC,RWE Renewables Americas LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.660,660,Pinyon Pine I,"Pinyon Pines Wind I, LLC",IPP Non-CHP,Mojave,Kern,California,93501,wind,168,Onshore Wind Turbine
+powerplant_wind_2020.661,661,Alta Wind VIII,Brookfield Renewable Trading and Marketing LP,IPP Non-CHP,Mojave,Kern,California,93501,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.662,662,Pinyon Pine II,"Pinyon Pines Wind II, LLC",IPP Non-CHP,Mojave,Kern,California,93501,wind,132,Onshore Wind Turbine
+powerplant_wind_2020.663,663,Franklin County Wind Farm,Interstate Power and Light Co,Electric Utility,Iowa Falls,Franklin,Iowa,50126,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.664,664,Sigel Wind Park,DTE Electric Company,Electric Utility,Harbor Beach,Huron,Michigan,48441,wind,64,Onshore Wind Turbine
+powerplant_wind_2020.665,665,Minden Wind Park,DTE Electric Company,Electric Utility,Minden City,Sanilac,Michigan,48456,wind,32,Onshore Wind Turbine
+powerplant_wind_2020.666,666,McKinley Wind Park,DTE Electric Company,Electric Utility,Pigeon,Huron,Michigan,48755,wind,14,Onshore Wind Turbine
+powerplant_wind_2020.667,667,Ipswich Wind Turbine,Town of Ipswich - (MA),Electric Utility,Ipswich,Essex,Massachusetts,1938,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.668,668,Caney River Wind Project,Caney River Wind Project,IPP Non-CHP,Howard,Elk,Kansas,67349,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.669,669,"Wildcat Wind Farm I, LLC",RWE Renewables Americas LLC,IPP Non-CHP,Elwood,Tipton,Indiana,46036,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.670,670,Golden Spread Panhandle Wnd Rch,"Golden Spread Electric Cooperative, Inc",Electric Utility,Wilderado,Oldham,Texas,79098,wind,78.2,Onshore Wind Turbine
+powerplant_wind_2020.671,671,Howard Wind Farm,RWE Renewables Americas LLC,IPP Non-CHP,Hornell,Steuben,New York,14843,wind,55.4,Onshore Wind Turbine
+powerplant_wind_2020.672,672,Eclipse Wind Farm,MidAmerican Energy Co,Electric Utility,Adair,Guthrie,Iowa,50002,wind,200.1,Onshore Wind Turbine
+powerplant_wind_2020.673,673,Vienna Wind Farm,MidAmerican Energy Co,Electric Utility,Marshalltown,Marshall,Iowa,50158,wind,150.2,Onshore Wind Turbine
+powerplant_wind_2020.674,674,Morning Light Wind Farm,MidAmerican Energy Co,Electric Utility,Adair,Adair,Iowa,50002,wind,101.2,Onshore Wind Turbine
+powerplant_wind_2020.675,675,Eolos Wind Energy Research Field Station,Regents of the University of Minnesota,IPP Non-CHP,Rosemount,Dakota,Minnesota,55068,wind,2.5,Onshore Wind Turbine
+powerplant_wind_2020.676,676,Wildcat Wind,"Wildcat Wind, LLC",IPP Non-CHP,Lovington,Lea,New Mexico,88260,wind,27.3,Onshore Wind Turbine
+powerplant_wind_2020.677,677,Harvest 2,"Harvest II Windfarm, LLC",IPP Non-CHP,Elkton,Huron,Michigan,48731,wind,59.4,Onshore Wind Turbine
+powerplant_wind_2020.678,678,KODE Novus II,DeWind Co.,IPP Non-CHP,Guymon,Texas,Oklahoma,73942,wind,40,Onshore Wind Turbine
+powerplant_wind_2020.679,679,"Horse Butte Wind I, LLC",Utah Associated Mun Power Sys,Electric Utility,Iona,Bonneville,Idaho,83427,wind,57.6,Onshore Wind Turbine
+powerplant_wind_2020.680,680,Tule Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Boulevard,San Diego,California,91905,wind,143,Onshore Wind Turbine
+powerplant_wind_2020.681,681,Baffin Wind,Avangrid Renewables LLC,IPP Non-CHP,Sarita,Kenedy,Texas,78385,wind,188,Onshore Wind Turbine
+powerplant_wind_2020.682,682,Eva Creek Wind,Golden Valley Elec Assn Inc,Electric Utility,Healy,Denali,Alaska,99743,wind,24.6,Onshore Wind Turbine
+powerplant_wind_2020.683,683,Macho Springs Power I,Capital Power Corporation,IPP Non-CHP,Deming,Luna,New Mexico,88030,wind,50.4,Onshore Wind Turbine
+powerplant_wind_2020.684,684,"Minco Wind II, LLC","FPLE Wind, LLC",IPP Non-CHP,Minco,Grady,Oklahoma,73059,wind,100.8,Onshore Wind Turbine
+powerplant_wind_2020.685,685,Brookfield Tehachapi 1,Consolidated Edison Development Inc.,IPP Non-CHP,Mojave,Kern,California,93501,wind,102,Onshore Wind Turbine
+powerplant_wind_2020.686,686,Musselshell Wind Project,Musselshell Wind Project LLC,IPP Non-CHP,Shawmut,Wheatland,Montana,59078,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.687,687,Shady Oaks Wind Farm,Algonquin Power Co,IPP Non-CHP,Compton,Lee,Illinois,61318,wind,109.5,Onshore Wind Turbine
+powerplant_wind_2020.688,688,Musselshell Wind Project Two LLC,Musselshell Wind Project Two LLC,IPP Non-CHP,Shawmut,Wheatland,Montana,59078,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.689,689,Cashton Greens Wind Farm,Cashton Greens Wind Farm LLC,IPP Non-CHP,Cashton,Monroe,Wisconsin,54619,wind,4.8,Onshore Wind Turbine
+powerplant_wind_2020.690,690,Spinning Spur Wind LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Vegas,Oldham,Texas,79092,wind,161,Onshore Wind Turbine
+powerplant_wind_2020.691,691,Bobcat Bluff Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Archer,Archer,Texas,76351,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.692,692,Spearville 3 LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Spearville,Ford,Kansas,67876,wind,108,Onshore Wind Turbine
+powerplant_wind_2020.693,693,Pocahontas Prairie Wind Farm,Siemens Gamesa Renewable Energy Inc.,IPP Non-CHP,Pomeroy,Pocahontas,Iowa,50575,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.694,694,Kingdom Community Wind,Green Mountain Power Corp,Electric Utility,Lowell,Orleans,Vermont,5847,wind,65,Onshore Wind Turbine
+powerplant_wind_2020.695,695,Busch Ranch Wind Energy Farm,"Black Hills Colorado Electric, LLC",Electric Utility,Walsenburg,Huerfano,Colorado,81089,wind,29,Onshore Wind Turbine
+powerplant_wind_2020.696,696,Senate Wind LLC,Algonquin Power Co,IPP Non-CHP,Bryson,Jack,Texas,76427,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.697,697,Stephens Ranch Wind Energy LLC,Stephens Ranch Wind Energy LLC,IPP Non-CHP,O'Donnell,Borden,Texas,79351,wind,376,Onshore Wind Turbine
+powerplant_wind_2020.698,698,Lake Winds Energy Park,Consumers Energy Co,Electric Utility,Ludington,Mason,Michigan,49431,wind,100.8,Onshore Wind Turbine
+powerplant_wind_2020.699,699,Canadian Hills Wind,Canadian Hills Wind LLC,IPP Non-CHP,El Rino,Canadian,Oklahoma,73014,wind,298.5,Onshore Wind Turbine
+powerplant_wind_2020.700,700,Highland North Wind Farm,RWE Renewables Americas LLC,IPP Non-CHP,Sidman,Cambria,Pennsylvania,15955,wind,75,Onshore Wind Turbine
+powerplant_wind_2020.701,701,NaturEner Rim Rock Energy,NaturEner Rim Rock Energy LLC,IPP Non-CHP,Kevin,Toole,Montana,59454,wind,184.6,Onshore Wind Turbine
+powerplant_wind_2020.702,702,Auwahi Wind Energy Hybrid,Auwahi Wind Energy LLC,IPP Non-CHP,Kula,Maui,Hawaii,96790,wind,35,Batteries; Onshore Wind Turbine;
+powerplant_wind_2020.703,703,Twin Ridges Wind Farm,RWE Renewables Americas LLC,IPP Non-CHP,Meyersdale,Somerset,Pennsylvania,15552,wind,139.4,Onshore Wind Turbine
+powerplant_wind_2020.704,704,Patton Wind Farm,RWE Renewables Americas LLC,IPP Non-CHP,Patton,Cambria,Pennsylvania,16668,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.705,705,"Anacacho Wind Farm, LLC",RWE Renewables Americas LLC,IPP Non-CHP,Brackettville,Kinney,Texas,78832,wind,99.8,Onshore Wind Turbine
+powerplant_wind_2020.706,706,Granite Reliable Power,Granite Reliable Power,IPP Non-CHP,Dummer,Coos,New Hampshire,3588,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.707,707,California Ridge Wind Energy LLC,SunEdison LLC,IPP Non-CHP,Fithian,Vermilion,Illinois,61844,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.708,708,Shooting Star,"Shooting Star Power Partners, LLC",IPP Non-CHP,Mullinville,Kiowa,Kansas,67109,wind,104,Onshore Wind Turbine
+powerplant_wind_2020.709,709,High Mesa,"High Mesa Energy, LLC",IPP Non-CHP,King Hill,Twin Falls,Idaho,83332,wind,39.9,Onshore Wind Turbine
+powerplant_wind_2020.710,710,Beebe 1A,"Beebe Renewable Energy, LLC",IPP Non-CHP,Ithaca,Gratiot,Michigan,48847,wind,81.6,Onshore Wind Turbine
+powerplant_wind_2020.711,711,Whitetail,"Whitetail Wind Energy, LLC",IPP Non-CHP,Oilton,Webb,Texas,78731,wind,91.2,Onshore Wind Turbine
+powerplant_wind_2020.712,712,Mt Wachusett Community College,Mt Wachusett Community College,Commercial Non-CHP,Gardner,Worcester,Massachusetts,1440,wind,3.4,Onshore Wind Turbine
+powerplant_wind_2020.713,713,Spruce Mountain WInd,Spruce Mountain Wind LLC,IPP Non-CHP,Bryant Pond,Oxford,Maine,4219,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.714,714,Block Island Wind Farm,Deepwater Wind Block Island LLC,IPP Non-CHP,NA,Washington,Rhode Island,2807,wind,29.3,Offshore Wind Turbine
+powerplant_wind_2020.715,715,Buffalo Center Wind LLC,Buffalo Center Wind LLC,IPP Non-CHP,Little Cedar,Mitchell,Iowa,50454,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.716,716,Chisholm View Wind Project,Chisholm View Wind Project,IPP Non-CHP,Hunter,Garfield,Oklahoma,74640,wind,300,Onshore Wind Turbine
+powerplant_wind_2020.717,717,"Anchor Wind, LLC","Acciona Energy USA Global, LLC",IPP Non-CHP,Mechanicsville,Cedar,Iowa,52306,wind,5.9,Onshore Wind Turbine
+powerplant_wind_2020.718,718,Community Wind South,Greenbacker Renewable Energy Corporation,IPP Non-CHP,Rushmore,Nobles,Minnesota,56168,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.719,719,BayWa r.e Mozart LLC,BayWa r.e Wind LLC,IPP Non-CHP,Jayton,Kent,Texas,79528,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.720,720,Charlestown Wind Turbine,MWRA Charlestown,IPP Non-CHP,Charlestown,Suffolk,Massachusetts,2129,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.721,721,Windwalkers LLC,Consolidated Edison Development Inc.,IPP Non-CHP,Kensett,Worth,Iowa,50448,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.722,722,Rocky Ridge Wind Project,Rocky Ridge Wind Project LLC,IPP Non-CHP,Hobart,Kiowa,Oklahoma,73541,wind,148.8,Onshore Wind Turbine
+powerplant_wind_2020.723,723,Wolf Ridge Wind,NextEra Wolf Ridge LLC,IPP Non-CHP,Muenster,Cooke,Texas,76252,wind,112.5,Onshore Wind Turbine
+powerplant_wind_2020.724,724,Stony Creek Wind Farm NY,Invenergy Services LLC,IPP Non-CHP,Strykersville,Wyoming,New York,14145,wind,94.4,Onshore Wind Turbine
+powerplant_wind_2020.725,725,Roeder Family Wind Farm LLC,Consolidated Edison Development Inc.,IPP Non-CHP,Manly,Worth,Iowa,50546,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.726,726,El Cabo Wind,Avangrid Renewables LLC,IPP Non-CHP,Encino,Torrance,New Mexico,88321,wind,298,Onshore Wind Turbine
+powerplant_wind_2020.727,727,Montague Wind Power Facility LLC,Avangrid Renewables LLC,IPP Non-CHP,Arlington,Gilliam,Oregon,97812,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.728,728,Foundation Cemex River Plant,Foundation CA Fund VI Manager LLC,IPP Non-CHP,Victorville,San Bernardino,California,92394,wind,3.2,Onshore Wind Turbine
+powerplant_wind_2020.729,729,Foundation Cemex BMQ,Foundation CA Fund VI Manager LLC,IPP Non-CHP,Apple Valley,San Bernardino,California,92307,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.730,730,Heritage Garden Wind Farm I LLC,Heritage Garden Wind Farm I LLC,IPP Non-CHP,Garden,Delta,Michigan,49835,wind,28,Onshore Wind Turbine
+powerplant_wind_2020.731,731,Foundation Superior Farms,Foundation CA Fund VI Manager LLC,Industrial Non-CHP,Dixon,Solano,California,95620,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.732,732,Foundation Wal-Mart Red Bluff,Foundation CA Fund VI Manager LLC,Commercial Non-CHP,Red Bluff,Tehama,California,96080,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.733,733,Meadow Creek Project Company,Ridgeline Energy LLC,IPP Non-CHP,Idaho Falls,Bonneville,Idaho,83401,wind,115.8,Onshore Wind Turbine
+powerplant_wind_2020.734,734,Bishop Hill II Wind Farm,"Bishop Hill Energy II, LLC",IPP Non-CHP,Cambridge,Henry,Illinois,61238,wind,81,Onshore Wind Turbine
+powerplant_wind_2020.735,735,Foundation Cemex Madison,"Foundation CA Fund V Manager, LLC",IPP Non-CHP,Madison,Yolo,California,95653,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.736,736,Foundation RRM,"Foundation CA Fund V Manager, LLC",IPP Non-CHP,Cabazon,Riverside,California,92230,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.737,737,Foundation NWNA,"Foundation CA Fund V Manager, LLC",IPP Non-CHP,Cabazon,Riverside,California,92230,wind,5.1,Onshore Wind Turbine
+powerplant_wind_2020.738,738,Echo Wind Park,DTE Electric Company,Electric Utility,Elkton,Huron,Michigan,48731,wind,162,Onshore Wind Turbine
+powerplant_wind_2020.739,739,Limon Wind I,Limon,IPP Non-CHP,Limon,Lincoln,Colorado,80828,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.740,740,Limon Wind II,Limon,IPP Non-CHP,Limon,Lincoln,Colorado,80828,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.741,741,Ensign Wind LLC,NextEra Energy Resources Ensign Wind,IPP Non-CHP,Montezuma,Gray,Kansas,67867,wind,98.9,Onshore Wind Turbine
+powerplant_wind_2020.742,742,Groton Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Groton,Grafton,New Hampshire,3266,wind,48,Onshore Wind Turbine
+powerplant_wind_2020.743,743,North Sky River Energy LLC,North Sky River Energy LLC,IPP Non-CHP,Weldon,Kern,California,93283,wind,162,Onshore Wind Turbine
+powerplant_wind_2020.744,744,Perrin Ranch Wind LLC,Perrin Ranch Wind LLC,IPP Non-CHP,Williams,Coconino,Arizona,86046,wind,99.2,Onshore Wind Turbine
+powerplant_wind_2020.745,745,Cirrus Wind 1 LLC,Cirrus Wind 1 LLC,IPP Non-CHP,Tahoka,Lynn,Texas,79373,wind,61.2,Onshore Wind Turbine
+powerplant_wind_2020.746,746,"Minco Wind III, LLC","FPLE Wind, LLC",IPP Non-CHP,Minco,Caddo,Oklahoma,73059,wind,100.8,Onshore Wind Turbine
+powerplant_wind_2020.747,747,"NextEra-Blackwell Wind, LLC","Blackwell Wind, LLC",IPP Non-CHP,Blackwell,Kay,Oklahoma,74361,wind,59.8,Onshore Wind Turbine
+powerplant_wind_2020.748,748,Spion Kop Wind Farm,NorthWestern Energy,Electric Utility,Geyser,Judith Basin,Montana,59701,wind,40,Onshore Wind Turbine
+powerplant_wind_2020.749,749,Haviland Plastic Products,Haviland Plastic Products Co,Industrial Non-CHP,Haviland,Paulding,Ohio,45851,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.750,750,Wagner Wind LLC,Greenbacker Renewable Energy Corporation,IPP Non-CHP,Palm Springs,Riverside,California,92240,wind,6,Onshore Wind Turbine
+powerplant_wind_2020.751,751,Georgia Mountain Community Wind Farm,Greenbacker Renewable Energy Corporation,IPP Non-CHP,Milton,Chittenden,Vermont,5468,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.752,752,Pattern Panhandle Wind LLC,Pattern Operators LP,IPP Non-CHP,Panhandle,Carson,Texas,79068,wind,218,Onshore Wind Turbine
+powerplant_wind_2020.753,753,Goldthwaite Wind Energy Facility,Invenergy Services LLC,IPP Non-CHP,Goldthwaite,Mills,Texas,76844,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.754,754,Prairie Breeze,SunEdison LLC,IPP Non-CHP,Elgin,Antelope,Nebraska,68636,wind,206.5,Onshore Wind Turbine
+powerplant_wind_2020.755,755,Vansycle II Wind Energy Center,FPL Energy Stateline II Inc,IPP Non-CHP,Athena,Umatilla,Oregon,97813,wind,98.9,Onshore Wind Turbine
+powerplant_wind_2020.756,756,Tuscola Bay Wind,Tuscola Bay Wind LLC,IPP Non-CHP,Reese,Tuscola,Michigan,48757,wind,120,Onshore Wind Turbine
+powerplant_wind_2020.757,757,Majestic II Wind,NextEra Energy Majestic Wind,IPP Non-CHP,Panhandle,Carson,Texas,79068,wind,79.6,Onshore Wind Turbine
+powerplant_wind_2020.758,758,Blue Summit Wind LLC,Blue Summit Wind LLC,IPP Non-CHP,Vernon,Wilbarger,Texas,76384,wind,135.4,Onshore Wind Turbine
+powerplant_wind_2020.759,759,Alta Wind X,NRG Yield LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,138,Onshore Wind Turbine
+powerplant_wind_2020.760,760,Alta Wind XI,NRG Yield LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,90,Onshore Wind Turbine
+powerplant_wind_2020.761,761,Pantex,Pantex (NNSA),Commercial Non-CHP,Amarillo,Carson,Texas,79120,wind,11.5,Onshore Wind Turbine
+powerplant_wind_2020.762,762,Luther College Wind Project,Luther College Wind Energy Project LLC,IPP Non-CHP,Decorah,Winneshiek,Iowa,52101,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.763,763,NLMU Wind,New London Municipal Utilities,Electric Utility,New London,Henry,Iowa,52645,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.764,764,Headwaters Wind Farm LLC,Headwaters Wind Farm LLC,IPP Non-CHP,Winchester,Randolph,Indiana,47394,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.765,765,Harbor Wind LLC,Harbor Wind Tenant LLC,IPP Non-CHP,Corpus Christi,Nueces,Texas,78402,wind,9,Onshore Wind Turbine
+powerplant_wind_2020.766,766,Fire Island Wind,Fire Island Wind LLC,IPP Non-CHP,Anchorage,Anchorage,Alaska,99503,wind,18,Onshore Wind Turbine
+powerplant_wind_2020.767,767,Swauk Wind LLC,Gamesa Wind US LLC,IPP Non-CHP,Thorp,Kittitas,Washington,98946,wind,4.3,Onshore Wind Turbine
+powerplant_wind_2020.768,768,Junction Hilltop Wind Farm,Junction Hilltop Management LLC,IPP Non-CHP,Dana,Greene,Iowa,50064,wind,8,Onshore Wind Turbine
+powerplant_wind_2020.769,769,Cumberland Rose,"Cumberland Rose Wind Energy, LLC",IPP Non-CHP,Orient,Adair,Iowa,50858,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.770,770,Fontanelle,"Forward Fontanelle Power, LLC",IPP Non-CHP,Fontanelle,Adair,Iowa,50846,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.771,771,Greenfield Wind,"Greenfield Wind Power, LLC",Electric Utility,Greenfield,Adair,Iowa,50849,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.772,772,Meadow Ridge,"Meadow Ridge Wind Energy, LLC",IPP Non-CHP,Greenfield,Adair,Iowa,50849,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.773,773,Sky Volt,"Sky Volt, LLC",IPP Non-CHP,Greenfield,Adair,Iowa,50849,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.774,774,Wiota,"Wiota Wind Energy, LLC #1",IPP Non-CHP,Wiota,Cass,Iowa,50274,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.775,775,Broadview Energy Prime LLC,BayWa r.e Wind LLC,IPP Non-CHP,Grady,Curry,New Mexico,88120,wind,9.9,Onshore Wind Turbine
+powerplant_wind_2020.776,776,Broadview Energy Prime 2 LLC,BayWa r.e Wind LLC,IPP Non-CHP,Grady,Curry,New Mexico,88120,wind,9.9,Onshore Wind Turbine
+powerplant_wind_2020.777,777,Buffalo Dunes Wind Project,Buffalo Dunes Wind Project LLC,IPP Non-CHP,Satanta,Haskell,Kansas,67870,wind,249.8,Onshore Wind Turbine
+powerplant_wind_2020.778,778,Delta Wind Farm,Alaska Environmental Power,IPP Non-CHP,Delta Junction,Southeast Fairbanks,Alaska,99737,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.779,779,Huerfano River Wind,"Huerfano River Wind, LLC",IPP Non-CHP,Walsenburg,Huerfano,Colorado,81089,wind,8,Onshore Wind Turbine
+powerplant_wind_2020.780,780,Tucannon River Wind Farm,Portland General Electric Co,Electric Utility,Dayton,Columbia,Washington,99328,wind,266.8,Onshore Wind Turbine
+powerplant_wind_2020.781,781,Pheasant Run Wind LLC,Pheasant Run Wind LLC,IPP Non-CHP,Pigeon,Huron,Michigan,48757,wind,74.8,Onshore Wind Turbine
+powerplant_wind_2020.782,782,Tuscola Wind II LLC,Tuscola Wind II LLC,IPP Non-CHP,Reese,Tuscola,Michigan,48757,wind,100.3,Onshore Wind Turbine
+powerplant_wind_2020.783,783,Steele Flats Wind Project LLC,Steele Flats Wind Project LLC,IPP Non-CHP,Diller,Jefferson,Nebraska,68342,wind,74.8,Onshore Wind Turbine
+powerplant_wind_2020.784,784,"Grandview Wind Farm, LLC",RWE Renewables Americas LLC,IPP Non-CHP,Panhandle,Carson,Texas,79068,wind,211.2,Onshore Wind Turbine
+powerplant_wind_2020.785,785,Saddleback Ridge Wind Farm,"Saddleback Ridge Wind, LLC",IPP Non-CHP,Carthage,Franklin,Maine,4224,wind,34.2,Onshore Wind Turbine
+powerplant_wind_2020.786,786,Patriot Wind Farm,Avangrid Renewables LLC,IPP Non-CHP,TBD,Nueces,Texas,78380,wind,226.1,Onshore Wind Turbine
+powerplant_wind_2020.787,787,Canton Mountain Wind,Canton Mountain Wind LLC,IPP Non-CHP,Canton,Oxford,Maine,4221,wind,22.8,Onshore Wind Turbine
+powerplant_wind_2020.788,788,RP Wind,Consolidated Edison Solutions Inc,IPP Non-CHP,Russells Point,Logan,Ohio,43348,wind,3.4,Onshore Wind Turbine
+powerplant_wind_2020.789,789,Odell Wind Farm,Algonquin Power Co,IPP Non-CHP,Mountain Lake,Cottonwood,Minnesota,56159,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.790,790,Courtenay Wind Farm,Northern States Power Co - Minnesota,Electric Utility,Courtenay,Stutsman,North Dakota,58426,wind,195,Onshore Wind Turbine
+powerplant_wind_2020.791,791,Cape Cod Air Force Station - 6 SWS,US Air Force,Commercial Non-CHP,Sagamore,Barnstable,Massachusetts,2561,wind,3.4,Onshore Wind Turbine
+powerplant_wind_2020.792,792,Alexander Wind Farm LLC,SRIV Partnership LLC,IPP Non-CHP,Alexander,Rush,Kansas,67513,wind,50.7,Onshore Wind Turbine
+powerplant_wind_2020.793,793,Gratiot County Wind LLC,Invenergy Services LLC,IPP Non-CHP,Breckenridge,Gratiot,Michigan,48615,wind,110.4,Onshore Wind Turbine
+powerplant_wind_2020.794,794,Route 66 Wind Plant,Novatus Energy,IPP Non-CHP,Panhandle,Carson,Texas,79068,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.795,795,"Osage Wind, LLC","Enel Green Power NA, Inc.",IPP Non-CHP,Burbank,Osage,Oklahoma,74633,wind,150.4,Onshore Wind Turbine
+powerplant_wind_2020.796,796,Hancock Wind Plant,Novatus Energy,IPP Non-CHP,T22 MD,Hancock,Maine,4408,wind,51,Onshore Wind Turbine
+powerplant_wind_2020.797,797,Apple Blossom Wind Farm,"Apple Blossom Wind, LLC",IPP Non-CHP,Pigeon,Huron,Michigan,48755,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.798,798,South Fork Wind Farm,"South Fork Wind, LLC",IPP Non-CHP,Round Lake,Jackson,Minnesota,56167,wind,13,Onshore Wind Turbine
+powerplant_wind_2020.799,799,Black Oak Wind Farm,"Black Oak Wind, LLC",IPP Non-CHP,Sauk Centre,Stearns,Minnesota,56378,wind,78,Onshore Wind Turbine
+powerplant_wind_2020.800,800,Walnut Ridge Wind Farm,"BHE Renewables, LLC",IPP Non-CHP,Sheffield,Bureau,Illinois,61361,wind,212,Onshore Wind Turbine
+powerplant_wind_2020.801,801,Grande Prairie Wind Farm,"BHE Renewables, LLC",IPP Non-CHP,O'Neill,Holt,Nebraska,68763,wind,400,Onshore Wind Turbine
+powerplant_wind_2020.802,802,Brookfield,DTE Electric Company,Electric Utility,Pigeon,Huron,Michigan,48755,wind,74.8,Onshore Wind Turbine
+powerplant_wind_2020.803,803,Pattern Panhandle Wind 2 LLC,Pattern Operators LP,IPP Non-CHP,Panhandle,Carson,Texas,79068,wind,181.7,Onshore Wind Turbine
+powerplant_wind_2020.804,804,Miami Wind Energy Center,Invenergy Services LLC,IPP Non-CHP,Miami,Roberts,Texas,79059,wind,288.6,Onshore Wind Turbine
+powerplant_wind_2020.805,805,Wake Wind Energy Center,Southern Power Co,IPP Non-CHP,Floydada,Crosby,Texas,79235,wind,257,Onshore Wind Turbine
+powerplant_wind_2020.806,806,Buckeye Wind Energy Center,Invenergy Services LLC,IPP Non-CHP,Hays,Ellis,Kansas,67601,wind,205.7,Onshore Wind Turbine
+powerplant_wind_2020.807,807,Marsh Hill Wind Farm,Invenergy Services LLC,IPP Non-CHP,Jasper,Steuben,New York,14855,wind,16.2,Onshore Wind Turbine
+powerplant_wind_2020.808,808,Spring Canyon Expansion Wind Energy Ctr,NRG Yield LLC,IPP Non-CHP,Peetz,Logan,Colorado,80747,wind,62.6,Onshore Wind Turbine
+powerplant_wind_2020.809,809,Roosevelt County,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Portales,Roosevelt,New Mexico,88116,wind,250,Onshore Wind Turbine
+powerplant_wind_2020.810,810,Longhorn Wind,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Silverton,Briscoe,Texas,79201,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.811,811,TX Hereford Wind,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Hereford,Deaf Smith,Texas,88116,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.812,812,Spinning Spur Wind II,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Adrian,Oldham,Texas,79001,wind,161,Onshore Wind Turbine
+powerplant_wind_2020.813,813,Spinning Spur Wind III,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Adrian,Oldham,Texas,79001,wind,194,Onshore Wind Turbine
+powerplant_wind_2020.814,814,Cross Winds Energy Park,Consumers Energy Co,Electric Utility,Unionville,Tuscola,Michigan,48767,wind,230.9,Onshore Wind Turbine
+powerplant_wind_2020.815,815,Lakeswind Power Partners,Lakeswind Power Partners,IPP Non-CHP,Pelican Rapids,Clay,Minnesota,56572,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.816,816,Keechi Wind,"Keechi Wind, LLC",IPP Non-CHP,Jacksboro,Jack,Texas,76458,wind,110,Onshore Wind Turbine
+powerplant_wind_2020.817,817,Bison 4 Wind Energy Center,"ALLETE, Inc.",Electric Utility,New Salem,Morton,North Dakota,58563,wind,205,Onshore Wind Turbine
+powerplant_wind_2020.818,818,Highland Wind Project (IA),MidAmerican Energy Co,Electric Utility,Primghar,O'Brien,Iowa,51245,wind,502,Onshore Wind Turbine
+powerplant_wind_2020.819,819,Lundgren Wind Project,MidAmerican Energy Co,Electric Utility,Otho,Webster,Iowa,50569,wind,251,Onshore Wind Turbine
+powerplant_wind_2020.820,820,Macksburg Wind Project,MidAmerican Energy Co,Electric Utility,Macksburg,Madison,Iowa,50155,wind,119.6,Onshore Wind Turbine
+powerplant_wind_2020.821,821,Wellsburg Wind Project,MidAmerican Energy Co,Electric Utility,Wellsburg,Grundy,Iowa,50680,wind,138.6,Onshore Wind Turbine
+powerplant_wind_2020.822,822,Com Adam 1WF-1,FPC Services Inc.,IPP Non-CHP,Sublette,Lee,Illinois,61367,wind,5,Onshore Wind Turbine
+powerplant_wind_2020.823,823,"Big Turtle Wind Farm, LLC",Heritage Garden Wind Farm I LLC,IPP Non-CHP,Harbor Beach,Huron,Michigan,48441,wind,49.4,Onshore Wind Turbine
+powerplant_wind_2020.824,824,Pilot Hill Wind Farm,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Herscher,Kankakee,Illinois,60941,wind,175,Onshore Wind Turbine
+powerplant_wind_2020.825,825,Balko Wind LLC,Balko Wind LLC,IPP Non-CHP,Balko,Beaver,Oklahoma,73931,wind,299.7,Onshore Wind Turbine
+powerplant_wind_2020.826,826,Kingfisher Wind LLC,Kingfisher Wind LLC,IPP Non-CHP,Kingfisher,Kingfisher,Oklahoma,73762,wind,298,Onshore Wind Turbine
+powerplant_wind_2020.827,827,Fourmile Ridge,"Fourmile Wind Energy, LLC",IPP Non-CHP,Frostburg,Garrett,Maryland,21532,wind,40,Onshore Wind Turbine
+powerplant_wind_2020.828,828,Beebe 1B,"Beebe 1B Renewable Energy, LLC",IPP Non-CHP,Ithaca,Gratiot,Michigan,48847,wind,50.4,Onshore Wind Turbine
+powerplant_wind_2020.829,829,Story City Wind Project,Hamilton Wind Energy LLC,IPP Non-CHP,Story City,Story,Iowa,50248,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.830,830,Traer Wind Project,"Norsemen Wind Energy, LLC",IPP Non-CHP,Traer,Tama,Iowa,50675,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.831,831,Origin Wind,"Enel Green Power NA, Inc.",IPP Non-CHP,Hennepin,Murray,Oklahoma,73444,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.832,832,Anderson Wind I,BayWa r.e Wind LLC,IPP Non-CHP,Hagerman,Chaves,New Mexico,88232,wind,5,Onshore Wind Turbine
+powerplant_wind_2020.833,833,Anderson Wind II,BayWa r.e Wind LLC,IPP Non-CHP,Hagerman,Chaves,New Mexico,88232,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.834,834,Camelot Wind LLC,Camelot Wind LLC,IPP Non-CHP,Plymouth,Plymouth,Massachusetts,2360,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.835,835,"Thunder Spirit Wind, LLC",Montana-Dakota Utilities Co,Electric Utility,Hettinger,Adams,North Dakota,58639,wind,155.5,Onshore Wind Turbine
+powerplant_wind_2020.836,836,Fairfield Wind,Greenbacker Renewable Energy Corporation,IPP Non-CHP,Fairfield,Teton,Montana,59436,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.837,837,Copenhagen Wind Farm,"Copenhagen Wind Farm, LLC",IPP Non-CHP,Copenhagen,Lewis,New York,13626,wind,79.9,Onshore Wind Turbine
+powerplant_wind_2020.838,838,"Broken Bow Wind II, LLC",Consolidated Edison Development Inc.,IPP Non-CHP,Broken Bow,Custer,Nebraska,68822,wind,73.1,Onshore Wind Turbine
+powerplant_wind_2020.839,839,Dept of Corrections NCCI Wind,Dept of Corrections NCCI Wind,Commercial Non-CHP,Gardner,Worcester,Massachusetts,1440,wind,3.4,Onshore Wind Turbine
+powerplant_wind_2020.840,840,Breckinridge Wind Project LLC,NextEra Energy Resources Breckinridge,IPP Non-CHP,Enid,Garfield,Oklahoma,73701,wind,98.8,Onshore Wind Turbine
+powerplant_wind_2020.841,841,St. Olaf Wind Turbine,St. Olaf College,IPP Non-CHP,Northfield,Rice,Minnesota,55057,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.842,842,Goodwell Wind Project LLC,"Enel Green Power NA, Inc.",IPP Non-CHP,Goodwell,Texas,Oklahoma,73939,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.843,843,Little Elk Wind Project LLC,"Enel Green Power NA, Inc.",IPP Non-CHP,Cordell,Washita,Oklahoma,73632,wind,74,Onshore Wind Turbine
+powerplant_wind_2020.844,844,Two Dot Wind Farm,NorthWestern Energy,Electric Utility,Two Dot,Wheatland,Montana,59085,wind,9.7,Onshore Wind Turbine
+powerplant_wind_2020.845,845,Mariah del Norte,Mariah Holdings II LLC c/o CAMS,IPP Non-CHP,Friona,Parmer,Texas,79035,wind,230.4,Onshore Wind Turbine
+powerplant_wind_2020.846,846,Hoopeston Wind LLC,Hoopeston Wind LLC,IPP Non-CHP,Rossville,Vermilion,Illinois,60963,wind,98,Onshore Wind Turbine
+powerplant_wind_2020.847,847,Kingston Wind Independence,Kingston Wind Independence,IPP Non-CHP,Kingston,Plymouth,Massachusetts,2364,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.848,848,Ipswich Wind Independence,Ipswich Wind Independence,IPP Non-CHP,Ipswich,Essex,Massachusetts,1938,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.849,849,"Euclid Farm, Stamco N-54",Case Western Reserve University,IPP Non-CHP,Euclid,Cuyahoga,Ohio,44106,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.850,850,Shannon Wind,Shannon Wind LLC,IPP Non-CHP,Windhorst,Clay,Texas,76389,wind,204,Onshore Wind Turbine
+powerplant_wind_2020.851,851,Michelangelo Wind 3 LLC,Michelangelo Wind 3 LLC,IPP Non-CHP,Huxley,Story,Iowa,50014,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.852,852,Radfords Run Wind Farm,RWE Renewables Americas LLC,IPP Non-CHP,Maroa,Dewitt,Illinois,61756,wind,278,Onshore Wind Turbine
+powerplant_wind_2020.853,853,Stella Wind Farm,RWE Renewables Americas LLC,IPP Non-CHP,Armstrong,Kenedy,Texas,78338,wind,201,Onshore Wind Turbine
+powerplant_wind_2020.854,854,Drift Sand Wind Project LLC,"Enel Green Power NA, Inc.",IPP Non-CHP,Rush Springs,Grady,Oklahoma,73082,wind,108,Onshore Wind Turbine
+powerplant_wind_2020.855,855,Bruennings Breeze Wind Farm,RWE Renewables Americas LLC,IPP Non-CHP,Raymondville,Willacy,Texas,78580,wind,228,Onshore Wind Turbine
+powerplant_wind_2020.856,856,"Colbeck's Corner, LLC",RWE Renewables Americas LLC,IPP Non-CHP,Groom,Carson,Texas,79068,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.857,857,Jericho Power,Jericho Power LLC,IPP Non-CHP,Berlin,Coos,New Hampshire,3570,wind,12.1,Onshore Wind Turbine
+powerplant_wind_2020.858,858,Carroll Area Wind Farm,SRIV Partnership LLC,IPP Non-CHP,Templeton,Carroll,Iowa,51463,wind,20.7,Onshore Wind Turbine
+powerplant_wind_2020.859,859,Chopin Wind LLC,BayWa r.e Wind LLC,IPP Non-CHP,Milton-Freewater,Umatilla,Oregon,97862,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.860,860,Limon III Wind LLC,Limon,IPP Non-CHP,Limon,Lincoln,Colorado,80858,wind,200.6,Onshore Wind Turbine
+powerplant_wind_2020.861,861,Marshall Wind Farm,"BHE Renewables, LLC",IPP Non-CHP,Frankfort,Marshall,Kansas,66427,wind,72,Onshore Wind Turbine
+powerplant_wind_2020.862,862,Cameron Wind 1 LLC,Cameron Wind 1 LLC,IPP Non-CHP,Rio Hondo,Cameron,Texas,78583,wind,165,Onshore Wind Turbine
+powerplant_wind_2020.863,863,Fair Wind,"Fair Wind Power Partners, LLC",IPP Non-CHP,Oakland,Garrett,Maryland,21550,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.864,864,Beethoven Wind,NorthWestern Energy - (SD),Electric Utility,Tripp,Bon Homme,South Dakota,57376,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.865,865,Chapman Ranch Wind I,Chapman Ranch Wind LLC,IPP Non-CHP,Corpus Christi,Nueces,Texas,78415,wind,249,Onshore Wind Turbine
+powerplant_wind_2020.866,866,Border Winds Wind Farm,Northern States Power Co - Minnesota,Electric Utility,Rolla,Rolette,North Dakota,58367,wind,148,Onshore Wind Turbine
+powerplant_wind_2020.867,867,Pleasant Valley Wind Farm,Northern States Power Co - Minnesota,Electric Utility,Dexter,Mower,Minnesota,55926,wind,196,Onshore Wind Turbine
+powerplant_wind_2020.868,868,Passadumkeag Windpark LLC,Southern Power Co,IPP Non-CHP,Greenbush,Penobscot,Maine,4418,wind,39.9,Onshore Wind Turbine
+powerplant_wind_2020.869,869,Optimum Wind 5 LLC,Optimum Wind 5 LLC,IPP Non-CHP,Nevada,Story,Iowa,50201,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.870,870,Optimum Wind 6 LLC,Optimum Wind 6 LLC,IPP Non-CHP,Nevada,Story,Iowa,50201,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.871,871,Optimum Wind 7 LLC,Optimum Wind 7 LLC,IPP Non-CHP,Nevada,Story,Iowa,50201,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.872,872,Optimum Wind 4 LLC,Optimum Wind 4 LLC,IPP Non-CHP,Nevada,Story,Iowa,50201,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.873,873,Optimum Wind 3 LLC,Optimum Wind 3 LLC,IPP Non-CHP,Nevada,Story,Iowa,50201,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.874,874,Leonardo Wind 1 LLC,Leonardo Wind 1 LLC,IPP Non-CHP,Alden,Hardin,Iowa,50441,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.875,875,Venus Wind 3 LLC,Venus Wind 3 LLC,IPP Non-CHP,Grinnell,Poweshiek,Iowa,50112,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.876,876,Michelangelo Wind 1 LLC,Michelangelo Wind 1 LLC,IPP Non-CHP,Huxley,Story,Iowa,50124,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.877,877,Michelangelo Wind 4 LLC,Michelangelo Wind 4 LLC,IPP Non-CHP,Ames,Boone,Iowa,50011,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.878,878,Arbuckle Mountain Wind Farm LLC,Arbuckle Mountain Wind Farm LLC,IPP Non-CHP,Davis,Murray,Oklahoma,73030,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.879,879,Rising Tree Wind Farm II,Rising Tree Wind Farm II LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,19.8,Onshore Wind Turbine
+powerplant_wind_2020.880,880,Rising Tree Wind Farm III,Rising Tree Wind Farm III LLC,IPP Non-CHP,Mojave,Kern,California,93501,wind,99,Onshore Wind Turbine
+powerplant_wind_2020.881,881,Windthorst-2,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Archer,Archer,Texas,76389,wind,67.6,Onshore Wind Turbine
+powerplant_wind_2020.882,882,Lorenzo Wind,"Lorenzo Wind, LLC",IPP Non-CHP,Lorenzo,Crosby,Texas,79343,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.883,883,Fluvanna,Fluvanna Wind Energy LLC,IPP Non-CHP,Fluvanna,Scurry,Texas,79517,wind,155.4,Onshore Wind Turbine
+powerplant_wind_2020.884,884,Hale Community Wind Farm,Hale Wind Energy,IPP Non-CHP,Plainview,Hale,Texas,79072,wind,478,Onshore Wind Turbine
+powerplant_wind_2020.885,885,Mammoth Plains,Mammoth Plains Wind Project,IPP Non-CHP,Oakwood,Dewey,Oklahoma,73658,wind,199,Onshore Wind Turbine
+powerplant_wind_2020.886,886,Rattlesnake Creek Wind Project,"Rattlesnake Creek Wind Project, LLC",IPP Non-CHP,Dixon,Dixon,Nebraska,68710,wind,318.1,Onshore Wind Turbine
+powerplant_wind_2020.887,887,WED NK Green,WED NK Green LLC,IPP Non-CHP,North Kingstown,Washington,Rhode Island,2852,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.888,888,Northwest Ohio Wind,"Northwest Ohio Wind, LLC",IPP Non-CHP,Grover Hill,Paulding,Ohio,45849,wind,105,Onshore Wind Turbine
+powerplant_wind_2020.889,889,WED Coventry 1,"WED Coventry One, LLC",IPP Non-CHP,Coventry,Kent,Rhode Island,2816,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.890,890,WED Coventry 2,"WED Coventry Two, LLC",IPP Non-CHP,Coventry,Kent,Rhode Island,2816,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.891,891,WED Coventry 3,"WED Coventry Three, LLC",IPP Non-CHP,Coventry,Kent,Rhode Island,2816,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.892,892,WED Coventry 4,"WED Coventry Four, LLC",IPP Non-CHP,Coventry,Kent,Rhode Island,2816,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.893,893,Seiling Wind I,NextEra Energy Seiling Wind,IPP Non-CHP,Seiling,Dewey,Oklahoma,73663,wind,199,Onshore Wind Turbine
+powerplant_wind_2020.894,894,Seiling Wind II,NextEra Energy Seiling Wind,IPP Non-CHP,Seiling,Dewey,Oklahoma,73663,wind,98.6,Onshore Wind Turbine
+powerplant_wind_2020.895,895,WED Coventry 5,"WED Coventry Five, LLC",IPP Non-CHP,Coventry,Kent,Rhode Island,2816,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.896,896,WED Coventry 6,"WED Coventry Six, LLC",IPP Non-CHP,Coventry,Kent,Rhode Island,2816,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.897,897,Los Vientos Windpower III,"Los Vientos Windpower III, LLC",IPP Non-CHP,Rio Grande City,Starr,Texas,78582,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.898,898,Los Vientos Windpower IV,"Los Vientos Windpower IV, LLC",IPP Non-CHP,Rio Grande City,Starr,Texas,78582,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.899,899,Golden Acorn Casino,"Foundation CA Fund VII Manager, LLC",Commercial Non-CHP,Campo,San Diego,California,91906,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.900,900,City of Soledad Water Reclamation,"Foundation CA Fund VII Manager, LLC",IPP Non-CHP,Soledad,Monterey,California,93960,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.901,901,Taylor Farms,"Foundation CA Fund VII Manager, LLC",IPP Non-CHP,Gonzales,Monterey,California,93926,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.902,902,Anheuser-Busch #2,"Foundation CA Fund VII Manager, LLC",Industrial Non-CHP,Fairfield,Solano,California,94533,wind,1.6,Onshore Wind Turbine
+powerplant_wind_2020.903,903,Mesquite Creek Wind,"Mesquite Creek Wind, LLC",IPP Non-CHP,Lamesa,Dawson,Texas,79331,wind,211.2,Onshore Wind Turbine
+powerplant_wind_2020.904,904,South Plains Wind Phase I,"First Wind O&M, LLC",IPP Non-CHP,Floydada,Floyd,Texas,79241,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.905,905,Pleasant Hill Wind Energy Project,Pleasant Hill Wind Energy LLC,IPP Non-CHP,Lorenzo,Crosby,Texas,79343,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.906,906,Oak Tree Energy,Consolidated Edison Development Inc.,IPP Non-CHP,Clark,Clark,South Dakota,57225,wind,19.5,Onshore Wind Turbine
+powerplant_wind_2020.907,907,Logans Gap Wind LLC,Pattern Operators LP,IPP Non-CHP,Comanche,Comanche,Texas,76442,wind,200.1,Onshore Wind Turbine
+powerplant_wind_2020.908,908,"Kay Wind, LLC",Southern Power Co,IPP Non-CHP,Newkirk,Kay,Oklahoma,74647,wind,299,Onshore Wind Turbine
+powerplant_wind_2020.909,909,Palo Duro Wind,Palo Duro Wind,IPP Non-CHP,Perryton,Ochiltree,Texas,79070,wind,249.9,Onshore Wind Turbine
+powerplant_wind_2020.910,910,Jett Creek Windfarm (Burnt River),Jett Creek,IPP Non-CHP,Huntington,Baker,Oregon,97907,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.911,911,Benson Creek Windfarm (Burnt River),Benson Creek,IPP Non-CHP,Huntington,Baker,Oregon,97907,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.912,912,Durbin Creek Windfarm (Burnt River),Durbin Creek,IPP Non-CHP,Huntington,Baker,Oregon,97907,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.913,913,Prospector Windfarm (Burnt River),Prospector,IPP Non-CHP,Huntington,Baker,Oregon,97907,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.914,914,Willow Spring Windfarm (Burnt River),Willow Spring,IPP Non-CHP,Huntington,Baker,Oregon,97907,wind,10,Onshore Wind Turbine
+powerplant_wind_2020.915,915,Fowler Ridge IV Wind Farm LLC,Pattern Operators LP,IPP Non-CHP,Fowler,Benton,Indiana,47944,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.916,916,TX Jumbo Road Wind,"TX Jumbo Road Wind, LLC",IPP Non-CHP,Hereford,Deaf Smith,Texas,79045,wind,299.7,Onshore Wind Turbine
+powerplant_wind_2020.917,917,Future Generation Wind,Consolidated Edison Solutions Inc,IPP Non-CHP,Plymouth,Plymouth,Massachusetts,2532,wind,7.9,Onshore Wind Turbine
+powerplant_wind_2020.918,918,Jericho Rise Wind Farm LLC,Jericho Rise Wind Farm LLC,IPP Non-CHP,Chateaugay,Franklin,New York,12923,wind,77.7,Onshore Wind Turbine
+powerplant_wind_2020.919,919,Adams Wind,MidAmerican Energy Co,Electric Utility,Lenox,Adams,Iowa,50851,wind,154.3,Onshore Wind Turbine
+powerplant_wind_2020.920,920,Lightolier Wind I Turbine,Philips Lightolier,Industrial Non-CHP,Fall River,Bristol,Massachusetts,2702,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.921,921,Sendero,"Sendero Wind Energy, LLC",IPP Non-CHP,Hebbronville,Jim Hogg,Texas,78361,wind,78,Onshore Wind Turbine
+powerplant_wind_2020.922,922,Campbell County Wind Farm,Consolidated Edison Development Inc.,IPP Non-CHP,Pollock,Campbell,South Dakota,57648,wind,97.8,Onshore Wind Turbine
+powerplant_wind_2020.923,923,"Lindahl Wind Project, LLC","Enel Green Power NA, Inc.",IPP Non-CHP,Tioga,Williams,North Dakota,58852,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.924,924,NBC Field's Point Wind Farm,Narragansett Bay Commission,Commercial Non-CHP,Providence,Providence,Rhode Island,2905,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.925,925,"San Roman Wind I, LLC","Acciona Energy USA Global, LLC",IPP Non-CHP,Los Fresnos,Cameron,Texas,78566,wind,95.3,Onshore Wind Turbine
+powerplant_wind_2020.926,926,Scituate Wind,Scituate Wind LLC,IPP Non-CHP,Scituate,Plymouth,Massachusetts,2066,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.927,927,Fairhaven Wind,Fairhaven Wind LLC,IPP Non-CHP,Fairhaven,Bristol,Massachusetts,2719,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.928,928,Green Pastures Wind I,"Green Pastures Wind I, LLC",IPP Non-CHP,Seymour,Baylor,Texas,76380,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.929,929,Green Pastures Wind II,"Green Pastures Wind II, LLC",IPP Non-CHP,Seymour,Knox,Texas,76380,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.930,930,Briscoe Wind Farm,Capital Dynamics,IPP Non-CHP,Silverton,Briscoe,Texas,79257,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.931,931,Kirkwood Wind Turbine,Kirkwood Community College,IPP Non-CHP,Cedar Rapids,Linn,Iowa,52404,wind,0.7,Onshore Wind Turbine
+powerplant_wind_2020.932,932,"Valentine Wind, LLC","Valentine Wind, LLC",IPP Non-CHP,Valentine,Cherry,Nebraska,69201,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.933,933,Heartland Community College,Heartland Community College,Commercial Non-CHP,Normal,McLean,Illinois,61761,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.934,934,Bayonne MUA- Leitner-Poma Wind Turbine,"SUEZ North America, Inc",IPP Non-CHP,Bayonne,Hudson,New Jersey,7002,wind,0.1,Onshore Wind Turbine
+powerplant_wind_2020.935,935,Tooele Army Depot,Tooele Army Depot,IPP Non-CHP,Tooele,Tooele,Utah,84074,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.936,936,Slate Creek Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Geuda Springs,Sumner,Kansas,67051,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.937,937,Milo Wind Project LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Portales,Roosevelt,New Mexico,88130,wind,50,Onshore Wind Turbine
+powerplant_wind_2020.938,938,CP Bloom Wind LLC,Capital Power Corporation,IPP Non-CHP,Minneola,Ford,Kansas,67865,wind,178.2,Onshore Wind Turbine
+powerplant_wind_2020.939,939,Cardinal Point LLC,Capital Power Corporation,IPP Non-CHP,Sciota,McDonough,Illinois,61475,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.940,940,New Frontier Wind,Capital Power Corporation,IPP Non-CHP,Ruso,McHenry,North Dakota,58778,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.941,941,Rattlesnake Den,SunEdison LLC,IPP Non-CHP,Garden City,Glasscock,Texas,79739,wind,207.2,Onshore Wind Turbine
+powerplant_wind_2020.942,942,Antrim Wind,Antrim Wind Energy LLC,IPP Non-CHP,Antrim,Hillsborough,New Hampshire,3801,wind,28.4,Onshore Wind Turbine
+powerplant_wind_2020.943,943,Latigo Wind Park,"Sustainable Power Group, LLC",IPP Non-CHP,Monticello,San Juan,Utah,84535,wind,62.1,Onshore Wind Turbine
+powerplant_wind_2020.944,944,"Desert Wind Farm, LLC",Avangrid Renewables LLC,IPP Non-CHP,Hertford,Perquimans,North Carolina,27944,wind,208,Onshore Wind Turbine
+powerplant_wind_2020.945,945,Bearkat,"Bearkat Wind Energy 1, LLC",IPP Non-CHP,St. Lawrence,Glasscock,Texas,79739,wind,196.7,Onshore Wind Turbine
+powerplant_wind_2020.946,946,Golden West Power Partners LLC,"Golden West Power Partners, LLC",IPP Non-CHP,Calhan,El Paso,Colorado,80808,wind,250,Onshore Wind Turbine
+powerplant_wind_2020.947,947,Carousel Wind Farm LLC,"Carousel Wind Farm, LLC",IPP Non-CHP,Burlington,Kit Carson,Colorado,80807,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.948,948,"Grant Wind, LLC",Southern Power Co,IPP Non-CHP,Medford,Grant,Oklahoma,73759,wind,151.8,Onshore Wind Turbine
+powerplant_wind_2020.949,949,Findlay Wind Farm,Findlay Wind Farm,Industrial Non-CHP,Findlay,Hancock,Ohio,45840,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.950,950,Golden Hills Wind,"Golden Hills Wind, LLC",IPP Non-CHP,Livermore,Alameda,California,94550,wind,85.9,Onshore Wind Turbine
+powerplant_wind_2020.951,951,Los Vientos V Wind Power,"Los Vientos Windpower V, LLC",IPP Non-CHP,Rio Grande City,Starr,Texas,78582,wind,110,Onshore Wind Turbine
+powerplant_wind_2020.952,952,"Cedar Bluff Wind, LLC","Cedar Bluff Wind, LLC",IPP Non-CHP,Brownwell,Ness,Kansas,67521,wind,198.6,Onshore Wind Turbine
+powerplant_wind_2020.953,953,South Plains II,Novatus Energy,IPP Non-CHP,Lockney,Floyd,Texas,79241,wind,300,Onshore Wind Turbine
+powerplant_wind_2020.954,954,Sunflower Wind Project,Novatus Energy,IPP Non-CHP,Mandan,Morton,North Dakota,10017,wind,104,Onshore Wind Turbine
+powerplant_wind_2020.955,955,"Javelina Wind Energy, LLC","Javelina Wind Energy, LLC",IPP Non-CHP,Mirando City,Webb,Texas,78369,wind,249.7,Onshore Wind Turbine
+powerplant_wind_2020.956,956,Harpster Wind,"OEE XVII, LLC",Commercial Non-CHP,Harpster,Wyandot,Ohio,43323,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.957,957,Zephyr Wind,"OEE XIX, LLC",Industrial Non-CHP,Findlay,Hancock,Ohio,45840,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.958,958,New Creek Wind,"New Creek Wind, LLC",IPP Non-CHP,New Creek,Grant,West Virginia,26743,wind,103,Onshore Wind Turbine
+powerplant_wind_2020.959,959,Peak View Wind Farm,"Black Hills Colorado Electric, LLC",Electric Utility,Walsenburg,Huerfano,Colorado,81089,wind,60.8,Onshore Wind Turbine
+powerplant_wind_2020.960,960,"Broadview Energy JN, LLC",Pattern Operators LP,IPP Non-CHP,Texico,Curry,New Mexico,88135,wind,181.7,Onshore Wind Turbine
+powerplant_wind_2020.961,961,"Broadview Energy KW, LLC",Pattern Operators LP,IPP Non-CHP,Texico,Curry,New Mexico,88135,wind,142.6,Onshore Wind Turbine
+powerplant_wind_2020.962,962,Cotton Plains Wind Farm,"Cotton Plains Wind I, LLC",IPP Non-CHP,Floydada,Floyd,Texas,79235,wind,50.4,Onshore Wind Turbine
+powerplant_wind_2020.963,963,Rocksprings,"Rocksprings Val Verde Wind, LLC",IPP Non-CHP,Del Rio,Val Verde,Texas,78840,wind,149.3,Onshore Wind Turbine
+powerplant_wind_2020.964,964,Frontier Windpower,"Frontier Windpower, LLC",IPP Non-CHP,Newkirk,Kay,Oklahoma,74647,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.965,965,Bluestem,"Bluestem Wind Energy, LLC",IPP Non-CHP,Beaver,Beaver,Oklahoma,73932,wind,198,Onshore Wind Turbine
+powerplant_wind_2020.966,966,"Pioneer Wind Park, LLC","Sustainable Power Group, LLC",IPP Non-CHP,Glenrock,Converse,Wyoming,82637,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.967,967,Prairie Breeze II,Invenergy Services LLC,IPP Non-CHP,Elgin,Antelope,Nebraska,68636,wind,73.4,Onshore Wind Turbine
+powerplant_wind_2020.968,968,Blue Cloud Wind Energy LLC,RWE Renewables Americas LLC,IPP Non-CHP,Sudan,Bailey,Texas,79371,wind,148.4,Onshore Wind Turbine
+powerplant_wind_2020.969,969,Prairie Breeze III,Invenergy Services LLC,IPP Non-CHP,Elgin,Antelope,Nebraska,68636,wind,35.8,Onshore Wind Turbine
+powerplant_wind_2020.970,970,"Grady Wind Energy Center, LLC",Pattern Operators LP,IPP Non-CHP,Clovis,Curry,New Mexico,88101,wind,220.5,Onshore Wind Turbine
+powerplant_wind_2020.971,971,O'Brien Wind,MidAmerican Energy Co,Electric Utility,Primghar,O'Brien,Iowa,51245,wind,250.3,Onshore Wind Turbine
+powerplant_wind_2020.972,972,"Ringer Hill Wind Farm, LLC",Ringer Hill Wind LLC,IPP Non-CHP,Salisbury,Somerset,Pennsylvania,15558,wind,38.3,Onshore Wind Turbine
+powerplant_wind_2020.973,973,Electra Wind Farm,"Electra Wind, LLC",IPP Non-CHP,Oklaunion,Wilbarger,Texas,76364,wind,230,Onshore Wind Turbine
+powerplant_wind_2020.974,974,Horse Creek Wind Farm,"Horse Creek Wind, LLC",IPP Non-CHP,Weinert,Haskell,Texas,76388,wind,230,Onshore Wind Turbine
+powerplant_wind_2020.975,975,Ida Grove Wind,MidAmerican Energy Co,Electric Utility,Ida Grove,Ida,Iowa,51455,wind,301.1,Onshore Wind Turbine
+powerplant_wind_2020.976,976,Brady II Wind Energy Center,"Brady Wind II, LLC",IPP Non-CHP,Dickinson,Stark,North Dakota,58601,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.977,977,Brady Wind Energy Center,"Brady Wind, LLC",IPP Non-CHP,Dickinson,Stark,North Dakota,58601,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.978,978,Old Settler Wind,"Old Settler Wind, LLC",IPP Non-CHP,Floydada,Floyd,Texas,79235,wind,151.2,Onshore Wind Turbine
+powerplant_wind_2020.979,979,Pisgah Mountain Wind,"Pisgah Mountain, LLC",IPP Non-CHP,Clifton,Penobscot,Maine,4428,wind,9.1,Onshore Wind Turbine
+powerplant_wind_2020.980,980,Bethel Wind Farm LLC,Southern Power Co,IPP Non-CHP,Dimmitt,Castro,Texas,79027,wind,276,Onshore Wind Turbine
+powerplant_wind_2020.981,981,Paulding Wind Farm III,Paulding Wind Farm III LLC,IPP Non-CHP,Payne,Paulding,Ohio,45880,wind,100.8,Onshore Wind Turbine
+powerplant_wind_2020.982,982,Green River Wind Farm,"Green River Wind Farm Phase 1, LLC",IPP Non-CHP,Deer Grove,Lee,Illinois,61243,wind,194.3,Onshore Wind Turbine
+powerplant_wind_2020.983,983,Greenfield Wind - MT,Greenbacker Renewable Energy Corporation,IPP Non-CHP,Fairfield,Teton,Montana,59436,wind,25,Onshore Wind Turbine
+powerplant_wind_2020.984,984,"Tyler Bluff Wind Project, LLC",Southern Power Co,IPP Non-CHP,Muenster,Cooke,Texas,76252,wind,125.6,Onshore Wind Turbine
+powerplant_wind_2020.985,985,Crowned Ridge Wind Energy Center,"Crowned Ridge Wind, LLC",IPP Non-CHP,Watertown,Codington,South Dakota,57201,wind,200.1,Onshore Wind Turbine
+powerplant_wind_2020.986,986,Blazing Star Wind Farm 1,"Blazing Star Wind Farm, LLC",IPP Non-CHP,Hendricks,Lincoln,Minnesota,56136,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.987,987,Crocker Wind Farm,"Crocker Wind Farm, LLC",IPP Non-CHP,Conde,Clark,South Dakota,57434,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.988,988,Wind GEM,"Wind GEM, LLC",IPP Non-CHP,Stuart,Adair,Iowa,50250,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.989,989,"Grant Plains Wind, LLC",Southern Power Co,IPP Non-CHP,Medford,Grant,Oklahoma,73759,wind,147.2,Onshore Wind Turbine
+powerplant_wind_2020.990,990,Big Level Wind,Big Level Wind LLC,IPP Non-CHP,Hector Township,Potter,Pennsylvania,16943,wind,90,Onshore Wind Turbine
+powerplant_wind_2020.991,991,"Great Western Wind Energy, LLC","EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Arnett,Ellis,Oklahoma,73832,wind,225,Onshore Wind Turbine
+powerplant_wind_2020.992,992,Kelly Creek Wind Project,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Cabery,Ford,Illinois,60919,wind,184,Onshore Wind Turbine
+powerplant_wind_2020.993,993,Rush Springs Wind,Rush Springs Wind Project,IPP Non-CHP,Marlow,Stephens,Oklahoma,73055,wind,249.9,Onshore Wind Turbine
+powerplant_wind_2020.994,994,Voyager Wind I,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,131.1,Onshore Wind Turbine
+powerplant_wind_2020.995,995,Rush Creek Wind,Public Service Co of Colorado,Electric Utility,Matheson,Elbert,Colorado,80830,wind,600,Onshore Wind Turbine
+powerplant_wind_2020.996,996,"Ninnescah Wind Energy, LLC",Ninnescah Wind Energy LLC,IPP Non-CHP,Cunningham,Pratt,Kansas,67035,wind,208.3,Onshore Wind Turbine
+powerplant_wind_2020.997,997,Kingman Wind,"Kingman Wind Energy, LLC",IPP Non-CHP,Cunningham,Pratt,Kansas,67035,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.998,998,"Javelina Wind Energy II, LLC","Javelina Wind Energy II, LLC",IPP Non-CHP,MIRANDO,Webb,Texas,78369,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.999,999,Rock Creek Wind Project,"Enel Green Power NA, Inc.",IPP Non-CHP,Tarkio,Atchison,Missouri,64491,wind,300,Onshore Wind Turbine
+powerplant_wind_2020.1000,1000,"Salt Fork Wind Project, LLC",Southern Power Co,IPP Non-CHP,Clarendon,Donley,Texas,79226,wind,174,Onshore Wind Turbine
+powerplant_wind_2020.1001,1001,Osborn Wind Energy,Osborn Wind Energy LLC,IPP Non-CHP,Stewartsville,DeKalb,Missouri,64490,wind,195.8,Onshore Wind Turbine
+powerplant_wind_2020.1002,1002,"Cimarron Bend Wind Project I, LLC","Cimarron Bend Wind Project I, LLC",IPP Non-CHP,Minneola,Clark,Kansas,67831,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.1003,1003,"Cimarron Bend Wind Project II, LLC","Cimarron Bend Wind Project II, LLC",IPP Non-CHP,Minneola,Clark,Kansas,67831,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.1004,1004,Western Plains Wind Farm,"Evergy Kansas Central, Inc",Electric Utility,Spearville,Ford,Kansas,67863,wind,280.6,Onshore Wind Turbine
+powerplant_wind_2020.1005,1005,Wind Colebrook South,Wind Colebrook South,IPP Non-CHP,Colebrook,Litchfield,Connecticut,6021,wind,1,Onshore Wind Turbine
+powerplant_wind_2020.1006,1006,"Rattlesnake Power, LLC","Rattlesnake Power, LLC",IPP Non-CHP,Brady,McCulloch,Texas,76858,wind,160,Onshore Wind Turbine
+powerplant_wind_2020.1007,1007,Astra Wind Farm,Astra Wind LLC,IPP Non-CHP,Happy,Randall,Texas,79042,wind,163,Onshore Wind Turbine
+powerplant_wind_2020.1008,1008,Equity Industrial Turbines,Equity Industrial Turbines,IPP Non-CHP,Gloucester,Essex,Massachusetts,1930,wind,4,Onshore Wind Turbine
+powerplant_wind_2020.1009,1009,Prairie Wind Farm,MidAmerican Energy Co,Electric Utility,Montezuma,Mahaska,Iowa,50171,wind,168,Onshore Wind Turbine
+powerplant_wind_2020.1010,1010,"Deerfield Wind Energy, LLC","Deerfield Wind Energy, LLC",IPP Non-CHP,Kinde,Huron,Michigan,48455,wind,149,Onshore Wind Turbine
+powerplant_wind_2020.1011,1011,Willow Springs Wind Farm,"Willow Springs Windfarm, LLC",IPP Non-CHP,Weinert,Haskell,Texas,76388,wind,250,Onshore Wind Turbine
+powerplant_wind_2020.1012,1012,Dermott Wind,RWE Renewables Americas LLC,IPP Non-CHP,Snyder,Scurry,Texas,79549,wind,253,Onshore Wind Turbine
+powerplant_wind_2020.1013,1013,"Oliver Wind III, LLC","Oliver Wind III, LLC",IPP Non-CHP,Mandan,Morton,North Dakota,58554,wind,99.3,Onshore Wind Turbine
+powerplant_wind_2020.1014,1014,Green Energy Machine,"Green Energy Machine, LLC",IPP Non-CHP,Anita,Cass,Iowa,50849,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.1015,1015,CCC Hastings Wind Turbine,"CCC Hastings Renewable Energy, LLC",IPP Non-CHP,Hastings,Adams,Nebraska,68901,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.1016,1016,Creston Ridge Wind Farm,"Creston Ridge, LLC",IPP Non-CHP,Creston,Platte,Nebraska,68631,wind,6.8,Onshore Wind Turbine
+powerplant_wind_2020.1017,1017,Buckthorn Wind Project,"Buckthorn Wind Project, LLC",IPP Non-CHP,Mingus,Erath,Texas,76463,wind,100.5,Onshore Wind Turbine
+powerplant_wind_2020.1018,1018,Santa Rita Wind Energy,"BHE Renewables, LLC",IPP Non-CHP,Big Lake,Reagan,Texas,76932,wind,300,Onshore Wind Turbine
+powerplant_wind_2020.1019,1019,Sterling I Wind Farm,AEM Wind LLC,IPP Non-CHP,Tatum,Lea,New Mexico,88267,wind,29.9,Onshore Wind Turbine
+powerplant_wind_2020.1020,1020,Cactus Flats Wind Energy Project,Southern Power Co,IPP Non-CHP,Eden,Concho,Texas,76837,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.1021,1021,"WED Portsmouth One, LLC","WED Portsmouth One, LLC",IPP Non-CHP,Portsmouth,Newport,Rhode Island,2852,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.1022,1022,Whirlpool Corporation - Ottawa Wind Farm,OEE XXIV LLC,Industrial Non-CHP,Ottawa,Putnam,Ohio,45875,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.1023,1023,Whirlpool Corporation - Marion Wind Farm,OEE XXIII LLC,Industrial Non-CHP,Marion,Marion,Ohio,43302,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.1024,1024,Pattern Santa Isabel LLC,Pattern Operators LP,IPP Non-CHP,Santa Isabel,Santa Isabel,Puerto Rico,757,wind,75,Onshore Wind Turbine
+powerplant_wind_2020.1025,1025,Deerfield Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Searsburg,Bennington,Vermont,5363,wind,30,Onshore Wind Turbine
+powerplant_wind_2020.1026,1026,Twin Buttes II Wind,Avangrid Renewables LLC,IPP Non-CHP,Lamar,Prowers,Colorado,81052,wind,75,Onshore Wind Turbine
+powerplant_wind_2020.1027,1027,Coyote Ridge,Coyote Ridge LLC,IPP Non-CHP,Brookings,Brookings,South Dakota,57006,wind,98,Onshore Wind Turbine
+powerplant_wind_2020.1028,1028,Seward Wind Farm,Seward Wind LLC,IPP Non-CHP,Seward,Seward,Nebraska,68434,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.1029,1029,Foundation CDCR LAC,"Foundation CA Fund VIII Manager, LLC",IPP Non-CHP,Lancaster,Los Angeles,California,93536,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.1030,1030,Foundation Scheid Vineyards,"Foundation CA Fund VIII Manager, LLC",IPP Non-CHP,Greenfield,Monterey,California,93927,wind,1.9,Onshore Wind Turbine
+powerplant_wind_2020.1031,1031,Saratoga Wind Farm,Madison Gas & Electric Co,Electric Utility,Lime Springs,Howard,Iowa,52155,wind,66,Onshore Wind Turbine
+powerplant_wind_2020.1032,1032,Orient Wind Farm,MidAmerican Energy Co,Electric Utility,Orient,Adair,Iowa,50849,wind,500.8,Onshore Wind Turbine
+powerplant_wind_2020.1033,1033,Beaver Creek Wind,MidAmerican Energy Co,Electric Utility,Ogden,Boone,Iowa,50212,wind,340,Onshore Wind Turbine
+powerplant_wind_2020.1034,1034,Pine River Wind Park,DTE Electric Company,Electric Utility,Shepherd,Isabella,Michigan,48883,wind,161.3,Onshore Wind Turbine
+powerplant_wind_2020.1035,1035,Punta Lima Wind Farm,"Punta Lima Wind Farm, LLC",IPP Non-CHP,Naguabo,Naguabo,Puerto Rico,718,wind,23.4,Onshore Wind Turbine
+powerplant_wind_2020.1036,1036,Big Timber Wind Farm,Consolidated Edison Development Inc.,IPP Non-CHP,Big Timber,Sweet Grass,Montana,59011,wind,25,Onshore Wind Turbine
+powerplant_wind_2020.1037,1037,Flat Top Wind I,"Flat Top Wind I, LLC",IPP Non-CHP,Mullin,Mills,Texas,76864,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.1038,1038,Redbed Plains Wind Farm,Redbed Plains Wind Farm LLC,IPP Non-CHP,Tuttle,Grady,Oklahoma,73089,wind,99.1,Onshore Wind Turbine
+powerplant_wind_2020.1039,1039,Golden Hills North Wind Energy Center,"Golden Hills Interconnection Wind, LLC",IPP Non-CHP,Livermore,Alameda,California,94551,wind,46,Onshore Wind Turbine
+powerplant_wind_2020.1040,1040,Rock Falls Wind Farm LLC,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Braman,Kay,Oklahoma,74632,wind,154.5,Onshore Wind Turbine
+powerplant_wind_2020.1041,1041,Thunder Ranch Wind Project,"Thunder Ranch Wind Project, LLC",IPP Non-CHP,Marland,Noble,Oklahoma,74644,wind,297.8,Onshore Wind Turbine
+powerplant_wind_2020.1042,1042,Red Dirt Wind Project,"Red Dirt Wind Project, LLC",IPP Non-CHP,Hennessy,Kingfisher,Oklahoma,73742,wind,299.3,Onshore Wind Turbine
+powerplant_wind_2020.1043,1043,Bluff Point Wind Facility,"Bluff Point Wind, LLC",IPP Non-CHP,Portland,Jay,Indiana,47371,wind,119.7,Onshore Wind Turbine
+powerplant_wind_2020.1044,1044,Hog Creek Wind Project,Hog Creek Wind Project LLC,IPP Non-CHP,Ada,Hardin,Ohio,45810,wind,66,Onshore Wind Turbine
+powerplant_wind_2020.1045,1045,Karankawa Wind LLC,Avangrid Renewables LLC,IPP Non-CHP,Mathis,San Patricio,Texas,79019,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.1046,1046,Otter Creek Wind Farm LLC,Avangrid Renewables LLC,IPP Non-CHP,Osage,LaSalle,Illinois,61321,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.1047,1047,Valfilm Wind Project,OEE XXV LLC,Industrial Non-CHP,Findlay,Hancock,Ohio,45840,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.1048,1048,Red Pine Wind Project,"EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Ivanhoe,Lincoln,Minnesota,56142,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.1049,1049,Foard City Wind,"Foard City Wind, LLC",IPP Non-CHP,Crowell,Foard,Texas,79227,wind,350.3,Onshore Wind Turbine
+powerplant_wind_2020.1050,1050,Cottonwood Wind Energy Center,Cottonwood Wind Project,IPP Non-CHP,Blue Hill,Webster,Nebraska,68930,wind,89.7,Onshore Wind Turbine
+powerplant_wind_2020.1051,1051,Gopher Creek Wind Farm,Fluvanna Wind Energy 2 LLC,IPP Non-CHP,Fluvanna,Borden,Texas,79517,wind,158,Onshore Wind Turbine
+powerplant_wind_2020.1052,1052,Foundation California Training Facility,"Foundation CA Fund IX Manager, LLC",IPP Non-CHP,Soledad,Monterey,California,93960,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.1053,1053,Foundation Mann Packing,"Foundation CA Fund IX Manager, LLC",IPP Non-CHP,Gonzales,Monterey,California,93926,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.1054,1054,Foundation SaIinas Valley State Prison,"Foundation CA Fund IX Manager, LLC",IPP Non-CHP,Soledad,Monterey,California,93960,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.1055,1055,Fort Hays State University Wind Farm,Fort Hays State University,Commercial Non-CHP,Hays,Ellis,Kansas,67601,wind,4,Onshore Wind Turbine
+powerplant_wind_2020.1056,1056,Upland Prairie,Interstate Power and Light Co,Electric Utility,Spencer,Clay,Iowa,51301,wind,299.3,Onshore Wind Turbine
+powerplant_wind_2020.1057,1057,English Farms,Interstate Power and Light Co,Electric Utility,Montezuma,Poweshiek,Iowa,50171,wind,169.9,Onshore Wind Turbine
+powerplant_wind_2020.1058,1058,Voyager Wind II,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,128.7,Onshore Wind Turbine
+powerplant_wind_2020.1059,1059,Voyager Wind III,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,43.2,Onshore Wind Turbine
+powerplant_wind_2020.1060,1060,Voyager Wind IV,Terra-Gen Operating Co-Wind,IPP Non-CHP,Mojave,Kern,California,93501,wind,21.6,Onshore Wind Turbine
+powerplant_wind_2020.1061,1061,UL Advanced Wind Turbine Test Facility,West Texas A&M University,Commercial Non-CHP,Canyon,Randall,Texas,79015,wind,3.5,Onshore Wind Turbine
+powerplant_wind_2020.1062,1062,"Heartland Divide Wind Project, LLC","Heartland Divide Wind Project, LLC",IPP Non-CHP,Melville,Audubon,Iowa,50025,wind,103.5,Onshore Wind Turbine
+powerplant_wind_2020.1063,1063,Turtle Creek Wind Farm LLC,Turtle Creek Wind Farm LLC,IPP Non-CHP,St. Ansgar,Mitchell,Iowa,50461,wind,200.1,Onshore Wind Turbine
+powerplant_wind_2020.1064,1064,August Wind Farm,"August Wind Energy, LLC",IPP Non-CHP,Clearfield,Taylor,Iowa,50840,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.1065,1065,Whirlpool Corp-Greenville Wind Farm,OEE XXVI LLC,IPP Non-CHP,Greenville,Darke,Ohio,45331,wind,4.5,Onshore Wind Turbine
+powerplant_wind_2020.1066,1066,"Creston Ridge II, LLC","Creston Ridge II, LLC",IPP Non-CHP,Creston,Platte,Nebraska,68631,wind,6.9,Onshore Wind Turbine
+powerplant_wind_2020.1067,1067,Arkwright Summit Wind Farm LLC,Arkwright Summit Wind Farm LLC,IPP Non-CHP,Fredonia,Chautauqua,New York,14063,wind,78.4,Onshore Wind Turbine
+powerplant_wind_2020.1068,1068,Wildcat Ranch Wind Project,"Wildcat Ranch Wind Project, LLC",IPP Non-CHP,Morton,Cochran,Texas,79346,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.1069,1069,Perennial Windfarm,"Perennial Wind, LLC",IPP Non-CHP,Fairmont,Fillmore,Nebraska,68354,wind,6.9,Onshore Wind Turbine
+powerplant_wind_2020.1070,1070,Seneca Nation Cattaraugus Wind Turbine,Seneca Nation,Commercial Non-CHP,Irving,Erie,New York,14081,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.1071,1071,Hilltopper Wind Project,"Hilltopper Wind Project, LLC",IPP Non-CHP,Mt. Pulaski,Logan,Illinois,62548,wind,185,Onshore Wind Turbine
+powerplant_wind_2020.1072,1072,Aurora County Wind,Consolidated Edison Development Inc.,IPP Non-CHP,White Lake,Aurora,South Dakota,57833,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.1073,1073,Brule County Wind,Consolidated Edison Development Inc.,IPP Non-CHP,Kimball,Brule,South Dakota,57355,wind,20,Onshore Wind Turbine
+powerplant_wind_2020.1074,1074,"Foxtail Wind, LLC","Foxtail Wind, LLC",Electric Utility,Forbes,Dickey,North Dakota,58413,wind,150,Onshore Wind Turbine
+powerplant_wind_2020.1075,1075,Meadow Lake Wind Farm VI LLC,Meadow Lake Wind Farm VI LLC,IPP Non-CHP,Remington,Benton,Indiana,47997,wind,200.4,Onshore Wind Turbine
+powerplant_wind_2020.1076,1076,Town of Otis Wind Energy Project,Town of Otis,Commercial Non-CHP,Otis,Berkshire,Massachusetts,1253,wind,1.5,Onshore Wind Turbine
+powerplant_wind_2020.1077,1077,"Midway Wind, LLC","Midway Wind, LLC",IPP Non-CHP,Taft,San Patricio,Texas,78390,wind,162.9,Onshore Wind Turbine
+powerplant_wind_2020.1078,1078,Live Oak Wind Project,Engie North America,IPP Non-CHP,Eldorado,Schleicher,Texas,76936,wind,199.5,Onshore Wind Turbine
+powerplant_wind_2020.1079,1079,Upstream Wind Energy LLC,Invenergy Services LLC,IPP Non-CHP,Neligh,Antelope,Nebraska,68756,wind,202.5,Onshore Wind Turbine
+powerplant_wind_2020.1080,1080,Bishop Hill III,Invenergy Services LLC,IPP Non-CHP,Cambridge,Henry,Illinois,61238,wind,119,Onshore Wind Turbine
+powerplant_wind_2020.1081,1081,Hilltop Power,"Hilltop Power, LLC",IPP Non-CHP,Edgerton,Pipestone,Minnesota,56128,wind,2,Onshore Wind Turbine
+powerplant_wind_2020.1082,1082,"Diamond Vista Wind Project, LLC","Enel Green Power Diamond Vista Wind Project, LLC",IPP Non-CHP,Tampa,Marion,Kansas,67483,wind,299.3,Onshore Wind Turbine
+powerplant_wind_2020.1083,1083,"Minco Wind IV, LLC","Minco Wind IV, LLC",IPP Non-CHP,Hinton,Canadian,Oklahoma,73047,wind,130,Onshore Wind Turbine
+powerplant_wind_2020.1084,1084,"PYCO Industries, Inc. Wind Farm","PYCO Industries, Inc.",Industrial Non-CHP,Lubbock,Lubbock,Texas,79404,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.1085,1085,"Stillwater Wind, LLC",Pattern Operators LP,IPP Non-CHP,Reed Point,Stillwater,Montana,59069,wind,79.7,Onshore Wind Turbine
+powerplant_wind_2020.1086,1086,"Rio Bravo Windpower, LLC","Rio Bravo Windpower, LLC",IPP Non-CHP,Roma,Starr,Texas,78584,wind,237.6,Onshore Wind Turbine
+powerplant_wind_2020.1087,1087,Wildhorse Mountain Wind Facility,Southern Power Co,IPP Non-CHP,Clayton,Pushmataha,Oklahoma,74536,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.1088,1088,"Persimmon Creek Wind Farm 1, LLC","Persimmon Creek Wind Farm 1, LLC",IPP Non-CHP,Vici,Woodward,Oklahoma,73859,wind,198.6,Onshore Wind Turbine
+powerplant_wind_2020.1089,1089,Sholes Wind Energy Center,"Sholes Wind Energy Center, LLC",IPP Non-CHP,Randolph,Wayne,Nebraska,68771,wind,160,Onshore Wind Turbine
+powerplant_wind_2020.1090,1090,Ivester Wind Farm,MidAmerican Energy Co,Electric Utility,Wellsburg,Grundy,Iowa,50680,wind,90.8,Onshore Wind Turbine
+powerplant_wind_2020.1091,1091,Pegasus Wind,"Pegasus Wind, LLC",IPP Non-CHP,Reese,Tuscola,Michigan,48757,wind,48,Onshore Wind Turbine
+powerplant_wind_2020.1092,1092,Tahoka Wind,RWE Renewables Americas LLC,IPP Non-CHP,Tahoka,Lynn,Texas,79373,wind,300,Onshore Wind Turbine
+powerplant_wind_2020.1093,1093,Casa Mesa Wind Energy Center,"Casa Mesa Wind, LLC",IPP Non-CHP,House,Quay,New Mexico,88121,wind,51.9,Batteries; Onshore Wind Turbine;
+powerplant_wind_2020.1094,1094,"Armadillo Flats Wind Project, LLC","Armadillo Flats Wind Project, LLC",IPP Non-CHP,Enid,Garfield,Oklahoma,73701,wind,247.3,Onshore Wind Turbine
+powerplant_wind_2020.1095,1095,"Pratt Wind, LLC","Pratt Wind, LLC",IPP Non-CHP,Andover,Pratt,Kansas,67124,wind,243.5,Onshore Wind Turbine
+powerplant_wind_2020.1096,1096,"Torrecillas Wind Energy, LLC","Torrecillas Wind Energy, LLC",IPP Non-CHP,Bruni,Webb,Texas,78344,wind,300,Onshore Wind Turbine
+powerplant_wind_2020.1097,1097,"Blue Summit II Wind, LLC","Blue Summit II Wind, LLC",IPP Non-CHP,Vernon,Wilbarger,Texas,76384,wind,99.4,Onshore Wind Turbine
+powerplant_wind_2020.1098,1098,"Solomon Forks Wind Project, LLC",Engie North America,IPP Non-CHP,Colby,Thomas,Kansas,67701,wind,275.6,Onshore Wind Turbine
+powerplant_wind_2020.1099,1099,Glaciers Edge Wind Project,Glaciers Edge Wind Project LLC,IPP Non-CHP,Cleghorn,Cherokee,Iowa,51035,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.1100,1100,Santa Rita East,Invenergy Services LLC,IPP Non-CHP,Barnhart,Irion,Texas,76930,wind,302.4,Onshore Wind Turbine
+powerplant_wind_2020.1101,1101,Whispering Willow North,Interstate Power and Light Co,Electric Utility,Latimer,Franklin,Iowa,50452,wind,201.3,Onshore Wind Turbine
+powerplant_wind_2020.1102,1102,Golden Plains,Interstate Power and Light Co,Electric Utility,Buffalo Center,Winnebago,Iowa,50424,wind,199.8,Onshore Wind Turbine
+powerplant_wind_2020.1103,1103,"WED Green Hill, LLC","WED Green Hill, LLC",IPP Non-CHP,Johnston,Providence,Rhode Island,2919,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.1104,1104,"WED Plainfield II, LLC","WED Plainfield II, LLC",IPP Non-CHP,Johnston,Providence,Rhode Island,2919,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.1105,1105,"WED Plainfield III, LLC","WED Plainfield III, LLC",IPP Non-CHP,Johnston,Providence,Rhode Island,2919,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.1106,1106,"WED Plainfield, LLC","WED Plainfield, LLC",IPP Non-CHP,Johnston,Providence,Rhode Island,2919,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.1107,1107,"WED Shun I, LLC","WED Shun I, LLC",IPP Non-CHP,Johnston,Providence,Rhode Island,2919,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.1108,1108,"WED Shun II, LLC","WED Shun II, LLC",IPP Non-CHP,Johnston,Providence,Rhode Island,2919,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.1109,1109,"WED Shun III, LLC","WED Shun III, LLC",IPP Non-CHP,Johnston,Providence,Rhode Island,2919,wind,3,Onshore Wind Turbine
+powerplant_wind_2020.1110,1110,Roseman,"Roseman Energy, LLC",IPP Non-CHP,Anita,Cass,Iowa,50020,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.1111,1111,Arbor Hill Wind Farm,MidAmerican Energy Co,Electric Utility,Greenfield,Adair,Iowa,50849,wind,310,Onshore Wind Turbine
+powerplant_wind_2020.1112,1112,North English,MidAmerican Energy Co,Electric Utility,Montezuma,Poweshiek,Iowa,50171,wind,340,Onshore Wind Turbine
+powerplant_wind_2020.1113,1113,Galactic Wind,Galactic Wind,Commercial Non-CHP,Waunakee,Dane,Wisconsin,53597,wind,9.9,Onshore Wind Turbine
+powerplant_wind_2020.1114,1114,Birch,Birch Power LLC,IPP Non-CHP,Clearfield,Taylor,Iowa,50840,wind,1.8,Onshore Wind Turbine
+powerplant_wind_2020.1115,1115,"East Fork Wind Project, LLC",Engie North America,IPP Non-CHP,Colby,Thomas,Kansas,67701,wind,195.8,Onshore Wind Turbine
+powerplant_wind_2020.1116,1116,"Seymour Hills Wind Project, LLC",Engie North America,IPP Non-CHP,Seymour,Baylor,Texas,76380,wind,30.2,Onshore Wind Turbine
+powerplant_wind_2020.1117,1117,Prevailing Wind Park,"Prevailing Wind Park, LLC",IPP Non-CHP,Lesterville,Yankton,South Dakota,57040,wind,220,Onshore Wind Turbine
+powerplant_wind_2020.1118,1118,Mesteno,Mesteno Wind,IPP Non-CHP,Rio Grande City,Starr,Texas,78582,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.1119,1119,Ranchero Wind Farm LLC,Ranchero Wind Farm LLC,IPP Non-CHP,Iraan,Crockett,Texas,79744,wind,300,Onshore Wind Turbine
+powerplant_wind_2020.1120,1120,"Stoneray Power Partners, LLC","EDF Renewable Asset Holdings, Inc.",IPP Non-CHP,Woodstock,Pipestone,Minnesota,56186,wind,100,Onshore Wind Turbine
+powerplant_wind_2020.1121,1121,"Palmer's Creek Wind Farm, LLC","Palmer's Creek Wind Farm, LLC",IPP Non-CHP,Granite Falls,Chippewa,Minnesota,56241,wind,44.6,Onshore Wind Turbine
+powerplant_wind_2020.1122,1122,"Polk County Renewables, LLC","Polk County Renewables, LLC",IPP Non-CHP,Osceola,Polk,Nebraska,68651,wind,2.5,Onshore Wind Turbine
+powerplant_wind_2020.1123,1123,Lockett Windfarm,"Lockett Windfarm, LLC",IPP Non-CHP,Vernon,Wilbarger,Texas,76384,wind,183.8,Onshore Wind Turbine
+powerplant_wind_2020.1124,1124,"Emmons-Logan Wind, LLC","Emmons-Logan Wind, LLC",IPP Non-CHP,Linton,Emmons,North Dakota,58552,wind,200,Onshore Wind Turbine
+powerplant_wind_2020.1125,1125,"Lake Region Community Hybrid, LLC","Lake Region Community Hybrid, LLC",IPP Non-CHP,Rothsay,Otter Tail,Minnesota,56579,wind,2.5,Solar Photovoltaic; Onshore Wind Turbine;
+powerplant_wind_2020.1126,1126,Busch Ranch II Wind Farm,Black Hills Electric Generation LLC,IPP Non-CHP,Walsenburg,Huerfano,Colorado,81089,wind,59.4,Onshore Wind Turbine
+powerplant_wind_2020.1127,1127,Prairie Queen Wind Farm,Prairie Queen Wind Farm LLC,IPP Non-CHP,Moran,Allen,Kansas,66755,wind,199.3,Onshore Wind Turbine
+powerplant_wind_2020.1128,1128,Blue Summit III Wind,"Blue Summit III Wind, LLC",IPP Non-CHP,Chilicothe,Hardeman,Texas,79225,wind,200.2,Onshore Wind Turbine
+powerplant_wind_2020.1129,1129,Jiminy Peak Wind QF,"Jiminy Peak Mountain Resort, LLC",IPP Non-CHP,Hancock,Berkshire,Massachusetts,1237,wind,1.7,Onshore Wind Turbine
+powerplant_wind_2020.1130,1130,Mesquite Star,Mesquite Star LLC,IPP Non-CHP,Roscoe,Nolan,Texas,79545,wind,418.9,Onshore Wind Turbine
+powerplant_wind_2020.1131,1131,Whitney Hill Wind Power LLC,Whitney Hill Wind Power LLC,IPP Non-CHP,Mt.Pulaski,Logan,Illinois,62548,wind,65,Onshore Wind Turbine
+powerplant_wind_2020.1132,1132,Hidalgo Wind Farm II,Hidalgo Wind Farm II LLC,IPP Non-CHP,Edinburg,Hidalgo,Texas,78541,wind,50.4,Onshore Wind Turbine
+powerplant_wind_2020.1133,1133,Jumbo Hill Wind Project,Engie North America,IPP Non-CHP,Andrews,Andrews,Texas,79714,wind,160.7,Onshore Wind Turbine
+powerplant_wind_2020.1134,1134,GE-Lubbock,GE Wind Energy LLC,IPP Non-CHP,Lubbock,Lubbock,Texas,79416,wind,6.1,Onshore Wind Turbine
+powerplant_wind_2020.1135,1135,Harbec Energy,Harbec Energy,Industrial CHP,Ontario,Ontario,New York,14519,wind,1.7,Natural Gas Fired Combustion Turbine; Onshore Wind Turbine;
+powerplant_wind_2020.1136,1136,Pembina Land Port of Entry Wind Turbine,General Services Administration - Region 8,Commercial Non-CHP,Pembina,Pembina,North Dakota,58271,wind,0.8,Onshore Wind Turbine
+powerplant_wind_2020.1137,1137,Ida Grove II,MidAmerican Energy Co,Electric Utility,Ida Grove,Ida,Iowa,51445,wind,201,Onshore Wind Turbine
+powerplant_wind_2020.1138,1138,Holiday Hill Community Wind,Greenbacker Renewable Energy Corporation,IPP Non-CHP,Russell,Hampden,Massachusetts,1071,wind,5,Onshore Wind Turbine
+powerplant_wind_2020.1139,1139,Glen Ullin Energy Center,Allete Clean Energy,IPP Non-CHP,Glen Ullin,Morton,North Dakota,58631,wind,106.7,Onshore Wind Turbine
+powerplant_wind_2020.1140,1140,South Peak Wind,Allete Clean Energy,IPP Non-CHP,Geyser,Judith Basin,Montana,59447,wind,80,Onshore Wind Turbine
+powerplant_wind_2020.1141,1141,Timber Road IV,Paulding Wind Farm IV LLC,IPP Non-CHP,Payne,Paulding,Ohio,45880,wind,125.1,Onshore Wind Turbine
+powerplant_wind_2020.1142,1142,"Canadian Breaks, LLC",RWE Renewables Americas LLC,IPP Non-CHP,Vega,Deaf Smith,Texas,79092,wind,210.1,Onshore Wind Turbine
+powerplant_wind_2020.1143,1143,Palo Alto Wind Farm,MidAmerican Energy Co,Electric Utility,Emmetsburg,Palo Alto,Iowa,50536,wind,250,Onshore Wind Turbine
+powerplant_wind_2020.1144,1144,"Cuming County Renewables, LLC",Cuming County Renewables. LLC,IPP Non-CHP,Wisner,Cuming,Nebraska,68791,wind,2.5,Onshore Wind Turbine
+powerplant_wind_2020.1145,1145,Cisco,Allete Clean Energy,IPP Non-CHP,Brewster,Jackson,Minnesota,56119,wind,8.4,Onshore Wind Turbine
+powerplant_wind_2020.1146,1146,Lincoln Heights I,Allete Clean Energy,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,56149,wind,5.2,Onshore Wind Turbine
+powerplant_wind_2020.1147,1147,Lincoln Heights II,Allete Clean Energy,IPP Non-CHP,Lake Benton,Lincoln,Minnesota,56149,wind,3.9,Onshore Wind Turbine

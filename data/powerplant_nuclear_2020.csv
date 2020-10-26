@@ -1,0 +1,58 @@
+FID,ogc_fid,plant_name,utility_na,sector_nam,city,county,statename,zip,primsource,total_mw,tech_desc
+powerplant_nuclear_2020.1,1,Browns Ferry,Tennessee Valley Authority,Electric Utility,Decatur,Limestone,Alabama,35609,nuclear,3774.4,Nuclear
+powerplant_nuclear_2020.2,2,Clinton Power Station,Exelon Nuclear,IPP Non-CHP,Clinton,DeWitt,Illinois,61727,nuclear,1065,Nuclear
+powerplant_nuclear_2020.3,3,Wolf Creek Generating Station,Wolf Creek Nuclear Optg Corp,Electric Utility,Burlington,Coffey,Kansas,66839,nuclear,1225,Nuclear
+powerplant_nuclear_2020.4,4,Columbia Generating Station,Energy Northwest,Electric Utility,Richland,Benton,Washington,99352,nuclear,1163,Nuclear
+powerplant_nuclear_2020.5,5,Millstone,Dominion Energy Nuclear Conn Inc,IPP Non-CHP,Waterford,New London,Connecticut,6385,nuclear,2073.1,Nuclear
+powerplant_nuclear_2020.6,6,Turkey Point,Florida Power & Light Co,Electric Utility,Homestead,Miami Dade,Florida,33035,nuclear,2911,Natural Gas Fired Combined Cycle; Nuclear;
+powerplant_nuclear_2020.7,7,Vogtle,Georgia Power Co,Electric Utility,Waynesboro,Burke,Georgia,30830,nuclear,2302,Nuclear
+powerplant_nuclear_2020.8,8,Dresden Generating Station,Exelon Nuclear,IPP Non-CHP,Morris,Grundy,Illinois,60450,nuclear,1797,Nuclear
+powerplant_nuclear_2020.9,9,Quad Cities Generating Station,Exelon Nuclear,IPP Non-CHP,Cordova,Rock Island,Illinois,61242,nuclear,1819,Nuclear
+powerplant_nuclear_2020.10,10,Duane Arnold Energy Center,NextEra Energy Duane Arnold LLC,IPP Non-CHP,Palo,Linn,Iowa,52324,nuclear,601.4,Nuclear
+powerplant_nuclear_2020.11,11,Palisades,Entergy Nuclear Palisades LLC,IPP Non-CHP,Covert,Van Buren,Michigan,49043,nuclear,771.6,Nuclear
+powerplant_nuclear_2020.12,12,Fermi,DTE Electric Company,Electric Utility,Frenchtown Twp,Monroe,Michigan,48166,nuclear,1192,Nuclear; Petroleum Liquids;
+powerplant_nuclear_2020.13,13,Monticello Nuclear Facility,Northern States Power Co - Minnesota,Electric Utility,Monticello,Wright,Minnesota,55362,nuclear,617,Nuclear
+powerplant_nuclear_2020.14,14,Prairie Island,Northern States Power Co - Minnesota,Electric Utility,Welch,Goodhue,Minnesota,55066,nuclear,1040,Nuclear
+powerplant_nuclear_2020.15,15,PSEG Salem Generating Station,PSEG Nuclear LLC,IPP Non-CHP,Hancocks Bridge,Salem,New Jersey,8038,nuclear,2333.5,Nuclear; Petroleum Liquids;
+powerplant_nuclear_2020.16,16,Nine Mile Point Nuclear Station,Exelon Nuclear,IPP Non-CHP,Lycoming,Oswego,New York,13093,nuclear,1913.6,Nuclear
+powerplant_nuclear_2020.17,17,Peach Bottom,Exelon Nuclear,IPP Non-CHP,Delta,York,Pennsylvania,17314,nuclear,2549.4,Nuclear
+powerplant_nuclear_2020.18,18,H B Robinson,Duke Energy Progress - (NC),Electric Utility,Hartsville,Darlington,South Carolina,29550,nuclear,741,Nuclear
+powerplant_nuclear_2020.19,19,Oconee,"Duke Energy Carolinas, LLC",Electric Utility,Seneca,Oconee,South Carolina,29672,nuclear,2554,Nuclear
+powerplant_nuclear_2020.20,20,Surry,Virginia Electric & Power Co,Electric Utility,Surry,Surry,Virginia,23883,nuclear,1676,Nuclear
+powerplant_nuclear_2020.21,21,Point Beach Nuclear Plant,NextEra Energy Point Beach LLC,IPP Non-CHP,Two Rivers,Manitowoc,Wisconsin,54241,nuclear,1216.1,Nuclear; Petroleum Liquids;
+powerplant_nuclear_2020.22,22,Waterford 3,Entergy Louisiana LLC,Electric Utility,Killona,St Charles,Louisiana,70057,nuclear,1165.4,Nuclear
+powerplant_nuclear_2020.23,23,Donald C Cook,Indiana Michigan Power Co,Electric Utility,Bridgman,Berrien,Michigan,49106,nuclear,2177,Nuclear
+powerplant_nuclear_2020.24,24,Joseph M Farley,Alabama Power Co,Electric Utility,Columbia,Houston,Alabama,36319,nuclear,1751,Nuclear
+powerplant_nuclear_2020.25,25,Palo Verde,Arizona Public Service Co,Electric Utility,Wintersburg,Maricopa,Arizona,85036,nuclear,3937,Nuclear
+powerplant_nuclear_2020.26,26,Calvert Cliffs Nuclear Power Plant,Exelon Nuclear,IPP Non-CHP,Lusby,Calvert,Maryland,20657,nuclear,1707.8,Nuclear
+powerplant_nuclear_2020.27,27,Brunswick Nuclear,Duke Energy Progress - (NC),Electric Utility,Southport,Brunswick,North Carolina,28461,nuclear,1870,Nuclear
+powerplant_nuclear_2020.28,28,Harris,Duke Energy Progress - (NC),Electric Utility,New Hill,Wake,North Carolina,27562,nuclear,964,Nuclear
+powerplant_nuclear_2020.29,29,Perry,FirstEnergy Nuclear Operating Company,IPP Non-CHP,Perry,Lake,Ohio,44081,nuclear,1240,Nuclear
+powerplant_nuclear_2020.30,30,Braidwood Generation Station,Exelon Nuclear,IPP Non-CHP,Braceville,Will,Illinois,60407,nuclear,2337,Nuclear
+powerplant_nuclear_2020.31,31,Byron Generating Station,Exelon Nuclear,IPP Non-CHP,Byron,Ogle,Illinois,61010,nuclear,2300,Nuclear
+powerplant_nuclear_2020.32,32,LaSalle Generating Station,Exelon Nuclear,IPP Non-CHP,Marseilles,LaSalle,Illinois,61341,nuclear,2264.4,Nuclear
+powerplant_nuclear_2020.33,33,Catawba,"Duke Energy Carolinas, LLC",Electric Utility,York,York,South Carolina,29745,nuclear,2310.2,Nuclear
+powerplant_nuclear_2020.34,34,McGuire,"Duke Energy Carolinas, LLC",Electric Utility,Huntersville,Mecklenburg,North Carolina,28078,nuclear,2315.6,Nuclear
+powerplant_nuclear_2020.35,35,Beaver Valley,FirstEnergy Nuclear Operating Company,IPP Non-CHP,Shippingport,Beaver,Pennsylvania,15077,nuclear,1808,Nuclear
+powerplant_nuclear_2020.36,36,St Lucie,Florida Power & Light Co,Electric Utility,Jensen Beach,St Lucie,Florida,33497,nuclear,1968,Nuclear
+powerplant_nuclear_2020.37,37,Edwin I Hatch,Georgia Power Co,Electric Utility,Baxley,Appling,Georgia,31513,nuclear,1759,Nuclear
+powerplant_nuclear_2020.38,38,Grand Gulf,"System Energy Resources, Inc",Electric Utility,Port Gibson,Claiborne,Mississippi,39150,nuclear,1401,Nuclear
+powerplant_nuclear_2020.39,39,Diablo Canyon,Pacific Gas & Electric Co.,Electric Utility,Avila Beach,San Luis Obispo,California,93424,nuclear,2240,Nuclear
+powerplant_nuclear_2020.40,40,TalenEnergy Susquehanna,TalenEnergy Susquehanna LLC,IPP Non-CHP,Berwick,Luzerne,Pennsylvania,18603,nuclear,2494,Nuclear
+powerplant_nuclear_2020.41,41,Limerick,Exelon Nuclear,IPP Non-CHP,Sanatoga,Montgomery,Pennsylvania,19464,nuclear,2241.8,Nuclear
+powerplant_nuclear_2020.42,42,James A Fitzpatrick,Exelon Nuclear,IPP Non-CHP,Lycoming,Oswego,New York,13093,nuclear,848.1,Nuclear
+powerplant_nuclear_2020.43,43,Seabrook,NextEra Energy Seabrook LLC,IPP Non-CHP,Seabrook,Rockingham,New Hampshire,3874,nuclear,1250.4,Nuclear
+powerplant_nuclear_2020.44,44,PSEG Hope Creek Generating Station,PSEG Nuclear LLC,IPP Non-CHP,Hancocks Bridge,Salem,New Jersey,8038,nuclear,1172,Nuclear
+powerplant_nuclear_2020.45,45,R E Ginna Nuclear Power Plant,Exelon Nuclear,IPP Non-CHP,Ontario,Wayne,New York,14519,nuclear,580.6,Nuclear
+powerplant_nuclear_2020.46,46,V C Summer,"Dominion Energy South Carolina, Inc",Electric Utility,Jenkinsville,Fairfield,South Carolina,29065,nuclear,971,Nuclear
+powerplant_nuclear_2020.47,47,Comanche Peak,Luminant Generation Company LLC,IPP Non-CHP,Glen Rose,Somervell,Texas,76043,nuclear,2400,Nuclear
+powerplant_nuclear_2020.48,48,Davis Besse,FirstEnergy Nuclear Operating Company,IPP Non-CHP,Oak Harbor,Ottawa,Ohio,43449,nuclear,894,Nuclear
+powerplant_nuclear_2020.49,49,Sequoyah,Tennessee Valley Authority,Electric Utility,Soddy Daisy,Hamilton,Tennessee,37379,nuclear,2277.7,Nuclear
+powerplant_nuclear_2020.50,50,Callaway,Union Electric Co - (MO),Electric Utility,Fulton,Callaway,Missouri,65251,nuclear,1190,Nuclear
+powerplant_nuclear_2020.51,51,North Anna,Virginia Electric & Power Co,Electric Utility,Mineral,Louisa,Virginia,23117,nuclear,1893,Conventional Hydroelectric; Nuclear;
+powerplant_nuclear_2020.52,52,South Texas Project,STP Nuclear Operating Co,IPP Non-CHP,Wadsworth,Matagorda,Texas,77483,nuclear,2560,Nuclear
+powerplant_nuclear_2020.53,53,River Bend,Entergy Louisiana LLC,Electric Utility,St. Francisville,West Feliciana,Louisiana,70775,nuclear,967.5,Nuclear
+powerplant_nuclear_2020.54,54,Watts Bar Nuclear Plant,Tennessee Valley Authority,Electric Utility,Spring City,Rhea,Tennessee,37381,nuclear,2245,Nuclear
+powerplant_nuclear_2020.55,55,Cooper Nuclear Station,Nebraska Public Power District,Electric Utility,Brownville,Nemaha,Nebraska,68321,nuclear,770,Nuclear
+powerplant_nuclear_2020.56,56,Arkansas Nuclear One,Entergy Arkansas LLC,Electric Utility,Russellville,Pope,Arkansas,72801,nuclear,1817.8,Nuclear
+powerplant_nuclear_2020.57,57,Indian Point 3,Entergy Nuclear Indian Point 3,IPP Non-CHP,Buchanan,Westchester,New York,10511,nuclear,1037.9,Nuclear

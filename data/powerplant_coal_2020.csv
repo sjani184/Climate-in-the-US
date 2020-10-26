@@ -1,0 +1,283 @@
+FID,ogc_fid,plant_name,utility_na,sector_nam,city,county,statename,zip,primsource,total_mw,tech_desc
+powerplant_coal_2020.1,1,Dolet Hills,Cleco Power LLC,Electric Utility,Mansfield,DeSoto,Louisiana,71052,coal,645.3,Conventional Steam Coal
+powerplant_coal_2020.2,2,Charles R Lowman,PowerSouth Energy Cooperative,Electric Utility,Leroy,Washington,Alabama,36548,coal,554,Conventional Steam Coal
+powerplant_coal_2020.3,3,Platte,City of Grand Island - (NE),Electric Utility,Grand Island,Hall,Nebraska,68801,coal,100,Conventional Steam Coal
+powerplant_coal_2020.4,4,Whelan Energy Center,City of Hastings - (NE),Electric Utility,Hastings,Adams,Nebraska,68902,coal,309,Conventional Steam Coal
+powerplant_coal_2020.5,5,Aurora Energy LLC Chena,Aurora Energy LLC,IPP CHP,Fairbanks,Fairbanks North Star,Alaska,99701,coal,25.7,Conventional Steam Coal
+powerplant_coal_2020.6,6,Escalante,"Tri-State G & T Assn, Inc",Electric Utility,Prewitt,McKinley,New Mexico,87045,coal,253,Conventional Steam Coal
+powerplant_coal_2020.7,7,Holcomb,Sunflower Electric Power Corp,Electric Utility,Holcomb,Finney,Kansas,67851,coal,358.8,Conventional Steam Coal
+powerplant_coal_2020.8,8,Cholla,Arizona Public Service Co,Electric Utility,Joseph City,Navajo,Arizona,86032,coal,767,Conventional Steam Coal
+powerplant_coal_2020.9,9,Oklaunion,Public Service Co of Oklahoma,Electric Utility,Oklaunion,Wilbarger,Texas,76373,coal,650,Conventional Steam Coal
+powerplant_coal_2020.10,10,Cross,South Carolina Public Service Authority,Electric Utility,Cross,Berkeley,South Carolina,29436,coal,2350,Conventional Steam Coal
+powerplant_coal_2020.11,11,Seminole (FL),Seminole Electric Cooperative Inc,Electric Utility,Palatka,Putnam,Florida,32708,coal,1309,Conventional Steam Coal
+powerplant_coal_2020.12,12,Limestone,NRG Texas Power LLC,IPP Non-CHP,Jewett,Limestone,Texas,75846,coal,1689,Conventional Steam Coal
+powerplant_coal_2020.13,13,Comanche (CO),Public Service Co of Colorado,Electric Utility,Pueblo,Pueblo,Colorado,81006,coal,1410,Conventional Steam Coal
+powerplant_coal_2020.14,14,Martin Drake,City of Colorado Springs - (CO),Electric Utility,Colorado Springs,El Paso,Colorado,80903,coal,208,Conventional Steam Coal
+powerplant_coal_2020.15,15,Hayden,Public Service Co of Colorado,Electric Utility,Hayden,Routt,Colorado,81639,coal,441,Conventional Steam Coal
+powerplant_coal_2020.16,16,Stanton Energy Center,Orlando Utilities Comm,Electric Utility,Orlando,Orange,Florida,32831,coal,1189,Conventional Steam Coal; Natural Gas Fired Combined Cycle;
+powerplant_coal_2020.17,17,Indian River Generating Station,Indian River Operations Inc,IPP Non-CHP,Dagsboro,Sussex,Delaware,19939,coal,426.1,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.18,18,Brandon Shores,Brandon Shores LLC,IPP Non-CHP,Baltimore,Anne Arundel,Maryland,21226,coal,1273,Conventional Steam Coal
+powerplant_coal_2020.19,19,Crist,Gulf Power Co,Electric Utility,Pensacola,Escambia,Florida,32514,coal,924,Conventional Steam Coal
+powerplant_coal_2020.20,20,Big Bend,Tampa Electric Co,Electric Utility,Apollo Beach,Hillsborough,Florida,33572,coal,1677.4,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Solar Photovoltaic
+powerplant_coal_2020.21,21,Deerhaven Generating Station,Gainesville Regional Utilities,Electric Utility,Gainesville,Alachua,Florida,32653,coal,417,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Natural Gas Steam Turbine
+powerplant_coal_2020.22,22,Northside Generating Station,JEA,Electric Utility,Jacksonville,Duval,Florida,32226,coal,1322,Conventional Steam Coal; Natural Gas Steam Turbine; Petroleum Liquids
+powerplant_coal_2020.23,23,Bowen,Georgia Power Co,Electric Utility,Cartersville,Bartow,Georgia,30120,coal,3232,Conventional Steam Coal
+powerplant_coal_2020.24,24,E D Edwards,Illinois Power Resources Generating LLC,IPP Non-CHP,Bartonville,Peoria,Illinois,61607,coal,560,Conventional Steam Coal
+powerplant_coal_2020.25,25,Kincaid Generation LLC,Dynegy Kincaid Generation,IPP Non-CHP,Kincaid,Christian,Illinois,62540,coal,1108,Conventional Steam Coal
+powerplant_coal_2020.26,26,Powerton,Midwest Generations EME LLC,IPP Non-CHP,Pekin,Tazewell,Illinois,61554,coal,1538,Conventional Steam Coal
+powerplant_coal_2020.27,27,Waukegan,Midwest Generations EME LLC,IPP Non-CHP,Waukegan,Lake,Illinois,60087,coal,796.8,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.28,28,Will County,Midwest Generations EME LLC,IPP Non-CHP,Romeoville,Will,Illinois,60446,coal,510,Conventional Steam Coal
+powerplant_coal_2020.29,29,Joppa Steam,Electric Energy Inc,IPP Non-CHP,Joppa,Massac,Illinois,62953,coal,948,Conventional Steam Coal
+powerplant_coal_2020.30,30,Baldwin Energy Complex,Dynegy Midwest Generation Inc,IPP Non-CHP,Baldwin,Randolph,Illinois,62217,coal,1778,Conventional Steam Coal
+powerplant_coal_2020.31,31,Dallman,City of Springfield - (IL),Electric Utility,Springfield,Sangamon,Illinois,62703,coal,527.5,Conventional Steam Coal
+powerplant_coal_2020.32,32,Marion,Southern Illinois Power Coop,Electric Utility,Marion,Williamson,Illinois,62959,coal,430,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.33,33,Clifty Creek,Indiana-Kentucky Electric Corp,Electric Utility,Madison,Jefferson,Indiana,47250,coal,1173,Conventional Steam Coal
+powerplant_coal_2020.34,34,AES Petersburg,Indianapolis Power & Light Co,Electric Utility,Petersburg,Pike,Indiana,47567,coal,1710.5,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.35,35,Michigan City,Northern Indiana Pub Serv Co,Electric Utility,Michigan City,LaPorte,Indiana,46360,coal,455,Conventional Steam Coal
+powerplant_coal_2020.36,36,Cayuga,"Duke Energy Indiana, LLC",Electric Utility,Cayuga,Vermillion,Indiana,47928,coal,1085,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Petroleum Liquids
+powerplant_coal_2020.37,37,Edwardsport,"Duke Energy Indiana, LLC",Electric Utility,Edwardsport,Knox,Indiana,47500,coal,595,Coal Integrated Gasification Combined Cycle
+powerplant_coal_2020.38,38,R Gallagher,"Duke Energy Indiana, LLC",Electric Utility,New Albany,Floyd,Indiana,47200,coal,280,Conventional Steam Coal
+powerplant_coal_2020.39,39,F B Culley,Southern Indiana Gas & Elec Co,Electric Utility,Newburgh,Warrick,Indiana,47630,coal,360,Conventional Steam Coal
+powerplant_coal_2020.40,40,Crawfordsville Power Plant,Crawfordsville Energy LLC,IPP Non-CHP,Crawfordsville,Montgomery,Indiana,47933,coal,24.1,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.41,41,Whitewater Valley,City of Richmond - (IN),Electric Utility,RICHMOND,Wayne,Indiana,47375,coal,99.7,Conventional Steam Coal
+powerplant_coal_2020.42,42,Lansing,Interstate Power and Light Co,Electric Utility,Lansing,Allamakee,Iowa,52151,coal,247.8,Conventional Steam Coal
+powerplant_coal_2020.43,43,Walter Scott Jr Energy Center,MidAmerican Energy Co,Electric Utility,Council Bluffs,Pottawattamie,Iowa,51501,coal,1514.4,Conventional Steam Coal
+powerplant_coal_2020.44,44,George Neal North,MidAmerican Energy Co,Electric Utility,Sergeant Bluff,Woodbury,Iowa,51052,coal,510.1,Conventional Steam Coal
+powerplant_coal_2020.45,45,Burlington (IA),Interstate Power and Light Co,Electric Utility,Burlington,Des Moines,Iowa,52601,coal,244.7,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.46,46,Muscatine Plant #1,Board of Water Electric & Communications,Electric Utility,Muscatine,Muscatine,Iowa,52761,coal,226,Conventional Steam Coal
+powerplant_coal_2020.47,47,La Cygne,Evergy Metro,Electric Utility,La Cygne,Linn,Kansas,66040,coal,1408,Conventional Steam Coal
+powerplant_coal_2020.48,48,Lawrence Energy Center,"Evergy Kansas Central, Inc",Electric Utility,Lawrence,Douglas,Kansas,66049,coal,486,Conventional Steam Coal
+powerplant_coal_2020.49,49,Ghent,Kentucky Utilities Co,Electric Utility,Ghent,Carroll,Kentucky,41045,coal,1919,Conventional Steam Coal
+powerplant_coal_2020.50,50,Mill Creek (KY),Louisville Gas & Electric Co,Electric Utility,Louisville,Jefferson,Kentucky,40272,coal,1465,Conventional Steam Coal
+powerplant_coal_2020.51,51,Elmer Smith,City of Owensboro - (KY),Electric Utility,Owensboro,Daviess,Kentucky,42303,coal,399.8,Conventional Steam Coal
+powerplant_coal_2020.52,52,Shawnee,Tennessee Valley Authority,Electric Utility,West Paducah,McCracken,Kentucky,42086,coal,1206,Conventional Steam Coal
+powerplant_coal_2020.53,53,Kenneth C Coleman,Big Rivers Electric Corp,Electric Utility,Hawesville,Hancock,Kentucky,42348,coal,443,Conventional Steam Coal
+powerplant_coal_2020.54,54,Cooper,"East Kentucky Power Coop, Inc",Electric Utility,Somerset,Pulaski,Kentucky,42501,coal,341,Conventional Steam Coal
+powerplant_coal_2020.55,55,R S Nelson,Entergy Louisiana LLC,Electric Utility,Westlake,Calcasieu,Louisiana,70669,coal,1165.1,Conventional Steam Coal; Natural Gas Steam Turbine; Petroleum Coke
+powerplant_coal_2020.56,56,Herbert A Wagner,H.A. Wagner LLC,IPP Non-CHP,Baltimore,Anne Arundel,Maryland,21226,coal,958.9,Conventional Steam Coal; Natural Gas Steam Turbine; Petroleum Liquids
+powerplant_coal_2020.57,57,Dickerson,GenOn Mid-Atlantic LLC,IPP Non-CHP,Dickerson,Montgomery,Maryland,20842,coal,831,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Petroleum Liquids
+powerplant_coal_2020.58,58,Morgantown Generating Plant,GenOn Mid-Atlantic LLC,IPP Non-CHP,Newburg,Charles,Maryland,20664,coal,1423,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.59,59,J H Campbell,Consumers Energy Co,Electric Utility,West Olive,Ottawa,Michigan,49460,coal,1435,Conventional Steam Coal
+powerplant_coal_2020.60,60,Monroe (MI),DTE Electric Company,Electric Utility,Monroe,Monroe,Michigan,48161,coal,3080,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.61,61,River Rouge,DTE Electric Company,Electric Utility,River Rouge,Wayne,Michigan,48218,coal,283,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.62,62,St Clair,DTE Electric Company,Electric Utility,East China Twp,St Clair,Michigan,48054,coal,1089,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Petroleum Liquids
+powerplant_coal_2020.63,63,Trenton Channel,DTE Electric Company,Electric Utility,Trenton,Wayne,Michigan,48183,coal,495,Conventional Steam Coal
+powerplant_coal_2020.64,64,J B Sims,City of Grand Haven - (MI),Electric Utility,Grand Haven,Ottawa,Michigan,49417,coal,69.1,Conventional Steam Coal
+powerplant_coal_2020.65,65,Eckert Station,Lansing Board of Water and Light,Electric Utility,Lansing,Ingham,Michigan,48910,coal,189.9,Conventional Steam Coal
+powerplant_coal_2020.66,66,Erickson Station,Lansing Board of Water and Light,Electric Utility,Lansing,Eaton,Michigan,48917,coal,154.5,Conventional Steam Coal
+powerplant_coal_2020.67,67,Clay Boswell,"ALLETE, Inc.",Electric Utility,Cohasset,Itasca,Minnesota,55721,coal,948.6,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.68,68,Allen S King,Northern States Power Co - Minnesota,Electric Utility,Oak Park Heights,Washington,Minnesota,55003,coal,511,Conventional Steam Coal
+powerplant_coal_2020.69,69,Hoot Lake,Otter Tail Power Co,Electric Utility,Fergus Falls,Otter Tail,Minnesota,56537,coal,139.1,Conventional Steam Coal; Conventional Hydroelectric; Petroleum Liquids
+powerplant_coal_2020.70,70,Hibbing,Hibbing Public Utilities Comm,Electric Utility,Hibbing,St Louis,Minnesota,55746,coal,30.5,Conventional Steam Coal
+powerplant_coal_2020.71,71,Hawthorn,Evergy Metro,Electric Utility,Kansas City,Jackson,Missouri,64120,coal,951.9,Conventional Steam Coal; Natural Gas Fired Combined Cycle; Natural Gas Fired Combustion Turbine
+powerplant_coal_2020.72,72,Labadie,Union Electric Co - (MO),Electric Utility,Labadie,Franklin,Missouri,63055,coal,2372,Conventional Steam Coal
+powerplant_coal_2020.73,73,Meramec,Union Electric Co - (MO),Electric Utility,St. Louis,St Louis,Missouri,63129,coal,929,Conventional Steam Coal; Natural Gas Steam Turbine; Natural Gas Fired Combustion Turbine; Petroleum Liquids;
+powerplant_coal_2020.74,74,Sioux,Union Electric Co - (MO),Electric Utility,West Alton,St Charles,Missouri,63386,coal,974,Conventional Steam Coal
+powerplant_coal_2020.75,75,New Madrid,"Associated Electric Coop, Inc",Electric Utility,New Madrid,New Madrid,Missouri,63869,coal,1154,Conventional Steam Coal
+powerplant_coal_2020.76,76,Thomas Hill,"Associated Electric Coop, Inc",Electric Utility,Clifton Hill,Randolph,Missouri,65244,coal,1134,Conventional Steam Coal
+powerplant_coal_2020.77,77,Lon Wright,City of Fremont - (NE),Electric Utility,Fremont,Dodge,Nebraska,68025,coal,199.7,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Solar Photovoltaic; Onshore Wind Turbine;
+powerplant_coal_2020.78,78,Sheldon,Nebraska Public Power District,Electric Utility,Hallam,Lancaster,Nebraska,68368,coal,219,Conventional Steam Coal
+powerplant_coal_2020.79,79,North Omaha,Omaha Public Power District,Electric Utility,Omaha,Douglas,Nebraska,68112,coal,577.9,Conventional Steam Coal; Natural Gas Steam Turbine;
+powerplant_coal_2020.80,80,Merrimack,Granite Shore Power,Electric Utility,Bow,Merrimack,New Hampshire,3301,coal,472.1,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.81,81,Schiller,Granite Shore Power,Electric Utility,Portsmouth,Rockingham,New Hampshire,3801,coal,155.5,Wood/Wood Waste Biomass; Conventional Steam Coal; Petroleum Liquids
+powerplant_coal_2020.82,82,Four Corners,Arizona Public Service Co,Electric Utility,Fruitland,San Juan,New Mexico,87416,coal,1540,Conventional Steam Coal
+powerplant_coal_2020.83,83,San Juan,Public Service Co of NM,Electric Utility,Waterflow,San Juan,New Mexico,87421,coal,847,Conventional Steam Coal
+powerplant_coal_2020.84,84,Dunkirk Generating Plant,Dunkirk Power LLC,IPP Non-CHP,Dunkirk,Chautauqua,New York,14048,coal,520,Conventional Steam Coal
+powerplant_coal_2020.85,85,Roxboro,Duke Energy Progress - (NC),Electric Utility,Semora,Person,North Carolina,27573,coal,2439,Conventional Steam Coal
+powerplant_coal_2020.86,86,G G Allen,"Duke Energy Carolinas, LLC",Electric Utility,Belmont,Gaston,North Carolina,28012,coal,1098,Conventional Steam Coal
+powerplant_coal_2020.87,87,James E. Rogers Energy Complex,"Duke Energy Carolinas, LLC",Electric Utility,Cliffside,Cleveland,North Carolina,28024,coal,1388,Conventional Steam Coal
+powerplant_coal_2020.88,88,Marshall (NC),"Duke Energy Carolinas, LLC",Electric Utility,Terrell,Catawba,North Carolina,28682,coal,2058,Conventional Steam Coal
+powerplant_coal_2020.89,89,R M Heskett,Montana-Dakota Utilities Co,Electric Utility,Mandan,Morton,North Dakota,58554,coal,192.3,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.90,90,Leland Olds,Basin Electric Power Coop,Electric Utility,Stanton,Mercer,North Dakota,58571,coal,666,Conventional Steam Coal
+powerplant_coal_2020.91,91,Milton R Young,"Minnkota Power Coop, Inc",Electric Utility,Center,Oliver,North Dakota,58530,coal,684,Conventional Steam Coal
+powerplant_coal_2020.92,92,Cardinal,Cardinal Operating Company,IPP Non-CHP,Brillant,Jefferson,Ohio,43913,coal,1790,Conventional Steam Coal
+powerplant_coal_2020.93,93,Miami Fort,Vistra Energy Miami Fort,IPP Non-CHP,North Bend,Hamilton,Ohio,45052,coal,1076,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.94,94,Avon Lake,"GenOn Power Midwest, LP",IPP Non-CHP,Avon Lake,Lorain,Ohio,44012,coal,640,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.95,95,Conesville,AEP Generation Resources Inc,IPP Non-CHP,Conesville,Coshocton,Ohio,43811,coal,780,Conventional Steam Coal
+powerplant_coal_2020.96,96,FirstEnergy W H Sammis,FirstEnergy Generation Corp,IPP Non-CHP,Stratton,Jefferson,Ohio,43961,coal,2223,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.97,97,Kyger Creek,Ohio Valley Electric Corp,Electric Utility,Cheshire,Gallia,Ohio,45620,coal,962.8,Conventional Steam Coal
+powerplant_coal_2020.98,98,Dover,City of Dover - (OH),Electric Utility,Dover,Tuscarawas,Ohio,44622,coal,40.9,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Petroleum Liquids
+powerplant_coal_2020.99,99,Orrville,City of Orrville - (OH),Electric Utility,Orrville,Wayne,Ohio,44667,coal,78.5,Conventional Steam Coal; Natural Gas Steam Turbine;
+powerplant_coal_2020.100,100,Painesville,City of Painesville,Electric Utility,Painesville,Lake,Ohio,44077,coal,48.8,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.101,101,Conemaugh,KeyCon Operating LLC,IPP Non-CHP,New Florence,Indiana,Pennsylvania,15944,coal,1711.2,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.102,102,Homer City Generating Station,NRG Homer City Services LLC,IPP Non-CHP,Homer City,Indiana,Pennsylvania,15748,coal,1895,Conventional Steam Coal
+powerplant_coal_2020.103,103,Seward (PA),Seward Generating LLC,IPP Non-CHP,New Florence,Indiana,Pennsylvania,15944,coal,521,Conventional Steam Coal
+powerplant_coal_2020.104,104,Keystone,KeyCon Operating LLC,IPP Non-CHP,Shelocta,Armstrong,Pennsylvania,15774,coal,1711.2,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.105,105,Brunner Island,Brunner Island LLC,IPP Non-CHP,York Haven,York,Pennsylvania,17370,coal,1411,Conventional Steam Coal; Natural Gas Steam Turbine;
+powerplant_coal_2020.106,106,TalenEnergy Montour,TalenEnergy Montour LLC,IPP Non-CHP,Washingtonville,Montour,Pennsylvania,17884,coal,1504,Conventional Steam Coal
+powerplant_coal_2020.107,107,Wateree,"Dominion Energy South Carolina, Inc",Electric Utility,Eastover,Richland,South Carolina,29044,coal,684,Conventional Steam Coal
+powerplant_coal_2020.108,108,Williams,"South Carolina Genertg Co, Inc",Electric Utility,Goose Creek,Berkeley,South Carolina,29445,coal,645,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.109,109,Bull Run,Tennessee Valley Authority,Electric Utility,Clinton,Anderson,Tennessee,37716,coal,870,Conventional Steam Coal
+powerplant_coal_2020.110,110,Cumberland (TN),Tennessee Valley Authority,Electric Utility,Cumberland City,Stewart,Tennessee,37050,coal,2470,Conventional Steam Coal
+powerplant_coal_2020.111,111,Gallatin (TN),Tennessee Valley Authority,Electric Utility,Gallatin,Sumner,Tennessee,37066,coal,1555.6,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.112,112,Kingston,Tennessee Valley Authority,Electric Utility,Kingston,Roane,Tennessee,37763,coal,1398,Conventional Steam Coal
+powerplant_coal_2020.113,113,W A Parish,NRG Texas Power LLC,IPP Non-CHP,Thompsons,Fort Bend,Texas,77481,coal,3690,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Natural Gas Steam Turbine
+powerplant_coal_2020.114,114,Chesterfield,Virginia Electric & Power Co,Electric Utility,Chester,Chesterfield,Virginia,23831,coal,1403,Conventional Steam Coal; Natural Gas Fired Combined Cycle;
+powerplant_coal_2020.115,115,Transalta Centralia Generation,TransAlta Centralia Gen LLC,IPP Non-CHP,Centralia,Lewis,Washington,98531,coal,1340,Conventional Steam Coal
+powerplant_coal_2020.116,116,John E Amos,Appalachian Power Co,Electric Utility,St Albans,Putnam,West Virginia,25213,coal,2900,Conventional Steam Coal
+powerplant_coal_2020.117,117,FirstEnergy Fort Martin Power Station,Monongahela Power Co,Electric Utility,Maidsville,Monongalia,West Virginia,26541,coal,1098,Conventional Steam Coal
+powerplant_coal_2020.118,118,FirstEnergy Harrison Power Station,Monongahela Power Co,Electric Utility,Haywood,Harrison,West Virginia,26366,coal,1954,Conventional Steam Coal
+powerplant_coal_2020.119,119,Mitchell (WV),Kentucky Power Co,Electric Utility,Captina,Marshall,West Virginia,26041,coal,1560,Conventional Steam Coal
+powerplant_coal_2020.120,120,Mt Storm,Virginia Electric & Power Co,Electric Utility,Mount Storm,Grant,West Virginia,26739,coal,1640,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.121,121,South Oak Creek,Wisconsin Electric Power Co,Electric Utility,Oak Creek,Milwaukee,Wisconsin,53154,coal,1096.7,Conventional Steam Coal
+powerplant_coal_2020.122,122,Edgewater,Wisconsin Power & Light Co,Electric Utility,Sheboygan,Sheboygan,Wisconsin,53081,coal,413.6,Conventional Steam Coal
+powerplant_coal_2020.123,123,Weston,Wisconsin Public Service Corp,Electric Utility,Rothschild,Marathon,Wisconsin,54474,coal,989.4,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Natural Gas Steam Turbine
+powerplant_coal_2020.124,124,Genoa,Dairyland Power Coop,Electric Utility,Genoa,Vernon,Wisconsin,54632,coal,307.5,Conventional Steam Coal
+powerplant_coal_2020.125,125,Dave Johnston,PacifiCorp,Electric Utility,Glen Rock,Converse,Wyoming,82637,coal,760,Conventional Steam Coal
+powerplant_coal_2020.126,126,Naughton,PacifiCorp,Electric Utility,Kemmerer,Lincoln,Wyoming,83101,coal,687,Conventional Steam Coal
+powerplant_coal_2020.127,127,John P Madgett,Dairyland Power Coop,Electric Utility,Alma,Buffalo,Wisconsin,54610,coal,389.8,Conventional Steam Coal
+powerplant_coal_2020.128,128,James H Miller Jr,Alabama Power Co,Electric Utility,Quinton,Jefferson,Alabama,35073,coal,2779.8,Conventional Steam Coal
+powerplant_coal_2020.129,129,FirstEnergy Pleasants Power Station,Allegheny Energy Supply Co LLC,IPP Non-CHP,Willow Island,Pleasants,West Virginia,26134,coal,1288,Conventional Steam Coal
+powerplant_coal_2020.130,130,White Bluff,Entergy Arkansas LLC,Electric Utility,Redfield,Jefferson,Arkansas,72132,coal,1637.6,Conventional Steam Coal
+powerplant_coal_2020.131,131,Newton,Illinois Power Generating Co,IPP Non-CHP,Newton,Jasper,Illinois,62448,coal,595,Conventional Steam Coal
+powerplant_coal_2020.132,132,East Bend,Duke Energy Kentucky Inc,Electric Utility,Union,Boone,Kentucky,41091,coal,600,Conventional Steam Coal
+powerplant_coal_2020.133,133,W H Zimmer,Dynegy W H Zimmer,IPP Non-CHP,Moscow,Clermont,Ohio,45200,coal,1305,Conventional Steam Coal
+powerplant_coal_2020.134,134,Craig (CO),"Tri-State G & T Assn, Inc",Electric Utility,Craig,Moffat,Colorado,81626,coal,1285,Conventional Steam Coal
+powerplant_coal_2020.135,135,Coal Creek,Great River Energy,Electric Utility,Underwood,McLean,North Dakota,58576,coal,1152.2,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.136,136,Belle River,DTE Electric Company,Electric Utility,China Twp,St Clair,Michigan,48054,coal,1508,Conventional Steam Coal; Natural Gas Fired Combustion Turbine; Petroleum Liquids
+powerplant_coal_2020.137,137,H L Spurlock,"East Kentucky Power Coop, Inc",Electric Utility,Maysville,Mason,Kentucky,41056,coal,1346,Conventional Steam Coal
+powerplant_coal_2020.138,138,Wansley,Georgia Power Co,Electric Utility,Roopville,Heard,Georgia,30170,coal,1793,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.139,139,Big Cajun 2,Louisiana Generating LLC,IPP Non-CHP,New Roads,Pointe Coupee,Louisiana,70760,coal,1723,Conventional Steam Coal; Natural Gas Steam Turbine;
+powerplant_coal_2020.140,140,Nearman Creek,City of Kansas City - (KS),Electric Utility,Kansas,Wyandotte,Kansas,66104,coal,316,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.141,141,Iatan,Evergy Metro,Electric Utility,Weston,Platte,Missouri,64098,coal,1597.5,Conventional Steam Coal
+powerplant_coal_2020.142,142,Jeffrey Energy Center,"Evergy Kansas Central, Inc",Electric Utility,St. Mary's,Pottawatomie,Kansas,66536,coal,2185.7,Conventional Steam Coal
+powerplant_coal_2020.143,143,Trimble County,Louisville Gas & Electric Co,Electric Utility,Bedford,Trimble,Kentucky,40006,coal,2197,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.144,144,Colstrip,Talen Montana LLC,IPP Non-CHP,Colstrip,Rosebud,Montana,59323,coal,1480,Conventional Steam Coal
+powerplant_coal_2020.145,145,Gerald Gentleman,Nebraska Public Power District,Electric Utility,Sutherland,Lincoln,Nebraska,69165,coal,1365,Conventional Steam Coal
+powerplant_coal_2020.146,146,R M Schahfer,Northern Indiana Pub Serv Co,Electric Utility,Wheatfield,Jasper,Indiana,46392,coal,1780,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.147,147,Lewis & Clark,Montana-Dakota Utilities Co,Electric Utility,Richland,Richland,Montana,59270,coal,71.3,Conventional Steam Coal; Natural Gas Internal Combustion Engine;
+powerplant_coal_2020.148,148,Sherburne County,Northern States Power Co - Minnesota,Electric Utility,Becker,Sherburne,Minnesota,55308,coal,2238,Conventional Steam Coal
+powerplant_coal_2020.149,149,Sooner,Oklahoma Gas & Electric Co,Electric Utility,Red Rock,Noble,Oklahoma,73061,coal,1040,Conventional Steam Coal
+powerplant_coal_2020.150,150,Nebraska City,Omaha Public Power District,Electric Utility,Nebraska City,Otoe,Nebraska,68410,coal,1345.3,Conventional Steam Coal
+powerplant_coal_2020.151,151,Big Stone,Otter Tail Power Co,Electric Utility,Big Stone City,Grant,South Dakota,57216,coal,474.6,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.152,152,Wyodak,PacifiCorp,Electric Utility,Gillette,Campbell,Wyoming,82716,coal,332,Conventional Steam Coal
+powerplant_coal_2020.153,153,Boardman,Portland General Electric Co,Electric Utility,Boardman,Morrow,Oregon,97818,coal,585,Conventional Steam Coal
+powerplant_coal_2020.154,154,Gibson,"Duke Energy Indiana, LLC",Electric Utility,Owensville,Gibson,Indiana,47665,coal,3132,Conventional Steam Coal
+powerplant_coal_2020.155,155,A B Brown,Southern Indiana Gas & Elec Co,Electric Utility,Mount Vernon,Posey,Indiana,47620,coal,650,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.156,156,Flint Creek,Southwestern Electric Power Co,Electric Utility,Gentry,Benton,Arkansas,72734,coal,528,Conventional Steam Coal
+powerplant_coal_2020.157,157,Welsh,Southwestern Electric Power Co,Electric Utility,Pittsburg,Titus,Texas,75686,coal,1056,Conventional Steam Coal
+powerplant_coal_2020.158,158,Martin Lake,Luminant Generation Company LLC,IPP Non-CHP,Tatum,Rusk,Texas,75691,coal,2410,Conventional Steam Coal
+powerplant_coal_2020.159,159,Rush Island,Union Electric Co - (MO),Electric Utility,Festus,Jefferson,Missouri,63028,coal,1178,Conventional Steam Coal
+powerplant_coal_2020.160,160,Hunter,PacifiCorp,Electric Utility,Castle Dale,Emery,Utah,84513,coal,1361,Conventional Steam Coal
+powerplant_coal_2020.161,161,Rockport,Indiana Michigan Power Co,Electric Utility,Rockport,Spencer,Indiana,47635,coal,2600,Conventional Steam Coal
+powerplant_coal_2020.162,162,Coronado,Salt River Project,Electric Utility,St Johns,Apache,Arizona,85936,coal,762,Conventional Steam Coal
+powerplant_coal_2020.163,163,Coleto Creek,Coleto Creek Power LP,IPP Non-CHP,Fannin,Goliad,Texas,77960,coal,655,Conventional Steam Coal
+powerplant_coal_2020.164,164,Fayette Power Project,Lower Colorado River Authority,Electric Utility,La Grange,Fayette,Texas,78945,coal,1615,Conventional Steam Coal
+powerplant_coal_2020.165,165,Oak Grove (TX),Luminant Generation Company LLC,IPP Non-CHP,Franklin,Robertson,Texas,77856,coal,1710,Conventional Steam Coal
+powerplant_coal_2020.166,166,J T Deely,City of San Antonio - (TX),Electric Utility,San Antonio,Bexar,Texas,78263,coal,840,Conventional Steam Coal
+powerplant_coal_2020.167,167,San Miguel,"San Miguel Electric Coop, Inc",Electric Utility,Christine,Atascosa,Texas,78012,coal,391,Conventional Steam Coal
+powerplant_coal_2020.168,168,Harrington,Southwestern Public Service Co,Electric Utility,Amarillo,Potter,Texas,79108,coal,1018,Conventional Steam Coal
+powerplant_coal_2020.169,169,Tolk,Southwestern Public Service Co,Electric Utility,Muleshoe,Lamb,Texas,79371,coal,1067,Conventional Steam Coal
+powerplant_coal_2020.170,170,John Twitty Energy Center,City Utilities of Springfield - (MO),Electric Utility,Springfield,Greene,Missouri,65807,coal,563,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.171,171,Laramie River Station,Basin Electric Power Coop,Electric Utility,Wheatland,Platte,Wyoming,82201,coal,1700,Conventional Steam Coal
+powerplant_coal_2020.172,172,Merom,"Hoosier Energy R E C, Inc",Electric Utility,Sullivan,Sullivan,Indiana,47882,coal,991,Conventional Steam Coal
+powerplant_coal_2020.173,173,Pawnee,Public Service Co of Colorado,Electric Utility,Brush,Morgan,Colorado,80723,coal,505,Conventional Steam Coal
+powerplant_coal_2020.174,174,Winyah,South Carolina Public Service Authority,Electric Utility,Georgetown,Georgetown,South Carolina,29440,coal,1130,Conventional Steam Coal
+powerplant_coal_2020.175,175,Mayo,Duke Energy Progress - (NC),Electric Utility,Roxboro,Person,North Carolina,27573,coal,727,Conventional Steam Coal
+powerplant_coal_2020.176,176,Ottumwa,Interstate Power and Light Co,Electric Utility,Ottumwa,Wapello,Iowa,52501,coal,725.4,Conventional Steam Coal
+powerplant_coal_2020.177,177,Scherer,Georgia Power Co,Electric Utility,Juliette,Monroe,Georgia,31046,coal,3440,Conventional Steam Coal
+powerplant_coal_2020.178,178,Mountaineer,Appalachian Power Co,Electric Utility,New Haven,Mason,West Virginia,25265,coal,1299,Conventional Steam Coal
+powerplant_coal_2020.179,179,Healy,Golden Valley Elec Assn Inc,Electric Utility,Healy,Denali,Alaska,99743,coal,77.8,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.180,180,Antelope Valley,Basin Electric Power Coop,Electric Utility,Beulah,Mercer,North Dakota,58523,coal,900,Conventional Steam Coal
+powerplant_coal_2020.181,181,Intermountain Power Project,Los Angeles Department of Water & Power,Electric Utility,Delta,Millard,Utah,84624,coal,1800,Conventional Steam Coal
+powerplant_coal_2020.182,182,R D Green,Big Rivers Electric Corp,Electric Utility,Robards,Webster,Kentucky,42452,coal,454,Conventional Steam Coal
+powerplant_coal_2020.183,183,Independence Steam Electric Station,Entergy Arkansas LLC,Electric Utility,Newark,Independence,Arkansas,72562,coal,1667.8,Conventional Steam Coal
+powerplant_coal_2020.184,184,Louisa,MidAmerican Energy Co,Electric Utility,Muscatine,Louisa,Iowa,52761,coal,748.8,Conventional Steam Coal
+powerplant_coal_2020.185,185,Warrick,AGC Division of APG Inc,IPP CHP,Newburgh,Warrick,Indiana,47630,coal,708.9,Conventional Steam Coal
+powerplant_coal_2020.186,186,Sikeston Power Station,City of Sikeston - (MO),Electric Utility,Sikeston,Scott,Missouri,63801,coal,240,Conventional Steam Coal
+powerplant_coal_2020.187,187,Hugo,"Western Farmers Elec Coop, Inc",Electric Utility,Fort Towson,Choctaw,Oklahoma,74735,coal,440,Conventional Steam Coal
+powerplant_coal_2020.188,188,D B Wilson,Big Rivers Electric Corp,Electric Utility,Centertown,Ohio,Kentucky,42328,coal,417,Conventional Steam Coal
+powerplant_coal_2020.189,189,Major Oak Power,"Major Oak Power, LLC",IPP Non-CHP,Bremond,Robertson,Texas,76629,coal,305,Conventional Steam Coal
+powerplant_coal_2020.190,190,J K Spruce,City of San Antonio - (TX),Electric Utility,San Antonio,Bexar,Texas,78263,coal,1345,Conventional Steam Coal
+powerplant_coal_2020.191,191,Clover,Virginia Electric & Power Co,Electric Utility,Clover,Halifax,Virginia,24534,coal,877,Conventional Steam Coal
+powerplant_coal_2020.192,192,George Neal South,MidAmerican Energy Co,Electric Utility,Salix,Woodbury,Iowa,51052,coal,643.6,Conventional Steam Coal
+powerplant_coal_2020.193,193,Neil Simpson II,"Black Hills Power, Inc. d/b/a",Electric Utility,Gillette,Campbell,Wyoming,82718,coal,114,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.194,194,Bonanza,Deseret Generation & Tran Coop,Electric Utility,Vernal,Uintah,Utah,84078,coal,458,Conventional Steam Coal
+powerplant_coal_2020.195,195,Pirkey,Southwestern Electric Power Co,Electric Utility,Hallsville,Harrison,Texas,75650,coal,675,Conventional Steam Coal
+powerplant_coal_2020.196,196,Columbia (WI),Wisconsin Power & Light Co,Electric Utility,Pardeville,Columbia,Wisconsin,53954,coal,1137.4,Conventional Steam Coal
+powerplant_coal_2020.197,197,Belews Creek,"Duke Energy Carolinas, LLC",Electric Utility,Belews Creek,Stokes,North Carolina,27052,coal,2220,Conventional Steam Coal
+powerplant_coal_2020.198,198,Jim Bridger,PacifiCorp,Electric Utility,Point of Rocks,Sweetwater,Wyoming,82942,coal,2111,Conventional Steam Coal
+powerplant_coal_2020.199,199,Huntington,PacifiCorp,Electric Utility,Huntington,Emery,Utah,84528,coal,909,Conventional Steam Coal
+powerplant_coal_2020.200,200,"Gavin Power, LLC","Gavin Power, LLC",IPP Non-CHP,Cheshire,Gallia,Ohio,45620,coal,2680,Conventional Steam Coal
+powerplant_coal_2020.201,201,Ray D Nixon,City of Colorado Springs - (CO),Electric Utility,Fountain,El Paso,Colorado,80817,coal,268,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.202,202,Coyote,Otter Tail Power Co,Electric Utility,Beulah,Mercer,North Dakota,58523,coal,429,Conventional Steam Coal
+powerplant_coal_2020.203,203,Springerville,Tucson Electric Power Co,Electric Utility,Springerville,Apache,Arizona,85938,coal,1638.4,Conventional Steam Coal; Solar Photovoltaic;
+powerplant_coal_2020.204,204,North Valmy,Sierra Pacific Power Co,Electric Utility,Valmy,Humboldt,Nevada,89438,coal,522,Conventional Steam Coal
+powerplant_coal_2020.205,205,Cheswick Power Plant,"GenOn Power Midwest, LP",IPP Non-CHP,Cheswick,Allegheny,Pennsylvania,15024,coal,565,Conventional Steam Coal
+powerplant_coal_2020.206,206,"RED-Rochester, LLC","RED-Rochester, LLC",Industrial CHP,Rochester,Monroe,New York,14652,coal,132.5,Conventional Steam Coal; Conventional Hydroelectric;
+powerplant_coal_2020.207,207,Logan Generating Plant,Logan Generating Company LP,IPP CHP,Swedesboro,Gloucester,New Jersey,8085,coal,219,Conventional Steam Coal
+powerplant_coal_2020.208,208,Taconite Harbor Energy Center,"ALLETE, Inc.",Electric Utility,Schroeder,Cook,Minnesota,55613,coal,154.9,Conventional Steam Coal
+powerplant_coal_2020.209,209,John B Rich Memorial Power Station,Gilberton Power Co,IPP CHP,Frackville,Schuylkill,Pennsylvania,17931,coal,80,Conventional Steam Coal
+powerplant_coal_2020.210,210,Colver Power Project,"Inter-Power/AhlCon Partners, L.P.",IPP Non-CHP,Colver,Cambria,Pennsylvania,15927,coal,110,Conventional Steam Coal
+powerplant_coal_2020.211,211,Grant Town Power Plant,American Bituminous Power LP,IPP Non-CHP,Grant Town,Marion,West Virginia,26574,coal,80,Conventional Steam Coal
+powerplant_coal_2020.212,212,Biron Mill,"ND Paper, Inc.",Industrial CHP,Wisconsin Rapids,Wood,Wisconsin,54494,coal,55.3,Conventional Steam Coal; Natural Gas Steam Turbine;
+powerplant_coal_2020.213,213,Foster Wheeler Mt Carmel Cogen,Mount Carmel Cogen Inc,IPP CHP,Marion Heights,Northumberland,Pennsylvania,17832,coal,43,Conventional Steam Coal
+powerplant_coal_2020.214,214,Amalgamated Sugar Twin Falls,The Amalgamated Sugar Co,Industrial CHP,Twin Falls,Twin Falls,Idaho,83301,coal,8.5,Conventional Steam Coal
+powerplant_coal_2020.215,215,Chambers Cogeneration LP,US Operating Services Company,IPP CHP,Carneys Point,Salem,New Jersey,8069,coal,244,Conventional Steam Coal
+powerplant_coal_2020.216,216,Ebensburg Power,Ebensburg Power Co,IPP CHP,Ebensburg,Cambria,Pennsylvania,15931,coal,50,Conventional Steam Coal
+powerplant_coal_2020.217,217,River Valley,Oklahoma Gas & Electric Co,IPP CHP,Panama,Le Flore,Oklahoma,74951,coal,320,Conventional Steam Coal
+powerplant_coal_2020.218,218,AES Hawaii,AES Hawaii LLC,IPP CHP,Kapolei,Honolulu,Hawaii,96707,coal,180,Conventional Steam Coal
+powerplant_coal_2020.219,219,AES Warrior Run Cogeneration Facility,AES WR Ltd Partnership,IPP CHP,Cumberland,Allegany,Maryland,21502,coal,180,Conventional Steam Coal
+powerplant_coal_2020.220,220,Argus Cogen Plant,Searles Valley Minerals Operations Inc.,Industrial CHP,Trona,San Bernardino,California,93562,coal,57,Conventional Steam Coal
+powerplant_coal_2020.221,221,Colstrip Energy LP,Colstrip Energy LP,IPP Non-CHP,Colstrip,Rosebud,Montana,59323,coal,38,Conventional Steam Coal
+powerplant_coal_2020.222,222,Silver Bay Power,Cleveland Cliffs Inc,Industrial CHP,Silver Bay,Lake,Minnesota,55614,coal,105,Conventional Steam Coal
+powerplant_coal_2020.223,223,Archer Daniels Midland Clinton,Archer Daniels Midland Co,Industrial CHP,Clinton,Clinton,Iowa,52732,coal,180,Conventional Steam Coal
+powerplant_coal_2020.224,224,Archer Daniels Midland Des Moines,Archer Daniels Midland Co,Industrial CHP,Des Moines,Polk,Iowa,50316,coal,7.9,Conventional Steam Coal
+powerplant_coal_2020.225,225,Archer Daniels Midland Lincoln,Archer Daniels Midland Co,Industrial CHP,Lincoln,Lancaster,Nebraska,68507,coal,7.9,Conventional Steam Coal
+powerplant_coal_2020.226,226,Archer Daniels Midland Mankato,Archer Daniels Midland Co,Industrial CHP,Mankato,Blue Earth,Minnesota,56001,coal,6.2,Conventional Steam Coal
+powerplant_coal_2020.227,227,Archer Daniels Midland Cedar Rapids,Archer Daniels Midland Co,Industrial CHP,Cedar Rapids,Linn,Iowa,52406,coal,295,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.228,228,Archer Daniels Midland Decatur,Archer Daniels Midland Co,Industrial CHP,Decatur,Macon,Illinois,62526,coal,335,Conventional Steam Coal
+powerplant_coal_2020.229,229,Tate & Lyle Decatur Plant Cogen,Tate & Lyle Ingredients Americas Inc,Industrial CHP,Decatur,Macon,Illinois,62525,coal,62,Conventional Steam Coal
+powerplant_coal_2020.230,230,Canton North Carolina,Blue Ridge Paper Products Inc,Industrial CHP,Canton,Haywood,North Carolina,28716,coal,52.5,Conventional Steam Coal
+powerplant_coal_2020.231,231,Utility Plants Section,Doyon Utilities - Ft. Wainwright,Electric Utility,Fort Wainwright,Fairbanks North Star,Alaska,99703,coal,22.1,Conventional Steam Coal
+powerplant_coal_2020.232,232,University of Notre Dame,University of Notre Dame,Commercial CHP,Notre Dame,St Joseph,Indiana,46556,coal,39.4,Conventional Steam Coal; Natural Gas Steam Turbine; Natural Gas Fired Combustion Turbine; Petroleum Liquids;
+powerplant_coal_2020.233,233,Eielson AFB Central Heat & Power Plant,U S Air Force-Eielson AFB,Commercial CHP,Eielson AFB,Fairbanks North Star,Alaska,99702,coal,27.4,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.234,234,Pixelle Specialty Solutions LLC - Spring Grove Facility,Pixelle Specialty Solutions LLC - (PA),Industrial CHP,Spring Grove,York,Pennsylvania,17362,coal,85,Wood/Wood Waste Biomass; Conventional Steam Coal; Natural Gas Steam Turbine
+powerplant_coal_2020.235,235,Tennessee Eastman Operations,Eastman Chemical Co-TN Ops,Industrial CHP,Kingsport,Sullivan,Tennessee,37662,coal,194.3,Conventional Steam Coal; Natural Gas Steam Turbine;
+powerplant_coal_2020.236,236,Westwood Generation LLC,"Rausch Creek Generation, LLC",IPP Non-CHP,Tremont,Schuylkill,Pennsylvania,17981,coal,30,Conventional Steam Coal
+powerplant_coal_2020.237,237,University of Alaska Fairbanks,University of Alaska,Commercial CHP,Fairbanks,Fairbanks North Star,Alaska,99775,coal,35.7,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.238,238,Panther Creek Energy Facility,"Panther Creek Power Operating, LLC",IPP Non-CHP,Nesquehoning,Carbon,Pennsylvania,18240,coal,83,Conventional Steam Coal
+powerplant_coal_2020.239,239,TES Filer City Station,TES Filer City Station LP,IPP CHP,Filer City,Manistee,Michigan,49634,coal,60,Conventional Steam Coal
+powerplant_coal_2020.240,240,Northampton Generating Company LP,"EIF Northampton GP, LLC",IPP CHP,Northampton,Northampton,Pennsylvania,18067,coal,112,Conventional Steam Coal
+powerplant_coal_2020.241,241,Sunnyside Cogen Associates,Sunnyside Cogeneration Assoc,IPP Non-CHP,Sunnyside,Carbon,Utah,84539,coal,51,Conventional Steam Coal
+powerplant_coal_2020.242,242,Scrubgrass Generating Plant,Scrubgrass Generating Company LP,IPP Non-CHP,Kennerdell,Venango,Pennsylvania,16374,coal,84.6,Conventional Steam Coal
+powerplant_coal_2020.243,243,Indiantown Cogeneration LP,Florida Power & Light Co,Electric Utility,Indiantown,Martin,Florida,34956,coal,330,Conventional Steam Coal
+powerplant_coal_2020.244,244,Iowa State University,Iowa State University,Commercial CHP,Ames,Story,Iowa,50011,coal,46.2,Conventional Steam Coal
+powerplant_coal_2020.245,245,American Crystal Sugar Hillsboro,American Crystal Sugar Co,Industrial CHP,Hillsboro,Traill,North Dakota,58045,coal,13.3,Conventional Steam Coal
+powerplant_coal_2020.246,246,American Crystal Sugar Moorhead,American Crystal Sugar Co,Industrial CHP,Moorhead,Clay,Minnesota,56560,coal,5,Conventional Steam Coal
+powerplant_coal_2020.247,247,American Crystal Sugar Crookston,American Crystal Sugar Co,Industrial CHP,Crookston,Polk,Minnesota,56716,coal,6.5,Conventional Steam Coal
+powerplant_coal_2020.248,248,American Crystal Sugar Drayton,American Crystal Sugar Co,Industrial CHP,Drayton,Pembina,North Dakota,58225,coal,6,Conventional Steam Coal
+powerplant_coal_2020.249,249,American Crystal Sugar East Grand Forks,American Crystal Sugar Co,Industrial CHP,East Grand Forks,Polk,Minnesota,56721,coal,7.5,Conventional Steam Coal
+powerplant_coal_2020.250,250,Univ of NC Chapel Hill Cogen Facility,University of North Carolina,Commercial CHP,Chapel Hill,Orange,North Carolina,27599,coal,32.3,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.251,251,Birchwood Power,Birchwood Power Partners LP,IPP Non-CHP,King George,King George,Virginia,22485,coal,237.9,Conventional Steam Coal
+powerplant_coal_2020.252,252,General Chemical,Tata Chemicals Partners,Industrial CHP,Green River,Sweetwater,Wyoming,82935,coal,30,Conventional Steam Coal
+powerplant_coal_2020.253,253,Southern Minnesota Beet Sugar,Southern Minnesota Beet Sugar,Industrial CHP,Renville,Renville,Minnesota,56284,coal,7.5,Conventional Steam Coal
+powerplant_coal_2020.254,254,Ingredion Incorporated,Ingredion Inc - Illinois,Industrial CHP,Bedford Park,Cook,Illinois,60501,coal,51,Conventional Steam Coal; Natural Gas Fired Combustion Turbine;
+powerplant_coal_2020.255,255,St Nicholas Cogen Project,Schuylkill Energy Resource Inc,IPP CHP,Shenandoah,Schuylkill,Pennsylvania,17976,coal,86,Conventional Steam Coal
+powerplant_coal_2020.256,256,University of Iowa Main Power Plant,University of Iowa,Commercial CHP,Iowa City,Johnson,Iowa,52242,coal,30.7,Conventional Steam Coal; Natural Gas Internal Combustion Engine; Petroleum Liquids
+powerplant_coal_2020.257,257,Neenah Paper Munising Mill,Neenah Paper Michigan Inc.,Industrial CHP,Munising,Alger,Michigan,49862,coal,5.8,Conventional Steam Coal
+powerplant_coal_2020.258,258,Red Hills Generating Facility,"Choctaw Generation L.P, L.L.L.P.",IPP Non-CHP,Ackerman,Choctaw,Mississippi,39735,coal,440,Conventional Steam Coal
+powerplant_coal_2020.259,259,Wygen 1,,IPP Non-CHP,Gillette,Campbell,Wyoming,82718,coal,85,Conventional Steam Coal
+powerplant_coal_2020.260,260,Hardin Generator Project,Heorot Power Management,IPP Non-CHP,Hardin,Big Horn,Montana,59034,coal,107,Conventional Steam Coal
+powerplant_coal_2020.261,261,Prairie State Generating Station,Prairie State Generating Co LLC,IPP Non-CHP,Marissa,St Clair,Illinois,62257,coal,1630,Conventional Steam Coal
+powerplant_coal_2020.262,262,Elm Road Generating Station,Wisconsin Electric Power Co,Electric Utility,Oak Creek,Milwaukee,Wisconsin,53154,coal,1263.3,Conventional Steam Coal
+powerplant_coal_2020.263,263,TS Power Plant,"Nevada Gold Energy, LLC",IPP Non-CHP,Battle Mountain,Eureka,Nevada,89820,coal,218.4,Conventional Steam Coal
+powerplant_coal_2020.264,264,Wygen 2,"Black Hills Power, Inc. d/b/a",Electric Utility,Gillette,Campbell,Wyoming,82718,coal,90,Conventional Steam Coal
+powerplant_coal_2020.265,265,Plum Point Energy Station,NRG Energy Services - Plum Point,IPP Non-CHP,Osceola,Mississippi,Arkansas,72370,coal,680,Conventional Steam Coal
+powerplant_coal_2020.266,266,John W Turk Jr Power Plant,Southwestern Electric Power Co,Electric Utility,Fulton,Hempstead,Arkansas,71838,coal,650,Conventional Steam Coal
+powerplant_coal_2020.267,267,Wygen III,"Black Hills Power, Inc. d/b/a",Electric Utility,Gillette,Campbell,Wyoming,82718,coal,100,Conventional Steam Coal
+powerplant_coal_2020.268,268,Dry Fork Station,Basin Electric Power Coop,Electric Utility,Gillette,Campbell,Wyoming,82732,coal,390,Conventional Steam Coal
+powerplant_coal_2020.269,269,Sandy Creek Energy Station,Sandy Creek Energy Associates LP,IPP Non-CHP,Riesel,McLennan,Texas,76682,coal,932.6,Conventional Steam Coal
+powerplant_coal_2020.270,270,Longview Power Plant,"Longview Power, LLC",IPP Non-CHP,Maidsville,Monongalia,West Virginia,26541,coal,710,Conventional Steam Coal
+powerplant_coal_2020.271,271,Spiritwood Station,Great River Energy,Electric Utility,Spiritwood,Stutsman,North Dakota,58481,coal,60.2,Conventional Steam Coal
+powerplant_coal_2020.272,272,Virginia City Hybrid Energy Center,Virginia Electric & Power Co,Electric Utility,St. Paul,Wise,Virginia,24283,coal,610,Conventional Steam Coal
+powerplant_coal_2020.273,273,Archer Daniels Midland Columbus,Archer Daniels Midland Co,Industrial CHP,Columbus,Platte,Nebraska,68601,coal,61,Conventional Steam Coal
+powerplant_coal_2020.274,274,Sidney MT Plant,Sidney Sugars Incorporated,Industrial CHP,Sidney,Richland,Montana,59270,coal,4,Conventional Steam Coal
+powerplant_coal_2020.275,275,Genesis Alkali,"Genesis Alkali, LLC",Industrial CHP,Green River,Sweetwater,Wyoming,82935,coal,41,Conventional Steam Coal
+powerplant_coal_2020.276,276,SIUC,Southern Illinois University Carbondale,Commercial CHP,Carbondale,Jackson,Illinois,62901,coal,4.4,Conventional Steam Coal; Petroleum Liquids;
+powerplant_coal_2020.277,277,Western Sugar Coop - Scottsbluff,Western Sugar Cooperative,Industrial Non-CHP,Scottsbluff,Scotts Bluff,Nebraska,69361,coal,5,Conventional Steam Coal
+powerplant_coal_2020.278,278,Wausau Paper Middletown,Wausau Paper Middletown,Industrial CHP,Middletown,Butler,Ohio,45042,coal,7.5,Conventional Steam Coal
+powerplant_coal_2020.279,279,MSC Sebewaing,Michigan Sugar Company,Industrial CHP,Sebewaing,Huron,Michigan,48759,coal,0,Conventional Steam Coal
+powerplant_coal_2020.280,280,Western Sugar Coop- Ft Morgan,Western Sugar Cooperative,Industrial CHP,Fort Morgan,Morgan,Colorado,80701,coal,3,Conventional Steam Coal
+powerplant_coal_2020.281,281,AES Puerto Rico,AES Puerto Rico LP,IPP Non-CHP,Guayama,Guayama,Puerto Rico,785,coal,454.4,Conventional Steam Coal
+powerplant_coal_2020.282,282,Western Sugar Cooperative - Billings,Western Sugar Cooperative  - Billings,Industrial CHP,Billings,Yellowstone,Montana,59101,coal,1.5,Conventional Steam Coal

@@ -1,0 +1,66 @@
+FID,ogc_fid,plant_name,utility_na,sector_nam,city,county,statename,zip,primsource,total_mw,tech_desc
+powerplant_geothermal_2020.1,1,Geysers Unit 5-20,Geysers Power Co LLC,IPP Non-CHP,Middletown,Sonoma,California,95461,geothermal,644,Geothermal
+powerplant_geothermal_2020.2,2,Blundell,PacifiCorp,Electric Utility,Milford,Beaver,Utah,84751,geothermal,34,Geothermal
+powerplant_geothermal_2020.3,3,Sonoma California Geothermal,Geysers Power Co LLC,IPP Non-CHP,Middletown,Lake,California,95461,geothermal,50,Geothermal
+powerplant_geothermal_2020.4,4,Bottle Rock Power,Bottle Rock Power LLC,IPP Non-CHP,Cobb,Lake,California,95426,geothermal,9,Geothermal
+powerplant_geothermal_2020.5,5,Geothermal 1,Northern California Power Agny,Electric Utility,Middletown,Sonoma,California,95461,geothermal,47,Geothermal
+powerplant_geothermal_2020.6,6,Geothermal 2,Northern California Power Agny,Electric Utility,Middletown,Sonoma,California,95461,geothermal,66,Geothermal
+powerplant_geothermal_2020.7,7,Desert Peak Power Plant,Ormat Nevada Inc,IPP Non-CHP,Fernley,Lyon,Nevada,89406,geothermal,17.3,Geothermal
+powerplant_geothermal_2020.8,8,Beowawe Power,Terra-Gen Operating Co-Geo,IPP Non-CHP,Beowawe,Lander,Nevada,89821,geothermal,14.1,Geothermal
+powerplant_geothermal_2020.9,9,Ples I,Ormat Nevada Inc,IPP Non-CHP,Mammoth Lakes,Mono,California,93546,geothermal,9.9,Geothermal
+powerplant_geothermal_2020.10,10,Mammoth Pacific I,Ormat Nevada Inc,IPP Non-CHP,Mammoth lakes,Mono,California,93546,geothermal,6.6,Geothermal
+powerplant_geothermal_2020.11,11,Mammoth Pacific II,Ormat Nevada Inc,IPP Non-CHP,Mammoth Lakes,Mono,California,93546,geothermal,9.9,Geothermal
+powerplant_geothermal_2020.12,12,CE Leathers,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,42,Geothermal
+powerplant_geothermal_2020.13,13,Del Ranch Company,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,42,Geothermal
+powerplant_geothermal_2020.14,14,Elmore Company,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,49,Geothermal
+powerplant_geothermal_2020.15,15,Salton Sea Power Gen Co - Unit 3,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,50,Geothermal
+powerplant_geothermal_2020.16,16,Geo East Mesa III,Ormat Nevada Inc,IPP Non-CHP,Holtville,Imperial,California,92250,geothermal,19.7,Geothermal
+powerplant_geothermal_2020.17,17,Coso Finance Partners,Coso Operating Co LLC,IPP Non-CHP,Inyokern,Inyo,California,93527,geothermal,81.2,Geothermal
+powerplant_geothermal_2020.18,18,Coso Power Developers,Coso Operating Co LLC,IPP Non-CHP,Inyokern,Inyo,California,93527,geothermal,80.3,Geothermal
+powerplant_geothermal_2020.19,19,Coso Energy Developers,Coso Operating Co LLC,IPP Non-CHP,Inyokern,Inyo,California,93527,geothermal,67.8,Geothermal
+powerplant_geothermal_2020.20,20,Salton Sea Power Gen Co Unit 1,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,10,Geothermal
+powerplant_geothermal_2020.21,21,Salton Sea Power Gen Co - Unit 2,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,23.1,Geothermal
+powerplant_geothermal_2020.22,22,Calistoga Power Plant,Geysers Power Co LLC,IPP Non-CHP,Middletown,Lake,California,95461,geothermal,100,Geothermal
+powerplant_geothermal_2020.23,23,Vulcan-BN Geothermal Power Company,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,38,Geothermal
+powerplant_geothermal_2020.24,24,Steamboat Hills LP,Ormat Nevada Inc,IPP Non-CHP,Reno,Washoe,Nevada,89521,geothermal,14.6,Geothermal
+powerplant_geothermal_2020.25,25,Stillwater Facility,Enel Stillwater LLC,IPP Non-CHP,Fallon,Churchill,Nevada,89406,geothermal,62.2,Geothermal; Solar Photovoltaic;
+powerplant_geothermal_2020.26,26,Ormesa I,Ormat Nevada Inc,IPP Non-CHP,Holtville,Imperial,California,92250,geothermal,17.6,Geothermal
+powerplant_geothermal_2020.27,27,Amedee Geothermal Venture I,Amedee Gethrm Venture I LP,IPP Non-CHP,Amedee,Lassen,California,96127,geothermal,2.2,Geothermal
+powerplant_geothermal_2020.28,28,Terra-Gen Dixie Valley,Terra-Gen Operating Co-Geo,IPP Non-CHP,Fallon,Churchill,Nevada,89406,geothermal,58.5,Geothermal
+powerplant_geothermal_2020.29,29,Puna Geothermal Venture I,Puna Geothermal Venture,IPP Non-CHP,Pahoa,Hawaii,Hawaii,96778,geothermal,43,Geothermal
+powerplant_geothermal_2020.30,30,Aidlin Geothermal Power Plant,Geysers Power Co LLC,IPP Non-CHP,Middletown,Sonoma,California,95425,geothermal,18,Geothermal
+powerplant_geothermal_2020.31,31,Soda Lake Geothermal No I II,Cyrq Energy Corp,IPP Non-CHP,Fallon,Churchill,Nevada,89406,geothermal,7.6,Geothermal
+powerplant_geothermal_2020.32,32,Geo East Mesa II,Ormat Nevada Inc,IPP Non-CHP,Holtville,Imperial,California,92250,geothermal,14.4,Geothermal
+powerplant_geothermal_2020.33,33,Second Imperial Geothermal,"ORCAL Geothermal, Inc",IPP Non-CHP,Heber,Imperial,California,92249,geothermal,64.8,Geothermal
+powerplant_geothermal_2020.34,34,Steamboat II,Steamboat Development Corp,IPP Non-CHP,Reno,Washoe,Nevada,89521,geothermal,10.8,Geothermal
+powerplant_geothermal_2020.35,35,Steamboat III,Steamboat Development Corp,IPP Non-CHP,Reno,Washoe,Nevada,89521,geothermal,10.8,Geothermal
+powerplant_geothermal_2020.36,36,Heber Geothermal,"ORCAL Geothermal, Inc",IPP Non-CHP,Heber,Imperial,California,92249,geothermal,54.3,Geothermal
+powerplant_geothermal_2020.37,37,Ormesa II,Ormat Nevada Inc,IPP Non-CHP,Holtville,Imperial,California,92250,geothermal,16,Geothermal
+powerplant_geothermal_2020.38,38,Salton Sea Power Gen Co - Unit 4,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,44,Geothermal
+powerplant_geothermal_2020.39,39,Salton Sea Power LLC - Unit 5,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,46,Geothermal
+powerplant_geothermal_2020.40,40,CE Turbo LLC,CalEnergy Operating Corporation,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,10,Geothermal
+powerplant_geothermal_2020.41,41,Brady,Ormat Nevada Inc,IPP Non-CHP,Fallon,Churchill,Nevada,89406,geothermal,14.3,Geothermal
+powerplant_geothermal_2020.42,42,Raft River Geothermal Power Plant,US Geothermal Inc.,IPP Non-CHP,Malta,Cassia,Idaho,83342,geothermal,10,Geothermal
+powerplant_geothermal_2020.43,43,Richard Burdette Geothermal,Ormat Nevada Inc,IPP Non-CHP,Reno,Washoe,Nevada,89521,geothermal,20,Geothermal
+powerplant_geothermal_2020.44,44,Galena 2 Geothermal Power Plant,Ormat Nevada Inc,IPP Non-CHP,Reno,Washoe,Nevada,89511,geothermal,9,Geothermal
+powerplant_geothermal_2020.45,45,Galena 3 Geothermal Power Plant,Ormat Nevada Inc,IPP Non-CHP,Reno,Washoe,Nevada,89521,geothermal,20,Geothermal
+powerplant_geothermal_2020.46,46,North Brawley Geothermal Plant,Ormat Nevada Inc,IPP Non-CHP,Brawley,Imperial,California,92250,geothermal,53.5,Geothermal
+powerplant_geothermal_2020.47,47,NGP Blue Mountain I LLC,NGP Blue Mountain I LLC,IPP Non-CHP,Winnemucca,Humboldt,Nevada,89445,geothermal,39,Geothermal
+powerplant_geothermal_2020.48,48,ENEL Salt Wells LLC,ENEL Salt Wells LLC,IPP Non-CHP,Fallon,Churchill,Nevada,89406,geothermal,20.2,Geothermal
+powerplant_geothermal_2020.49,49,Thermo No 1,Thermo No 1 BE 01 LLC,IPP Non-CHP,Milford,Beaver,Utah,84751,geothermal,14,Geothermal
+powerplant_geothermal_2020.50,50,Jersey Valley Geothermal Power Plant,Ormat Nevada Inc,IPP Non-CHP,Imlay,Pershing,Nevada,89418,geothermal,15.6,Geothermal
+powerplant_geothermal_2020.51,51,McGinness Hills,Ormat Nevada Inc,IPP Non-CHP,Austin,Lander,Nevada,89310,geothermal,66.6,Geothermal
+powerplant_geothermal_2020.52,52,Tuscarora Geothermal Power Plant,Ormat Nevada Inc,IPP Non-CHP,Tuscarora,Elko,Nevada,89834,geothermal,21.4,Geothermal
+powerplant_geothermal_2020.53,53,San Emidio,USG Nevada LLC,IPP Non-CHP,Gerlach,Washoe,Nevada,89412,geothermal,6,Geothermal
+powerplant_geothermal_2020.54,54,John L. Featherstone Plant,,IPP Non-CHP,Calipatria,Imperial,California,92233,geothermal,49.9,Geothermal
+powerplant_geothermal_2020.55,55,Neal Hot Springs Geothermal Project,US Geothermal Inc.,IPP Non-CHP,Vale,Malheur,Oregon,97918,geothermal,17.7,Geothermal
+powerplant_geothermal_2020.56,56,"Patua Acquisition Project, LLC","Patua Acquisition Company, LLC",IPP Non-CHP,Hazen,Churchill,Nevada,89408,geothermal,40.6,Geothermal; Solar Photovoltaic;
+powerplant_geothermal_2020.57,57,Don A Campbell 1 Geothermal,"ORNI 47, LLC",IPP Non-CHP,Gabbs,Mineral,Nevada,89420,geothermal,14.8,Geothermal
+powerplant_geothermal_2020.58,58,Enel Cove Fort,Enel Cove Fort LLC,IPP Non-CHP,Cove Fort,Beaver,Utah,84713,geothermal,25,Geothermal
+powerplant_geothermal_2020.59,59,"Lightning Dock Geothermal HI-01, LLC","Lightning Dock Geothermal HI-01, LLC",IPP Non-CHP,Animas,Hidalgo,New Mexico,88020,geothermal,8.6,Geothermal
+powerplant_geothermal_2020.60,60,Paisley Geothermal Generating Plant,Surprise Valley Electrification,Electric Utility,Paisley,Lake,Oregon,97636,geothermal,1.8,Geothermal
+powerplant_geothermal_2020.61,61,Don A Campbell 2 Geothermal,ORNI 37 LLC,IPP Non-CHP,Luning,Mineral,Nevada,89420,geothermal,16.2,Geothermal
+powerplant_geothermal_2020.62,62,Tungsten Mountain,Tungsten Mountain,IPP Non-CHP,Fallon,Churchill,Nevada,89406,geothermal,31.7,Geothermal; Solar Photovoltaic;
+powerplant_geothermal_2020.63,63,McGinness Hills 3,Ormat Nevada Inc,Commercial Non-CHP,Austin,Lander,Nevada,89310,geothermal,49.4,Geothermal
+powerplant_geothermal_2020.64,64,Whitegrass No. 1,Open Mountain Energy LLC.,IPP Non-CHP,Yerington,Lyon,Nevada,89447,geothermal,6.4,Geothermal
+powerplant_geothermal_2020.65,65,Soda Lake 3,"AMOR IX, LLC",IPP Non-CHP,Fallon,Churchill,Nevada,89406,geothermal,20,Geothermal

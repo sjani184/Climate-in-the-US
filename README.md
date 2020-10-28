@@ -1,7 +1,7 @@
 # Enviornmental Dashboard
 Team 9 - Aravind Selvin, Juan Fernando Castellanos, Oscar Safie, Shahil Jani
 ## Objective
-Deep dive into the different factors that are affecting the enviornment in the US and the way people respond to these factors.  
+Deep dive into the different factors that are affecting the environment in the US and the way people respond to these factors.  
 
 ## Visualizations
 

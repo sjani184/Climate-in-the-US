@@ -11,14 +11,11 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="Dashboard/css/style.css"></script>
   <script src="Dashboard/java/logic.js"></script>
-  
-  <style>
-  .fakeimg {
-    height: 200px;
-    background: #aaa;
-    border-image-source: ;
-  }
-  </style>
+  <script src="Dashboard/java/popup.js"></script>
+  <script> $(function () {
+    $('[data-toggle="popover"]').popover()
+  })
+</script>
 </head>
 <body>
 
@@ -33,15 +30,20 @@
         <a class="nav-link" href="#map">Map</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#evsales">EV Sales Predictions
-        </a>
+        <a class="nav-link" href="#evsales">EV Sales</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Environmental Awareness</a>
+        <a class="nav-link" href="#renewable">Energy Consumption</a>
       </li> 
       <li class="nav-item">
-        <a class="nav-link" href="#">Environmental Factors</a>
-      </li>       
+        <a class="nav-link" href="#awareness">Environmental Awareness</a>
+      </li>  
+      <li class="nav-item">
+        <a class="nav-link" href="#about">About this Project</a>
+      </li>   
+      <li class="nav-item">
+        <a class="nav-link" href="#team">Our Team</a>
+      </li>      
     </ul>
   </div>  
 </nav>
@@ -50,7 +52,7 @@
   <div class="overlay">
     <h1>Environmental Dashboard</h1>
     <hr>
-    <p>Deep dive into the different factors that are affecting the environment and the way people respond to these factors.</p> 
+    <h5>Deep dive into the different factors that are affecting the environment in the US and the way people respond to these factors.</h5> 
   </div>
   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
@@ -80,93 +82,131 @@
   </div>
 
   <div class=container id='map'>
-      <hr>
-      <hr>
-      <hr>
-    <div class="row">
-      <div class="col-md-8 col-sm-12">
-            <div class='tableauPlaceholder' id='viz1603842167841' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;T5&#47;T5KHRMSBN&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;T5KHRMSBN' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;T5&#47;T5KHRMSBN&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1603842167841');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='877px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-      </div>
-            <div class="col-md-4 col-sm-12">
-
-              <h5><i>Map Dashboard</i></h5>
-              <p>Representation of primary source of energy on the US map with total energy production and number of sources for identified primary energy.</p>
-          </div>
-    </div>
+    <br>
+    <br>
+    <br>
+      <button type="button" class="btn btn-lg btn-success" data-toggle="popover" data-placement="right" title="Map Dashboard" data-content="Representation of primary source of energy on the US map with total energy production and number of sources for identified primary energy.">Energy Plants Across the US</button>
+        <div class='tableauPlaceholder' id='viz1603842167841' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;T5&#47;T5KHRMSBN&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;T5KHRMSBN' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;T5&#47;T5KHRMSBN&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1603842167841');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='877px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>       
   </div>
 
 
-  <div class=container id=evsales>
-    <hr>
-    <hr>
-    <hr>
+  <div class=container id='evsales'>
+    <br>
+    <br>
+    <br>
+    <button type="button" class="btn btn-lg btn-success" data-toggle="popover" data-placement="right" title="EV Sales Predictions" data-content="Representation of car sales over from 1990 - 2018 and linear prediction of car sales from 2019 - 2025">Total Car Sales vs EV Sales</button>
     <div class='tableauPlaceholder' id='viz1603842774635' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RenewableEnergyvsEVcarsales&#47;EVcarsales&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RenewableEnergyvsEVcarsales&#47;EVcarsales' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RenewableEnergyvsEVcarsales&#47;EVcarsales&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1603842774635');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
   </div>
 
-  <div class="container" id=renewable>
-    <hr>
-    <hr>
-    <hr>
+  <div class="container" id='renewable'>
+    <br>
+    <br>
+    <br>
+    <button type="button" class="btn btn-lg btn-success" data-toggle="popover" data-placement="right" title="Emissions per Type of Fuel" data-content="Representation of renewable energy sources in the US and the CO2 emission sources over the years. Possibilities for increase in renewable source generation to reduce the impact of carbon emission.">Renewable Energy vs Carbon Emissions</button>
     <div class='tableauPlaceholder' id='viz1603842922335' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RenewableEnergyvsEVcarsales&#47;EnergyandEmission&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='RenewableEnergyvsEVcarsales&#47;EnergyandEmission' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Re&#47;RenewableEnergyvsEVcarsales&#47;EnergyandEmission&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1603842922335');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='777px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
   </div>
 
-<div class="row">
-  <div class="col-md-8 col-sm-12">
+  <div class="container" id=awareness>
+    <br>
+    <br>
+    <br>
+    <button type="button" class="btn btn-lg btn-success" data-toggle="popover" data-placement="right" title="Views on Global Warming" data-content="Public opinion parameters are based on national survey data collected between 2008 and 2018 as part of the Climate Change in the American Mind (CCAM) project led by the Yale Program on Climate Change Communication and the George Mason Center for Climate Change Communication. Percentages refer to positive responses to questions (e.g., “Agree” or “Support”).">Environmental Awareness</button>
     <div id='myDiv'></div>
   </div>
-  <div class="col-md-4">
-    
 
-  </div>
-</div>
-  
-
- 
-
-
-
-  <div class="container" style="margin-top:30px">
+      
+  <div class="container" style="margin-top:30px" id='about'>
+    <br>
+    <br>
+    <br>
     <div class="row">
       <div class="col-sm-4">
-        <h2>About Me</h2>
-        <h5>Photo of me:</h5>
-        <div class="fakeimg">Fake Image</div>
-        <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
-        <h3>Some Links</h3>
-        <p>Lorem ipsum dolor sit ame.</p>
+        <h2>About this Project</h2>
+        <h5>Questions to Answer</h5>
+        <div class="fakeimg">
+          <img src="Dashboard/images/earth.jpg" alt="earth" width="100%"> 
+        </div>
+        <p>What external environmental factors affect human decisions?</p>
+        <p>What are the impacts of renewable energy sources on fossil fuel?</p>
+        <h3>Project Repository</h3>
         <ul class="nav nav-pills flex-column">
           <li class="nav-item">
-            <a class="nav-link active" href="#">Active</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#">Disabled</a>
+            <a class="nav-link" href="https://github.com/sjani184/Climate-in-the-US.git"  target="_blank">GitHub Repository</a>
           </li>
         </ul>
         <hr class="d-sm-none">
       </div>
+
       <div class="col-sm-8">
-        <h2>TITLE HEADING</h2>
-        <h5>Title description, Dec 7, 2017</h5>
-        <div class="fakeimg">Fake Image</div>
-        <p>Some text..</p>
-        <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+        <h2>Conclusion</h2>
         <br>
-        <h2>TITLE HEADING</h2>
-        <h5>Title description, Sep 2, 2017</h5>
-        <div class="fakeimg">Fake Image</div>
-        <p>Some text..</p>
-        <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+        <div>
+          <img src="Dashboard/images/fire.jpg" alt="fire" width="100%"> 
+        </div>
+        <br>
+        <p>As awareness of climate change continues to climb in the United States, more and more people and industries are turning to renewable energy. These renewable resources ultimately do not produce carbon emissions leading to cleaner and more efficient energy sources. Our models predict that renewable energy will continue to increase in the United States, potentially replacing non-renewable energy as our main energy provider. Sales of Eletric Vehicles (EV) will also continue to increase as these cars become cheaper and more accessible.</p>
+      </div>
+      
+      <div class="col-sm-12" id=team>
+        <h2>Our Team</h2>
+          <div class="row">
+            <div class="col-md-3">
+              <div class="card">
+                <img src="Dashboard/images/juan.jpg" alt="Juan" width="100%">
+                <div class="container">
+                  <h3>Juan Castellanos</h3>
+                  <p class="title">Team Member</p>
+                  <a href='https://github.com/juanferc' target="_blank">
+                    <p><button class="btn btn-primary">Contact</button></p>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="card">
+                <img src="Dashboard/images/shahil.jpg" alt="Shahil" width="100%">
+                <div class="container">
+                  <h3>Shahil Jani</h3>
+                  <p class="title">Team Member</p>
+                  <a href='https://github.com/sjani184' target="_blank">
+                    <p><button class="btn btn-primary">Contact</button></p>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="card">
+                <img src="Dashboard/images/aravind.jpg" alt="Aravind" width="100%">
+                <div class="container">
+                  <h3>Aravind Selvan</h3>
+                  <p class="title">Team Member</p>
+                  <a href='https://github.com/aselvan8' target="_blank">
+                    <p><button class="btn btn-primary">Contact</button></p>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3">
+              <div class="card">
+                <img src="Dashboard/images/oscar.jpg" alt="Oscar" width="100%">
+                <div class="container">
+                  <h3>Oscar Safie</h3>
+                  <p class="title">Team Member</p>
+                  <a href='https://github.com/safieoscar' target="_blank">
+                    <p><button class="btn btn-primary">Contact</button></p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+      </div>
+        
       </div>
     </div>
   </div>
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <p>Footer</p>
+  <p>Project 03 Team 10</p>
+  <p>Copyright 2020</p>
   </div>
   
 </body>

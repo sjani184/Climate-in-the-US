@@ -15,5 +15,6 @@ https://www.bts.gov/content/sales-hybrid-vehicles-united-states
 
 https://www.bts.gov/content/us-energy-consumption-transportation-sector
 
+https://data.worldbank.org/indicator/EG.ELC.RNEW.ZS
 
 ## Conclusions

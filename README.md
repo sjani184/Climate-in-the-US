@@ -7,11 +7,19 @@ Deep dive into the different factors that are affecting the environment in the U
 
 ![Energy_Map](https://raw.githubusercontent.com/sjani184/Climate-in-the-US/main/Dashboard/images/Energy%20Map.JPG)
 
+Representation of primary source of energy on the US map with total energy production and number of sources for identified primary energy.
+
 ![EV_Sales](https://raw.githubusercontent.com/sjani184/Climate-in-the-US/main/Dashboard/images/EV%20Sales.JPG)
+
+Representation of car sales over from 1990 - 2018 and linear prediction of car sales from 2019 - 2025.
 
 ![CO2_Emissions](https://raw.githubusercontent.com/sjani184/Climate-in-the-US/main/Dashboard/images/Co2%20Emissions.JPG)
 
+Representation of renewable energy sources in the US and the CO2 emission sources over the years. Possibilities for increase in renewable source generation to reduce the impact of carbon emission.
+
 ![Climate_views](https://raw.githubusercontent.com/sjani184/Climate-in-the-US/main/Dashboard/images/climate%20views%20over%20time.JPG)
+
+Public opinion parameters are based on national survey data collected between 2008 and 2018 as part of the Climate Change in the American Mind (CCAM) project led by the Yale Program on Climate Change Communication and the George Mason Center for Climate Change Communication. Percentages refer to positive responses to questions (e.g., “Agree” or “Support”).
 
 
 ## Data Sources

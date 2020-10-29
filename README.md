@@ -5,6 +5,14 @@ Deep dive into the different factors that are affecting the environment in the U
 
 ## Visualizations
 
+![Energy_Map](https://raw.githubusercontent.com/sjani184/Climate-in-the-US/main/Dashboard/images/Energy%20Map.JPG)
+
+![EV_Sales](https://raw.githubusercontent.com/sjani184/Climate-in-the-US/main/Dashboard/images/EV%20Sales.JPG)
+
+![CO2_Emissions](https://raw.githubusercontent.com/sjani184/Climate-in-the-US/main/Dashboard/images/Co2%20Emissions.JPG)
+
+![Climate_views](https://raw.githubusercontent.com/sjani184/Climate-in-the-US/main/Dashboard/images/climate%20views%20over%20time.JPG)
+
 
 ## Data Sources
 https://climatecommunication.yale.edu/visualizations-data/americans-climate-views/
